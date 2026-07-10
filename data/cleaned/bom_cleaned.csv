@@ -1,0 +1,6475 @@
+SKU,Component,Supplier,Cost
+LP0001,GPU,CoolTech,112
+LP0001,RAM,GreenCell,314
+LP0001,Speaker,KeyTech,436
+LP0001,Touchpad,VisionDisplay,389
+LP0001,Keyboard,Samsung,431
+LP0001,Battery,KeyTech,304
+LP0002,GPU,GreenCell,235
+LP0002,Keyboard,CoolTech,88
+LP0002,Battery,Kingston,422
+LP0002,Touchpad,CoolTech,173
+LP0002,RAM,Samsung,307
+LP0002,Display,IntelWorks,223
+LP0002,Speaker,VisionDisplay,373
+LP0002,Motherboard,GreenCell,50
+LP0003,SSD,Samsung,204
+LP0003,Cooling Fan,Kingston,306
+LP0003,Display,Samsung,196
+LP0003,Keyboard,IntelWorks,230
+LP0003,RAM,VisionDisplay,199
+LP0003,Battery,KeyTech,315
+LP0004,SSD,CoolTech,475
+LP0004,RAM,VisionDisplay,215
+LP0004,Speaker,Samsung,257
+LP0004,Cooling Fan,GreenCell,464
+LP0004,Touchpad,GreenCell,347
+LP0004,Keyboard,Kingston,235
+LP0005,Display,Samsung,383
+LP0005,Touchpad,Samsung,329
+LP0005,Battery,Nvidia,158
+LP0005,Cooling Fan,CoolTech,419
+LP0005,Speaker,Kingston,402
+LP0005,GPU,CoolTech,231
+LP0005,SSD,GreenCell,114
+LP0005,Keyboard,IntelWorks,84
+LP0006,SSD,VisionDisplay,52
+LP0006,Display,CoolTech,300
+LP0006,Keyboard,IntelWorks,33
+LP0006,Speaker,Nvidia,288
+LP0006,Cooling Fan,VisionDisplay,73
+LP0006,Motherboard,Samsung,336
+LP0007,Display,CoolTech,340
+LP0007,GPU,GreenCell,87
+LP0007,SSD,GreenCell,34
+LP0007,Touchpad,IntelWorks,359
+LP0007,Speaker,Kingston,460
+LP0007,Battery,Kingston,462
+LP0008,Cooling Fan,CoolTech,343
+LP0008,Speaker,Nvidia,288
+LP0008,SSD,Samsung,485
+LP0008,Touchpad,Kingston,266
+LP0008,Keyboard,KeyTech,432
+LP0008,Display,VisionDisplay,246
+LP0008,GPU,Samsung,207
+LP0008,Battery,Nvidia,153
+LP0009,SSD,Samsung,260
+LP0009,Motherboard,IntelWorks,372
+LP0009,Speaker,CoolTech,406
+LP0009,Touchpad,CoolTech,173
+LP0009,Display,IntelWorks,412
+LP0009,Battery,Nvidia,428
+LP0010,Touchpad,Nvidia,222
+LP0010,Keyboard,KeyTech,103
+LP0010,Motherboard,Nvidia,444
+LP0010,SSD,Nvidia,132
+LP0010,Battery,Samsung,60
+LP0010,Display,Nvidia,340
+LP0010,Speaker,KeyTech,284
+LP0011,SSD,GreenCell,168
+LP0011,Speaker,VisionDisplay,346
+LP0011,Touchpad,CoolTech,336
+LP0011,Keyboard,CoolTech,159
+LP0011,Display,CoolTech,116
+LP0011,Motherboard,Kingston,29
+LP0011,RAM,GreenCell,45
+LP0012,Battery,CoolTech,392
+LP0012,Display,IntelWorks,139
+LP0012,SSD,VisionDisplay,97
+LP0012,Touchpad,IntelWorks,272
+LP0012,Speaker,KeyTech,195
+LP0013,SSD,GreenCell,48
+LP0013,Cooling Fan,Samsung,417
+LP0013,RAM,Nvidia,56
+LP0013,Keyboard,CoolTech,112
+LP0013,Speaker,KeyTech,478
+LP0013,Motherboard,Samsung,438
+LP0013,Battery,Nvidia,444
+LP0013,Touchpad,IntelWorks,82
+LP0014,GPU,CoolTech,396
+LP0014,Cooling Fan,VisionDisplay,286
+LP0014,Keyboard,KeyTech,262
+LP0014,RAM,Nvidia,368
+LP0014,Motherboard,Samsung,499
+LP0014,Display,Kingston,101
+LP0015,Speaker,Samsung,121
+LP0015,Touchpad,Kingston,474
+LP0015,Display,IntelWorks,462
+LP0015,Battery,KeyTech,77
+LP0015,Keyboard,KeyTech,344
+LP0016,RAM,KeyTech,24
+LP0016,Motherboard,IntelWorks,317
+LP0016,Battery,CoolTech,372
+LP0016,GPU,GreenCell,210
+LP0016,Cooling Fan,VisionDisplay,147
+LP0016,SSD,GreenCell,275
+LP0016,Speaker,VisionDisplay,371
+LP0016,Display,Kingston,496
+LP0017,Motherboard,VisionDisplay,84
+LP0017,RAM,CoolTech,139
+LP0017,Battery,Kingston,305
+LP0017,Speaker,Kingston,432
+LP0017,SSD,CoolTech,395
+LP0018,Motherboard,IntelWorks,268
+LP0018,GPU,CoolTech,306
+LP0018,RAM,Samsung,297
+LP0018,Cooling Fan,CoolTech,117
+LP0018,Display,GreenCell,298
+LP0018,Battery,Kingston,185
+LP0019,SSD,Samsung,297
+LP0019,Speaker,Kingston,252
+LP0019,Battery,IntelWorks,417
+LP0019,Motherboard,Nvidia,395
+LP0019,Touchpad,GreenCell,472
+LP0019,Display,IntelWorks,337
+LP0019,Keyboard,Kingston,417
+LP0019,RAM,KeyTech,184
+LP0020,Speaker,CoolTech,412
+LP0020,GPU,GreenCell,333
+LP0020,Keyboard,Samsung,185
+LP0020,SSD,Nvidia,348
+LP0020,RAM,Kingston,76
+LP0021,Speaker,GreenCell,467
+LP0021,Display,IntelWorks,123
+LP0021,Motherboard,VisionDisplay,268
+LP0021,GPU,KeyTech,70
+LP0021,Touchpad,IntelWorks,312
+LP0022,Cooling Fan,KeyTech,355
+LP0022,Speaker,CoolTech,495
+LP0022,SSD,VisionDisplay,259
+LP0022,Motherboard,IntelWorks,204
+LP0022,Battery,Nvidia,440
+LP0022,Display,Kingston,426
+LP0022,GPU,IntelWorks,441
+LP0022,Keyboard,Samsung,290
+LP0023,Display,VisionDisplay,71
+LP0023,SSD,KeyTech,292
+LP0023,Touchpad,Nvidia,117
+LP0023,Cooling Fan,KeyTech,289
+LP0023,Speaker,KeyTech,311
+LP0024,Speaker,Kingston,365
+LP0024,Touchpad,CoolTech,379
+LP0024,GPU,Nvidia,472
+LP0024,RAM,VisionDisplay,105
+LP0024,Motherboard,GreenCell,301
+LP0024,SSD,Nvidia,278
+LP0025,Battery,Kingston,231
+LP0025,Speaker,Nvidia,442
+LP0025,Cooling Fan,Kingston,331
+LP0025,Touchpad,KeyTech,308
+LP0025,GPU,KeyTech,212
+LP0025,SSD,Samsung,204
+LP0025,RAM,CoolTech,249
+LP0026,Motherboard,IntelWorks,173
+LP0026,Touchpad,KeyTech,129
+LP0026,SSD,Kingston,31
+LP0026,Cooling Fan,Samsung,490
+LP0026,Speaker,GreenCell,68
+LP0026,GPU,IntelWorks,255
+LP0026,Display,Kingston,99
+LP0026,Keyboard,GreenCell,155
+LP0027,Touchpad,KeyTech,395
+LP0027,Keyboard,VisionDisplay,390
+LP0027,Speaker,Kingston,425
+LP0027,Battery,CoolTech,108
+LP0027,GPU,CoolTech,442
+LP0027,Motherboard,VisionDisplay,324
+LP0027,Cooling Fan,Samsung,39
+LP0028,Display,IntelWorks,344
+LP0028,Motherboard,Nvidia,47
+LP0028,RAM,Samsung,288
+LP0028,Battery,IntelWorks,183
+LP0028,Keyboard,GreenCell,187
+LP0028,Cooling Fan,KeyTech,98
+LP0028,Speaker,IntelWorks,364
+LP0028,SSD,Nvidia,248
+LP0029,Keyboard,GreenCell,87
+LP0029,GPU,Kingston,62
+LP0029,SSD,CoolTech,312
+LP0029,Speaker,IntelWorks,300
+LP0029,Touchpad,Nvidia,154
+LP0030,GPU,GreenCell,410
+LP0030,Speaker,GreenCell,266
+LP0030,Touchpad,KeyTech,269
+LP0030,Cooling Fan,Nvidia,353
+LP0030,RAM,KeyTech,307
+LP0031,Keyboard,VisionDisplay,77
+LP0031,Display,Nvidia,236
+LP0031,SSD,Kingston,198
+LP0031,GPU,KeyTech,184
+LP0031,Touchpad,Kingston,324
+LP0031,Battery,IntelWorks,414
+LP0032,Battery,KeyTech,122
+LP0032,RAM,Kingston,99
+LP0032,Cooling Fan,VisionDisplay,77
+LP0032,SSD,IntelWorks,144
+LP0032,Display,GreenCell,464
+LP0032,Keyboard,Samsung,27
+LP0032,Motherboard,Kingston,375
+LP0033,SSD,KeyTech,398
+LP0033,Cooling Fan,KeyTech,124
+LP0033,Speaker,Samsung,300
+LP0033,Motherboard,CoolTech,338
+LP0033,Battery,GreenCell,375
+LP0034,GPU,IntelWorks,165
+LP0034,Speaker,KeyTech,424
+LP0034,Motherboard,Samsung,47
+LP0034,Battery,CoolTech,355
+LP0034,Display,IntelWorks,54
+LP0035,SSD,VisionDisplay,482
+LP0035,RAM,Kingston,268
+LP0035,Display,VisionDisplay,115
+LP0035,Motherboard,KeyTech,276
+LP0035,Battery,CoolTech,307
+LP0035,Keyboard,IntelWorks,40
+LP0035,Cooling Fan,KeyTech,492
+LP0035,Touchpad,Samsung,190
+LP0036,GPU,Samsung,140
+LP0036,Battery,Samsung,435
+LP0036,Motherboard,IntelWorks,340
+LP0036,Speaker,Samsung,469
+LP0036,RAM,Nvidia,475
+LP0036,Touchpad,IntelWorks,304
+LP0036,SSD,Samsung,135
+LP0036,Keyboard,GreenCell,194
+LP0037,Battery,KeyTech,313
+LP0037,Display,GreenCell,238
+LP0037,GPU,Samsung,485
+LP0037,SSD,Kingston,249
+LP0037,RAM,GreenCell,125
+LP0037,Cooling Fan,GreenCell,317
+LP0037,Speaker,KeyTech,461
+LP0037,Keyboard,GreenCell,178
+LP0038,GPU,VisionDisplay,114
+LP0038,Battery,Kingston,449
+LP0038,Speaker,GreenCell,392
+LP0038,Cooling Fan,IntelWorks,411
+LP0038,Motherboard,Kingston,470
+LP0038,SSD,Nvidia,230
+LP0039,Cooling Fan,GreenCell,33
+LP0039,SSD,Samsung,330
+LP0039,Battery,KeyTech,325
+LP0039,GPU,KeyTech,138
+LP0039,Display,IntelWorks,203
+LP0039,Motherboard,VisionDisplay,372
+LP0039,RAM,CoolTech,88
+LP0040,RAM,KeyTech,36
+LP0040,Battery,Nvidia,411
+LP0040,GPU,IntelWorks,493
+LP0040,Keyboard,Samsung,231
+LP0040,Cooling Fan,KeyTech,400
+LP0040,Display,KeyTech,407
+LP0040,SSD,KeyTech,53
+LP0040,Motherboard,GreenCell,494
+LP0041,Touchpad,IntelWorks,331
+LP0041,Cooling Fan,Nvidia,388
+LP0041,RAM,Kingston,221
+LP0041,GPU,IntelWorks,286
+LP0041,Keyboard,VisionDisplay,251
+LP0041,Display,CoolTech,443
+LP0041,Speaker,IntelWorks,469
+LP0041,SSD,KeyTech,285
+LP0042,Motherboard,CoolTech,223
+LP0042,Speaker,Samsung,416
+LP0042,GPU,Samsung,256
+LP0042,SSD,GreenCell,236
+LP0042,RAM,Samsung,333
+LP0042,Touchpad,IntelWorks,373
+LP0042,Display,GreenCell,257
+LP0042,Keyboard,CoolTech,66
+LP0043,Battery,Kingston,250
+LP0043,Speaker,IntelWorks,111
+LP0043,Touchpad,CoolTech,322
+LP0043,Keyboard,KeyTech,471
+LP0043,GPU,CoolTech,66
+LP0044,RAM,VisionDisplay,288
+LP0044,Battery,Nvidia,392
+LP0044,Display,GreenCell,213
+LP0044,Motherboard,Nvidia,42
+LP0044,GPU,GreenCell,487
+LP0044,Keyboard,Kingston,309
+LP0044,Speaker,GreenCell,103
+LP0045,Battery,Samsung,340
+LP0045,Motherboard,GreenCell,80
+LP0045,GPU,GreenCell,123
+LP0045,Touchpad,IntelWorks,338
+LP0045,Cooling Fan,Samsung,26
+LP0045,Keyboard,CoolTech,274
+LP0046,Speaker,Nvidia,246
+LP0046,Motherboard,VisionDisplay,327
+LP0046,Cooling Fan,IntelWorks,145
+LP0046,Display,Samsung,337
+LP0046,GPU,KeyTech,45
+LP0046,SSD,GreenCell,95
+LP0046,Keyboard,IntelWorks,354
+LP0046,RAM,Kingston,38
+LP0047,Motherboard,Nvidia,111
+LP0047,SSD,GreenCell,364
+LP0047,RAM,Samsung,332
+LP0047,Touchpad,GreenCell,253
+LP0047,GPU,Kingston,496
+LP0047,Cooling Fan,IntelWorks,67
+LP0048,RAM,Samsung,261
+LP0048,Touchpad,GreenCell,82
+LP0048,GPU,Samsung,188
+LP0048,Cooling Fan,Nvidia,288
+LP0048,Motherboard,KeyTech,376
+LP0048,Keyboard,KeyTech,333
+LP0048,Speaker,IntelWorks,75
+LP0049,Cooling Fan,Samsung,289
+LP0049,SSD,Kingston,494
+LP0049,GPU,GreenCell,334
+LP0049,Speaker,CoolTech,286
+LP0049,Battery,CoolTech,272
+LP0050,Touchpad,IntelWorks,258
+LP0050,Keyboard,VisionDisplay,397
+LP0050,SSD,KeyTech,429
+LP0050,Display,Nvidia,231
+LP0050,Motherboard,IntelWorks,190
+LP0050,RAM,Kingston,306
+LP0051,Motherboard,Samsung,279
+LP0051,Keyboard,Kingston,412
+LP0051,SSD,IntelWorks,78
+LP0051,Battery,Kingston,194
+LP0051,Touchpad,Nvidia,390
+LP0051,GPU,IntelWorks,446
+LP0052,Keyboard,IntelWorks,350
+LP0052,RAM,GreenCell,266
+LP0052,Speaker,GreenCell,341
+LP0052,Cooling Fan,CoolTech,476
+LP0052,Touchpad,Kingston,256
+LP0052,GPU,Nvidia,495
+LP0053,Speaker,IntelWorks,126
+LP0053,SSD,Kingston,429
+LP0053,RAM,Kingston,53
+LP0053,Touchpad,GreenCell,163
+LP0053,GPU,IntelWorks,193
+LP0054,Speaker,Kingston,383
+LP0054,Battery,IntelWorks,159
+LP0054,GPU,Nvidia,64
+LP0054,Display,CoolTech,469
+LP0054,SSD,KeyTech,210
+LP0054,Motherboard,CoolTech,444
+LP0054,Touchpad,Samsung,130
+LP0054,Keyboard,Samsung,109
+LP0055,RAM,IntelWorks,429
+LP0055,Motherboard,CoolTech,483
+LP0055,Keyboard,GreenCell,117
+LP0055,Speaker,Kingston,492
+LP0055,Cooling Fan,CoolTech,395
+LP0056,RAM,IntelWorks,255
+LP0056,Battery,Nvidia,385
+LP0056,Display,VisionDisplay,22
+LP0056,GPU,Samsung,497
+LP0056,SSD,IntelWorks,371
+LP0056,Cooling Fan,VisionDisplay,190
+LP0056,Touchpad,CoolTech,475
+LP0057,Display,Samsung,347
+LP0057,Speaker,KeyTech,184
+LP0057,SSD,KeyTech,118
+LP0057,Motherboard,Samsung,161
+LP0057,Cooling Fan,Kingston,415
+LP0058,Display,VisionDisplay,125
+LP0058,SSD,Kingston,301
+LP0058,Battery,Kingston,158
+LP0058,Touchpad,GreenCell,380
+LP0058,Cooling Fan,Samsung,313
+LP0058,Motherboard,KeyTech,107
+LP0058,Speaker,VisionDisplay,179
+LP0058,RAM,Kingston,296
+LP0059,Motherboard,IntelWorks,64
+LP0059,Battery,Nvidia,220
+LP0059,Touchpad,GreenCell,380
+LP0059,Keyboard,CoolTech,335
+LP0059,RAM,Kingston,179
+LP0059,Cooling Fan,Kingston,438
+LP0059,SSD,KeyTech,385
+LP0059,Display,VisionDisplay,492
+LP0060,Touchpad,Samsung,370
+LP0060,Battery,CoolTech,260
+LP0060,Display,KeyTech,134
+LP0060,GPU,GreenCell,460
+LP0060,RAM,Samsung,487
+LP0060,Keyboard,Kingston,220
+LP0060,Motherboard,GreenCell,378
+LP0060,Cooling Fan,Kingston,423
+LP0061,Cooling Fan,CoolTech,256
+LP0061,Touchpad,GreenCell,164
+LP0061,Motherboard,Kingston,329
+LP0061,Speaker,GreenCell,280
+LP0061,Keyboard,VisionDisplay,227
+LP0061,GPU,VisionDisplay,186
+LP0061,Battery,VisionDisplay,425
+LP0062,Speaker,GreenCell,266
+LP0062,Cooling Fan,Nvidia,53
+LP0062,GPU,Kingston,126
+LP0062,SSD,Nvidia,421
+LP0062,Keyboard,Nvidia,310
+LP0062,Display,Kingston,298
+LP0062,Touchpad,KeyTech,108
+LP0063,Touchpad,CoolTech,186
+LP0063,Cooling Fan,VisionDisplay,440
+LP0063,Display,CoolTech,110
+LP0063,SSD,Samsung,227
+LP0063,GPU,VisionDisplay,326
+LP0064,Touchpad,IntelWorks,66
+LP0064,GPU,KeyTech,438
+LP0064,RAM,GreenCell,474
+LP0064,Keyboard,IntelWorks,407
+LP0064,Cooling Fan,GreenCell,358
+LP0065,Cooling Fan,CoolTech,120
+LP0065,Speaker,KeyTech,368
+LP0065,SSD,Kingston,173
+LP0065,Keyboard,Samsung,490
+LP0065,Touchpad,Nvidia,387
+LP0065,RAM,Kingston,65
+LP0066,Touchpad,Samsung,51
+LP0066,Speaker,Kingston,481
+LP0066,GPU,IntelWorks,20
+LP0066,Cooling Fan,Kingston,76
+LP0066,Display,Samsung,463
+LP0067,Keyboard,Nvidia,227
+LP0067,GPU,Nvidia,242
+LP0067,Speaker,KeyTech,359
+LP0067,RAM,GreenCell,263
+LP0067,Battery,GreenCell,116
+LP0068,RAM,VisionDisplay,351
+LP0068,GPU,IntelWorks,93
+LP0068,Battery,CoolTech,356
+LP0068,Cooling Fan,Nvidia,89
+LP0068,Touchpad,VisionDisplay,90
+LP0068,Display,Nvidia,460
+LP0068,SSD,CoolTech,477
+LP0068,Motherboard,Nvidia,339
+LP0069,Cooling Fan,Kingston,135
+LP0069,Speaker,GreenCell,237
+LP0069,GPU,IntelWorks,315
+LP0069,SSD,CoolTech,453
+LP0069,Keyboard,KeyTech,384
+LP0069,RAM,Samsung,230
+LP0070,Motherboard,VisionDisplay,92
+LP0070,Touchpad,Samsung,258
+LP0070,Cooling Fan,VisionDisplay,287
+LP0070,RAM,VisionDisplay,145
+LP0070,Battery,CoolTech,342
+LP0070,Speaker,VisionDisplay,370
+LP0070,Keyboard,Samsung,333
+LP0071,RAM,CoolTech,313
+LP0071,Speaker,Kingston,235
+LP0071,Motherboard,Kingston,428
+LP0071,Keyboard,Samsung,168
+LP0071,GPU,GreenCell,38
+LP0072,Touchpad,IntelWorks,356
+LP0072,SSD,Samsung,434
+LP0072,Motherboard,IntelWorks,166
+LP0072,RAM,CoolTech,62
+LP0072,Keyboard,GreenCell,278
+LP0072,Speaker,VisionDisplay,455
+LP0072,Display,Samsung,149
+LP0073,Touchpad,VisionDisplay,329
+LP0073,SSD,GreenCell,485
+LP0073,Speaker,GreenCell,357
+LP0073,GPU,CoolTech,209
+LP0073,Battery,GreenCell,153
+LP0073,Motherboard,KeyTech,268
+LP0074,Speaker,GreenCell,448
+LP0074,Motherboard,CoolTech,405
+LP0074,RAM,Nvidia,414
+LP0074,Touchpad,Nvidia,141
+LP0074,Display,CoolTech,391
+LP0074,SSD,GreenCell,127
+LP0075,Motherboard,CoolTech,174
+LP0075,SSD,CoolTech,402
+LP0075,Display,KeyTech,214
+LP0075,Touchpad,Nvidia,262
+LP0075,Cooling Fan,Samsung,94
+LP0075,Keyboard,Nvidia,26
+LP0075,Speaker,Samsung,494
+LP0076,GPU,Samsung,191
+LP0076,RAM,Samsung,156
+LP0076,Motherboard,VisionDisplay,150
+LP0076,Cooling Fan,Nvidia,256
+LP0076,SSD,KeyTech,395
+LP0076,Battery,KeyTech,286
+LP0076,Keyboard,Kingston,366
+LP0076,Speaker,GreenCell,180
+LP0077,Motherboard,VisionDisplay,370
+LP0077,Display,CoolTech,199
+LP0077,Touchpad,KeyTech,391
+LP0077,Keyboard,Samsung,148
+LP0077,Cooling Fan,KeyTech,37
+LP0078,Touchpad,KeyTech,326
+LP0078,Display,VisionDisplay,382
+LP0078,Motherboard,VisionDisplay,64
+LP0078,SSD,GreenCell,212
+LP0078,RAM,GreenCell,478
+LP0079,Battery,VisionDisplay,347
+LP0079,SSD,CoolTech,492
+LP0079,Speaker,Samsung,413
+LP0079,Keyboard,Nvidia,374
+LP0079,RAM,Kingston,151
+LP0080,Display,IntelWorks,152
+LP0080,SSD,Samsung,111
+LP0080,Motherboard,CoolTech,55
+LP0080,Keyboard,CoolTech,495
+LP0080,GPU,KeyTech,332
+LP0080,Battery,Nvidia,111
+LP0081,Display,Samsung,72
+LP0081,Battery,IntelWorks,57
+LP0081,GPU,VisionDisplay,312
+LP0081,Touchpad,Samsung,417
+LP0081,SSD,CoolTech,29
+LP0081,Motherboard,CoolTech,96
+LP0081,Keyboard,IntelWorks,497
+LP0081,Speaker,IntelWorks,360
+LP0082,SSD,Nvidia,226
+LP0082,Battery,VisionDisplay,296
+LP0082,RAM,KeyTech,21
+LP0082,Keyboard,Nvidia,372
+LP0082,Touchpad,CoolTech,82
+LP0082,Motherboard,Kingston,190
+LP0082,GPU,Samsung,225
+LP0082,Display,IntelWorks,343
+LP0083,RAM,Samsung,351
+LP0083,Speaker,KeyTech,110
+LP0083,Touchpad,IntelWorks,216
+LP0083,Motherboard,KeyTech,173
+LP0083,Keyboard,Nvidia,478
+LP0084,RAM,KeyTech,91
+LP0084,Cooling Fan,IntelWorks,118
+LP0084,Display,IntelWorks,388
+LP0084,Touchpad,KeyTech,270
+LP0084,Keyboard,Nvidia,52
+LP0085,Cooling Fan,Kingston,423
+LP0085,Speaker,IntelWorks,227
+LP0085,Touchpad,VisionDisplay,128
+LP0085,Motherboard,CoolTech,367
+LP0085,GPU,GreenCell,399
+LP0085,Battery,KeyTech,493
+LP0085,RAM,VisionDisplay,38
+LP0086,Cooling Fan,GreenCell,27
+LP0086,Motherboard,GreenCell,343
+LP0086,Touchpad,IntelWorks,483
+LP0086,SSD,Samsung,440
+LP0086,Speaker,VisionDisplay,253
+LP0086,Display,GreenCell,447
+LP0087,Display,KeyTech,52
+LP0087,Touchpad,KeyTech,238
+LP0087,Cooling Fan,Kingston,435
+LP0087,SSD,Nvidia,186
+LP0087,GPU,VisionDisplay,370
+LP0088,RAM,VisionDisplay,81
+LP0088,Keyboard,Samsung,92
+LP0088,Motherboard,Nvidia,106
+LP0088,SSD,Kingston,303
+LP0088,Display,GreenCell,244
+LP0088,Battery,KeyTech,493
+LP0089,Battery,IntelWorks,470
+LP0089,Display,CoolTech,61
+LP0089,GPU,IntelWorks,23
+LP0089,Cooling Fan,GreenCell,494
+LP0089,Speaker,VisionDisplay,381
+LP0090,GPU,Nvidia,142
+LP0090,Cooling Fan,GreenCell,332
+LP0090,Battery,IntelWorks,325
+LP0090,Display,GreenCell,387
+LP0090,Touchpad,CoolTech,333
+LP0090,Speaker,VisionDisplay,341
+LP0090,Keyboard,Samsung,198
+LP0091,Motherboard,Kingston,461
+LP0091,Speaker,KeyTech,257
+LP0091,Keyboard,KeyTech,161
+LP0091,Display,IntelWorks,119
+LP0091,Touchpad,VisionDisplay,427
+LP0091,SSD,GreenCell,370
+LP0091,RAM,CoolTech,274
+LP0091,Battery,GreenCell,101
+LP0092,Motherboard,Samsung,191
+LP0092,RAM,CoolTech,42
+LP0092,SSD,VisionDisplay,399
+LP0092,Display,IntelWorks,493
+LP0092,Keyboard,GreenCell,100
+LP0093,Cooling Fan,CoolTech,323
+LP0093,Speaker,Kingston,234
+LP0093,Display,KeyTech,402
+LP0093,Motherboard,Kingston,137
+LP0093,Touchpad,VisionDisplay,186
+LP0094,Display,KeyTech,57
+LP0094,Keyboard,CoolTech,319
+LP0094,GPU,CoolTech,47
+LP0094,Cooling Fan,Nvidia,94
+LP0094,Touchpad,KeyTech,495
+LP0094,Speaker,CoolTech,111
+LP0095,RAM,Kingston,85
+LP0095,Battery,IntelWorks,374
+LP0095,Cooling Fan,IntelWorks,163
+LP0095,Touchpad,GreenCell,76
+LP0095,Display,CoolTech,254
+LP0095,Speaker,Nvidia,107
+LP0095,SSD,Kingston,132
+LP0095,Motherboard,Samsung,329
+LP0096,Touchpad,CoolTech,461
+LP0096,Battery,KeyTech,322
+LP0096,Keyboard,CoolTech,448
+LP0096,Motherboard,CoolTech,162
+LP0096,Cooling Fan,IntelWorks,393
+LP0096,SSD,Nvidia,396
+LP0097,Keyboard,GreenCell,487
+LP0097,RAM,IntelWorks,233
+LP0097,GPU,IntelWorks,40
+LP0097,SSD,CoolTech,395
+LP0097,Display,IntelWorks,237
+LP0097,Cooling Fan,Nvidia,265
+LP0098,Cooling Fan,IntelWorks,374
+LP0098,Touchpad,Nvidia,131
+LP0098,Keyboard,GreenCell,203
+LP0098,Motherboard,Samsung,142
+LP0098,SSD,VisionDisplay,28
+LP0099,SSD,CoolTech,415
+LP0099,Battery,GreenCell,467
+LP0099,Cooling Fan,Nvidia,114
+LP0099,GPU,Kingston,340
+LP0099,Touchpad,CoolTech,380
+LP0099,RAM,IntelWorks,460
+LP0099,Motherboard,VisionDisplay,217
+LP0099,Display,Kingston,291
+LP0100,SSD,KeyTech,423
+LP0100,GPU,VisionDisplay,337
+LP0100,Touchpad,Kingston,396
+LP0100,RAM,IntelWorks,283
+LP0100,Cooling Fan,Kingston,474
+LP0101,Display,IntelWorks,207
+LP0101,GPU,Kingston,109
+LP0101,RAM,VisionDisplay,307
+LP0101,Keyboard,KeyTech,90
+LP0101,SSD,Kingston,142
+LP0102,Cooling Fan,Samsung,277
+LP0102,Keyboard,Nvidia,161
+LP0102,Speaker,IntelWorks,52
+LP0102,Battery,Kingston,196
+LP0102,GPU,CoolTech,268
+LP0103,Cooling Fan,Kingston,429
+LP0103,Speaker,VisionDisplay,116
+LP0103,SSD,CoolTech,64
+LP0103,Keyboard,VisionDisplay,220
+LP0103,Touchpad,GreenCell,167
+LP0104,Display,GreenCell,274
+LP0104,Battery,GreenCell,467
+LP0104,SSD,KeyTech,286
+LP0104,Motherboard,IntelWorks,170
+LP0104,RAM,Nvidia,369
+LP0105,Cooling Fan,Samsung,116
+LP0105,RAM,VisionDisplay,31
+LP0105,GPU,KeyTech,447
+LP0105,Keyboard,Kingston,230
+LP0105,Speaker,Kingston,355
+LP0105,Motherboard,Kingston,268
+LP0106,Cooling Fan,CoolTech,210
+LP0106,SSD,Samsung,414
+LP0106,Battery,IntelWorks,95
+LP0106,GPU,Kingston,165
+LP0106,Touchpad,CoolTech,105
+LP0106,Display,GreenCell,384
+LP0106,RAM,Samsung,113
+LP0106,Motherboard,GreenCell,449
+LP0107,Battery,GreenCell,245
+LP0107,Keyboard,Samsung,209
+LP0107,Display,GreenCell,125
+LP0107,Motherboard,IntelWorks,360
+LP0107,Touchpad,Kingston,196
+LP0107,SSD,GreenCell,210
+LP0108,Speaker,CoolTech,495
+LP0108,Battery,Kingston,99
+LP0108,SSD,IntelWorks,398
+LP0108,Motherboard,Kingston,351
+LP0108,GPU,Samsung,262
+LP0108,Keyboard,Samsung,406
+LP0108,Cooling Fan,GreenCell,429
+LP0108,RAM,CoolTech,193
+LP0109,Cooling Fan,VisionDisplay,177
+LP0109,Motherboard,IntelWorks,225
+LP0109,Battery,KeyTech,248
+LP0109,RAM,Kingston,67
+LP0109,SSD,Kingston,48
+LP0110,Touchpad,IntelWorks,62
+LP0110,Speaker,CoolTech,366
+LP0110,Keyboard,VisionDisplay,282
+LP0110,GPU,Nvidia,119
+LP0110,Battery,CoolTech,182
+LP0110,Display,IntelWorks,485
+LP0111,GPU,Samsung,196
+LP0111,Battery,Kingston,177
+LP0111,Touchpad,CoolTech,467
+LP0111,Speaker,VisionDisplay,130
+LP0111,Keyboard,CoolTech,399
+LP0111,Cooling Fan,Nvidia,431
+LP0111,Motherboard,CoolTech,167
+LP0112,GPU,VisionDisplay,93
+LP0112,Touchpad,KeyTech,175
+LP0112,Battery,CoolTech,464
+LP0112,Speaker,Kingston,53
+LP0112,SSD,Nvidia,65
+LP0112,RAM,IntelWorks,229
+LP0113,GPU,GreenCell,446
+LP0113,Battery,Nvidia,168
+LP0113,Cooling Fan,CoolTech,41
+LP0113,RAM,Samsung,447
+LP0113,SSD,Samsung,272
+LP0113,Display,CoolTech,134
+LP0113,Touchpad,IntelWorks,425
+LP0114,Battery,CoolTech,83
+LP0114,SSD,Samsung,233
+LP0114,Speaker,GreenCell,271
+LP0114,RAM,KeyTech,34
+LP0114,GPU,VisionDisplay,411
+LP0115,Cooling Fan,Samsung,341
+LP0115,Display,CoolTech,375
+LP0115,RAM,VisionDisplay,211
+LP0115,SSD,IntelWorks,452
+LP0115,Keyboard,Samsung,103
+LP0115,GPU,IntelWorks,94
+LP0115,Touchpad,Kingston,256
+LP0116,RAM,Kingston,44
+LP0116,Battery,Samsung,169
+LP0116,Motherboard,VisionDisplay,283
+LP0116,Speaker,KeyTech,412
+LP0116,GPU,GreenCell,411
+LP0116,Keyboard,VisionDisplay,326
+LP0117,Speaker,Samsung,370
+LP0117,RAM,Kingston,69
+LP0117,Touchpad,Kingston,441
+LP0117,GPU,GreenCell,26
+LP0117,Cooling Fan,GreenCell,285
+LP0117,Battery,Samsung,210
+LP0118,GPU,VisionDisplay,233
+LP0118,RAM,CoolTech,489
+LP0118,Battery,VisionDisplay,79
+LP0118,Motherboard,GreenCell,492
+LP0118,Display,IntelWorks,265
+LP0118,Speaker,Kingston,179
+LP0118,SSD,Kingston,91
+LP0118,Touchpad,CoolTech,475
+LP0119,Battery,GreenCell,372
+LP0119,SSD,KeyTech,177
+LP0119,Motherboard,GreenCell,127
+LP0119,RAM,GreenCell,60
+LP0119,Cooling Fan,Nvidia,373
+LP0119,Display,VisionDisplay,59
+LP0119,Speaker,IntelWorks,416
+LP0120,GPU,VisionDisplay,485
+LP0120,Motherboard,Samsung,42
+LP0120,Keyboard,VisionDisplay,174
+LP0120,Speaker,IntelWorks,406
+LP0120,Touchpad,VisionDisplay,420
+LP0120,SSD,VisionDisplay,491
+LP0120,RAM,KeyTech,320
+LP0120,Display,KeyTech,114
+LP0121,Motherboard,Kingston,102
+LP0121,Display,KeyTech,278
+LP0121,Battery,VisionDisplay,70
+LP0121,GPU,IntelWorks,290
+LP0121,RAM,KeyTech,386
+LP0121,Cooling Fan,KeyTech,164
+LP0121,SSD,GreenCell,481
+LP0122,Display,GreenCell,245
+LP0122,Keyboard,VisionDisplay,112
+LP0122,Cooling Fan,Kingston,214
+LP0122,Battery,Nvidia,129
+LP0122,RAM,KeyTech,228
+LP0123,RAM,GreenCell,273
+LP0123,Display,Kingston,380
+LP0123,Cooling Fan,Samsung,305
+LP0123,Motherboard,IntelWorks,62
+LP0123,SSD,Kingston,272
+LP0124,GPU,Samsung,371
+LP0124,SSD,CoolTech,135
+LP0124,Cooling Fan,Nvidia,168
+LP0124,Speaker,Nvidia,116
+LP0124,RAM,VisionDisplay,478
+LP0125,RAM,VisionDisplay,81
+LP0125,Battery,GreenCell,222
+LP0125,Motherboard,Nvidia,375
+LP0125,Touchpad,VisionDisplay,399
+LP0125,Keyboard,GreenCell,53
+LP0125,Cooling Fan,Kingston,121
+LP0125,GPU,Kingston,122
+LP0125,Display,Nvidia,82
+LP0126,GPU,Samsung,407
+LP0126,Cooling Fan,Nvidia,202
+LP0126,SSD,CoolTech,361
+LP0126,Touchpad,Nvidia,268
+LP0126,RAM,Samsung,95
+LP0126,Speaker,CoolTech,75
+LP0127,SSD,GreenCell,35
+LP0127,Cooling Fan,VisionDisplay,397
+LP0127,Speaker,IntelWorks,445
+LP0127,Display,VisionDisplay,275
+LP0127,RAM,IntelWorks,111
+LP0128,Touchpad,CoolTech,425
+LP0128,RAM,CoolTech,123
+LP0128,Battery,Samsung,358
+LP0128,Cooling Fan,CoolTech,271
+LP0128,SSD,Samsung,297
+LP0128,Speaker,Kingston,434
+LP0128,Motherboard,IntelWorks,411
+LP0128,Keyboard,IntelWorks,240
+LP0129,GPU,CoolTech,255
+LP0129,Cooling Fan,IntelWorks,36
+LP0129,RAM,GreenCell,305
+LP0129,Touchpad,Samsung,472
+LP0129,Keyboard,GreenCell,271
+LP0130,Battery,CoolTech,263
+LP0130,SSD,GreenCell,279
+LP0130,GPU,IntelWorks,220
+LP0130,Keyboard,Samsung,273
+LP0130,Motherboard,Nvidia,335
+LP0130,Speaker,Kingston,412
+LP0130,Cooling Fan,Samsung,184
+LP0130,Touchpad,IntelWorks,34
+LP0131,Battery,IntelWorks,411
+LP0131,RAM,Kingston,214
+LP0131,Speaker,VisionDisplay,239
+LP0131,GPU,Kingston,202
+LP0131,Cooling Fan,Nvidia,199
+LP0132,Keyboard,VisionDisplay,486
+LP0132,Touchpad,VisionDisplay,464
+LP0132,Speaker,Samsung,78
+LP0132,RAM,Kingston,106
+LP0132,Battery,IntelWorks,295
+LP0133,Motherboard,IntelWorks,376
+LP0133,Cooling Fan,CoolTech,321
+LP0133,GPU,IntelWorks,182
+LP0133,SSD,Nvidia,312
+LP0133,Speaker,Nvidia,185
+LP0133,Keyboard,VisionDisplay,433
+LP0133,Battery,CoolTech,71
+LP0134,RAM,Kingston,243
+LP0134,Cooling Fan,KeyTech,274
+LP0134,Touchpad,VisionDisplay,450
+LP0134,Display,KeyTech,167
+LP0134,SSD,Samsung,44
+LP0134,Battery,Samsung,313
+LP0135,Keyboard,CoolTech,238
+LP0135,Display,KeyTech,197
+LP0135,Speaker,VisionDisplay,353
+LP0135,SSD,Samsung,278
+LP0135,Battery,Samsung,241
+LP0135,RAM,Kingston,122
+LP0135,Motherboard,Nvidia,225
+LP0135,GPU,Samsung,339
+LP0136,Speaker,CoolTech,129
+LP0136,Battery,CoolTech,157
+LP0136,Motherboard,Nvidia,498
+LP0136,RAM,IntelWorks,287
+LP0136,GPU,KeyTech,206
+LP0136,SSD,CoolTech,95
+LP0136,Display,KeyTech,97
+LP0136,Touchpad,Samsung,452
+LP0137,GPU,GreenCell,151
+LP0137,RAM,KeyTech,227
+LP0137,Display,KeyTech,78
+LP0137,Speaker,GreenCell,118
+LP0137,Cooling Fan,IntelWorks,145
+LP0137,Keyboard,Samsung,257
+LP0137,Battery,CoolTech,306
+LP0137,Touchpad,Nvidia,236
+LP0138,Keyboard,Samsung,424
+LP0138,Battery,Samsung,357
+LP0138,SSD,GreenCell,349
+LP0138,Display,IntelWorks,389
+LP0138,Motherboard,CoolTech,420
+LP0139,Motherboard,VisionDisplay,481
+LP0139,Display,Nvidia,479
+LP0139,RAM,Kingston,363
+LP0139,SSD,VisionDisplay,223
+LP0139,Battery,GreenCell,140
+LP0140,Touchpad,Samsung,274
+LP0140,Speaker,VisionDisplay,141
+LP0140,Display,VisionDisplay,415
+LP0140,SSD,Kingston,188
+LP0140,RAM,Nvidia,432
+LP0141,GPU,Samsung,245
+LP0141,Keyboard,Nvidia,150
+LP0141,Battery,IntelWorks,271
+LP0141,Motherboard,Kingston,378
+LP0141,Display,VisionDisplay,182
+LP0141,RAM,Nvidia,263
+LP0142,SSD,Samsung,30
+LP0142,Battery,IntelWorks,450
+LP0142,RAM,IntelWorks,373
+LP0142,Keyboard,KeyTech,149
+LP0142,Cooling Fan,Nvidia,178
+LP0142,Speaker,Kingston,482
+LP0143,Speaker,Nvidia,494
+LP0143,Keyboard,Samsung,174
+LP0143,Cooling Fan,VisionDisplay,499
+LP0143,Touchpad,KeyTech,172
+LP0143,Motherboard,KeyTech,460
+LP0144,Cooling Fan,VisionDisplay,441
+LP0144,RAM,CoolTech,261
+LP0144,GPU,Nvidia,494
+LP0144,Touchpad,Kingston,387
+LP0144,Motherboard,Nvidia,468
+LP0144,Battery,VisionDisplay,442
+LP0145,SSD,Kingston,252
+LP0145,Speaker,IntelWorks,410
+LP0145,Display,IntelWorks,348
+LP0145,Battery,GreenCell,342
+LP0145,Keyboard,CoolTech,425
+LP0145,Touchpad,GreenCell,21
+LP0146,Keyboard,GreenCell,453
+LP0146,SSD,Nvidia,425
+LP0146,RAM,Kingston,251
+LP0146,Speaker,CoolTech,467
+LP0146,Motherboard,GreenCell,153
+LP0146,Cooling Fan,GreenCell,371
+LP0146,Display,Kingston,429
+LP0146,GPU,Samsung,121
+LP0147,GPU,KeyTech,30
+LP0147,RAM,IntelWorks,492
+LP0147,Battery,KeyTech,484
+LP0147,Keyboard,VisionDisplay,256
+LP0147,Touchpad,KeyTech,154
+LP0148,Motherboard,VisionDisplay,208
+LP0148,GPU,GreenCell,310
+LP0148,Speaker,VisionDisplay,27
+LP0148,SSD,Nvidia,415
+LP0148,Battery,CoolTech,443
+LP0148,Display,CoolTech,80
+LP0149,Keyboard,Nvidia,86
+LP0149,Touchpad,Nvidia,458
+LP0149,SSD,KeyTech,327
+LP0149,Battery,KeyTech,441
+LP0149,RAM,Samsung,392
+LP0149,Speaker,KeyTech,234
+LP0150,GPU,CoolTech,484
+LP0150,Battery,KeyTech,209
+LP0150,Motherboard,CoolTech,63
+LP0150,Speaker,IntelWorks,260
+LP0150,Touchpad,GreenCell,466
+LP0150,Display,Kingston,374
+LP0151,Keyboard,IntelWorks,46
+LP0151,GPU,Kingston,496
+LP0151,Speaker,KeyTech,261
+LP0151,RAM,Kingston,330
+LP0151,SSD,IntelWorks,22
+LP0151,Battery,Samsung,278
+LP0151,Motherboard,Nvidia,174
+LP0151,Touchpad,Nvidia,363
+LP0152,Battery,CoolTech,496
+LP0152,Speaker,Kingston,469
+LP0152,Motherboard,CoolTech,87
+LP0152,SSD,VisionDisplay,182
+LP0152,Display,Nvidia,92
+LP0152,Touchpad,Samsung,79
+LP0152,RAM,Kingston,42
+LP0153,Cooling Fan,Samsung,284
+LP0153,SSD,Kingston,243
+LP0153,RAM,GreenCell,181
+LP0153,Keyboard,CoolTech,411
+LP0153,Battery,GreenCell,304
+LP0153,Touchpad,CoolTech,47
+LP0154,Battery,Samsung,103
+LP0154,Motherboard,CoolTech,243
+LP0154,Keyboard,VisionDisplay,478
+LP0154,Display,CoolTech,40
+LP0154,Speaker,CoolTech,202
+LP0154,Cooling Fan,CoolTech,254
+LP0155,Display,GreenCell,403
+LP0155,Battery,Samsung,308
+LP0155,Touchpad,KeyTech,318
+LP0155,Speaker,IntelWorks,289
+LP0155,Motherboard,GreenCell,233
+LP0155,Cooling Fan,VisionDisplay,146
+LP0155,GPU,CoolTech,366
+LP0155,RAM,VisionDisplay,474
+LP0156,Motherboard,Kingston,98
+LP0156,SSD,IntelWorks,61
+LP0156,Display,CoolTech,445
+LP0156,Keyboard,CoolTech,252
+LP0156,Battery,Samsung,324
+LP0156,Speaker,IntelWorks,188
+LP0156,Touchpad,IntelWorks,355
+LP0157,RAM,VisionDisplay,300
+LP0157,Battery,Nvidia,67
+LP0157,Keyboard,Nvidia,150
+LP0157,GPU,GreenCell,142
+LP0157,Motherboard,Nvidia,65
+LP0157,Speaker,IntelWorks,456
+LP0157,SSD,KeyTech,103
+LP0157,Touchpad,Nvidia,419
+LP0158,SSD,GreenCell,203
+LP0158,Battery,VisionDisplay,446
+LP0158,Display,Kingston,282
+LP0158,Speaker,KeyTech,270
+LP0158,Keyboard,CoolTech,473
+LP0158,RAM,Nvidia,263
+LP0158,GPU,Samsung,308
+LP0158,Touchpad,Nvidia,66
+LP0159,RAM,Kingston,257
+LP0159,Battery,KeyTech,351
+LP0159,GPU,GreenCell,496
+LP0159,Touchpad,CoolTech,289
+LP0159,Keyboard,VisionDisplay,168
+LP0159,Motherboard,CoolTech,243
+LP0159,SSD,VisionDisplay,484
+LP0159,Speaker,CoolTech,173
+LP0160,Battery,IntelWorks,302
+LP0160,SSD,VisionDisplay,489
+LP0160,Keyboard,IntelWorks,282
+LP0160,Speaker,VisionDisplay,281
+LP0160,Cooling Fan,Nvidia,231
+LP0160,Touchpad,VisionDisplay,257
+LP0161,RAM,CoolTech,111
+LP0161,SSD,GreenCell,451
+LP0161,Display,Nvidia,43
+LP0161,GPU,VisionDisplay,233
+LP0161,Speaker,Samsung,180
+LP0161,Motherboard,CoolTech,407
+LP0161,Touchpad,CoolTech,339
+LP0162,RAM,VisionDisplay,242
+LP0162,Battery,IntelWorks,22
+LP0162,Keyboard,Nvidia,79
+LP0162,Display,IntelWorks,107
+LP0162,Motherboard,CoolTech,255
+LP0162,SSD,Nvidia,464
+LP0162,Speaker,CoolTech,175
+LP0163,GPU,VisionDisplay,437
+LP0163,SSD,IntelWorks,376
+LP0163,Display,KeyTech,459
+LP0163,Cooling Fan,IntelWorks,127
+LP0163,Touchpad,CoolTech,352
+LP0163,Motherboard,GreenCell,352
+LP0163,RAM,KeyTech,243
+LP0164,Display,IntelWorks,79
+LP0164,SSD,GreenCell,482
+LP0164,Cooling Fan,GreenCell,398
+LP0164,Touchpad,CoolTech,268
+LP0164,Keyboard,CoolTech,30
+LP0164,RAM,CoolTech,319
+LP0165,Keyboard,VisionDisplay,342
+LP0165,SSD,Nvidia,232
+LP0165,GPU,CoolTech,397
+LP0165,Motherboard,Samsung,38
+LP0165,Battery,CoolTech,224
+LP0165,Cooling Fan,CoolTech,282
+LP0166,Keyboard,Nvidia,475
+LP0166,Motherboard,CoolTech,79
+LP0166,Speaker,CoolTech,338
+LP0166,Touchpad,Kingston,249
+LP0166,SSD,Nvidia,30
+LP0166,Battery,GreenCell,167
+LP0166,Cooling Fan,KeyTech,260
+LP0166,Display,Kingston,244
+LP0167,Speaker,GreenCell,472
+LP0167,Keyboard,Samsung,390
+LP0167,RAM,Nvidia,233
+LP0167,SSD,Kingston,427
+LP0167,Cooling Fan,CoolTech,429
+LP0167,Touchpad,GreenCell,338
+LP0168,SSD,GreenCell,330
+LP0168,Display,CoolTech,71
+LP0168,Cooling Fan,Nvidia,272
+LP0168,Speaker,Samsung,140
+LP0168,GPU,KeyTech,305
+LP0168,RAM,IntelWorks,29
+LP0169,SSD,Kingston,240
+LP0169,RAM,VisionDisplay,336
+LP0169,Battery,KeyTech,81
+LP0169,Display,KeyTech,269
+LP0169,Touchpad,Samsung,194
+LP0169,Motherboard,Kingston,413
+LP0169,Speaker,IntelWorks,414
+LP0170,Battery,VisionDisplay,74
+LP0170,Speaker,VisionDisplay,441
+LP0170,Display,IntelWorks,279
+LP0170,RAM,VisionDisplay,105
+LP0170,Motherboard,VisionDisplay,465
+LP0170,Keyboard,KeyTech,486
+LP0170,SSD,Kingston,100
+LP0171,Cooling Fan,Kingston,439
+LP0171,Speaker,GreenCell,82
+LP0171,Touchpad,KeyTech,244
+LP0171,RAM,Nvidia,413
+LP0171,Motherboard,IntelWorks,145
+LP0171,Display,CoolTech,194
+LP0171,Battery,Samsung,278
+LP0172,Display,KeyTech,97
+LP0172,SSD,Nvidia,423
+LP0172,RAM,KeyTech,90
+LP0172,Cooling Fan,Nvidia,231
+LP0172,Keyboard,Nvidia,479
+LP0172,Battery,CoolTech,456
+LP0173,Motherboard,VisionDisplay,193
+LP0173,Cooling Fan,Kingston,225
+LP0173,Battery,GreenCell,242
+LP0173,GPU,IntelWorks,221
+LP0173,Touchpad,IntelWorks,358
+LP0173,SSD,GreenCell,482
+LP0173,RAM,IntelWorks,343
+LP0174,GPU,IntelWorks,443
+LP0174,Touchpad,Samsung,480
+LP0174,SSD,GreenCell,378
+LP0174,RAM,Nvidia,248
+LP0174,Speaker,KeyTech,474
+LP0174,Battery,CoolTech,377
+LP0174,Cooling Fan,Kingston,474
+LP0175,Keyboard,GreenCell,286
+LP0175,SSD,Samsung,129
+LP0175,Display,VisionDisplay,281
+LP0175,Motherboard,Samsung,286
+LP0175,Speaker,Kingston,407
+LP0175,Battery,GreenCell,31
+LP0175,Touchpad,IntelWorks,475
+LP0175,RAM,Samsung,143
+LP0176,GPU,Kingston,83
+LP0176,Speaker,IntelWorks,407
+LP0176,Display,VisionDisplay,249
+LP0176,RAM,Samsung,313
+LP0176,Motherboard,IntelWorks,252
+LP0176,Battery,Kingston,140
+LP0176,SSD,KeyTech,199
+LP0177,SSD,Kingston,284
+LP0177,Battery,KeyTech,441
+LP0177,GPU,Kingston,252
+LP0177,Touchpad,VisionDisplay,95
+LP0177,RAM,Nvidia,444
+LP0177,Display,Nvidia,61
+LP0177,Motherboard,VisionDisplay,51
+LP0178,Battery,Nvidia,466
+LP0178,Cooling Fan,Samsung,319
+LP0178,Keyboard,CoolTech,345
+LP0178,Speaker,Nvidia,245
+LP0178,Motherboard,CoolTech,394
+LP0178,Touchpad,Nvidia,441
+LP0178,GPU,GreenCell,93
+LP0178,SSD,GreenCell,268
+LP0179,Battery,GreenCell,306
+LP0179,Speaker,Kingston,491
+LP0179,Display,VisionDisplay,328
+LP0179,RAM,Nvidia,76
+LP0179,Cooling Fan,VisionDisplay,209
+LP0179,Keyboard,Samsung,40
+LP0179,SSD,GreenCell,80
+LP0179,Motherboard,Kingston,176
+LP0180,SSD,IntelWorks,499
+LP0180,Touchpad,Samsung,475
+LP0180,Cooling Fan,Samsung,130
+LP0180,Motherboard,GreenCell,439
+LP0180,Display,CoolTech,21
+LP0180,RAM,VisionDisplay,300
+LP0180,Keyboard,Kingston,54
+LP0181,GPU,Kingston,420
+LP0181,Cooling Fan,Nvidia,263
+LP0181,SSD,GreenCell,410
+LP0181,Speaker,GreenCell,278
+LP0181,Keyboard,CoolTech,409
+LP0182,Cooling Fan,KeyTech,480
+LP0182,Battery,Nvidia,193
+LP0182,RAM,IntelWorks,363
+LP0182,Motherboard,CoolTech,396
+LP0182,SSD,Samsung,350
+LP0182,Touchpad,VisionDisplay,463
+LP0182,Keyboard,GreenCell,382
+LP0182,Display,IntelWorks,312
+LP0183,Speaker,KeyTech,404
+LP0183,Display,CoolTech,277
+LP0183,Touchpad,IntelWorks,81
+LP0183,Cooling Fan,GreenCell,29
+LP0183,SSD,Samsung,422
+LP0183,RAM,KeyTech,145
+LP0183,Motherboard,CoolTech,63
+LP0184,GPU,GreenCell,232
+LP0184,Motherboard,IntelWorks,460
+LP0184,Cooling Fan,Kingston,215
+LP0184,Touchpad,Samsung,66
+LP0184,Speaker,VisionDisplay,70
+LP0184,Battery,GreenCell,166
+LP0184,Keyboard,GreenCell,113
+LP0185,Display,Kingston,112
+LP0185,Battery,IntelWorks,385
+LP0185,SSD,IntelWorks,172
+LP0185,Keyboard,Nvidia,70
+LP0185,RAM,Kingston,92
+LP0185,Touchpad,Nvidia,477
+LP0185,Motherboard,Kingston,152
+LP0186,Display,Nvidia,78
+LP0186,Motherboard,Samsung,51
+LP0186,Keyboard,Kingston,257
+LP0186,Touchpad,Nvidia,53
+LP0186,SSD,CoolTech,34
+LP0186,RAM,Nvidia,344
+LP0186,GPU,KeyTech,487
+LP0186,Cooling Fan,IntelWorks,157
+LP0187,Keyboard,Nvidia,248
+LP0187,Speaker,VisionDisplay,453
+LP0187,Battery,KeyTech,420
+LP0187,Cooling Fan,GreenCell,211
+LP0187,SSD,GreenCell,420
+LP0188,Speaker,Samsung,354
+LP0188,GPU,GreenCell,20
+LP0188,Cooling Fan,IntelWorks,497
+LP0188,Motherboard,CoolTech,159
+LP0188,Touchpad,Samsung,449
+LP0188,Keyboard,Nvidia,199
+LP0189,Touchpad,VisionDisplay,173
+LP0189,Speaker,VisionDisplay,222
+LP0189,SSD,VisionDisplay,445
+LP0189,Motherboard,GreenCell,391
+LP0189,Display,Samsung,469
+LP0189,Cooling Fan,Nvidia,127
+LP0190,RAM,KeyTech,255
+LP0190,SSD,Kingston,28
+LP0190,Cooling Fan,GreenCell,350
+LP0190,Battery,IntelWorks,331
+LP0190,Display,CoolTech,22
+LP0190,GPU,IntelWorks,364
+LP0190,Speaker,GreenCell,231
+LP0191,GPU,CoolTech,364
+LP0191,Speaker,VisionDisplay,200
+LP0191,Display,Nvidia,443
+LP0191,Touchpad,Kingston,218
+LP0191,RAM,GreenCell,449
+LP0191,Motherboard,IntelWorks,83
+LP0191,SSD,CoolTech,209
+LP0191,Battery,KeyTech,247
+LP0192,Keyboard,Kingston,118
+LP0192,Motherboard,VisionDisplay,437
+LP0192,SSD,Samsung,433
+LP0192,RAM,KeyTech,139
+LP0192,GPU,CoolTech,205
+LP0193,SSD,Nvidia,76
+LP0193,Cooling Fan,Samsung,311
+LP0193,Keyboard,CoolTech,107
+LP0193,Motherboard,KeyTech,357
+LP0193,Display,GreenCell,53
+LP0194,Display,Samsung,118
+LP0194,Battery,IntelWorks,374
+LP0194,SSD,Samsung,368
+LP0194,Cooling Fan,CoolTech,21
+LP0194,Touchpad,Nvidia,348
+LP0194,GPU,IntelWorks,457
+LP0195,GPU,CoolTech,205
+LP0195,Touchpad,IntelWorks,472
+LP0195,SSD,KeyTech,44
+LP0195,Motherboard,Samsung,490
+LP0195,RAM,Nvidia,292
+LP0195,Cooling Fan,CoolTech,181
+LP0195,Keyboard,IntelWorks,220
+LP0196,RAM,VisionDisplay,489
+LP0196,Display,KeyTech,120
+LP0196,Motherboard,GreenCell,188
+LP0196,Touchpad,Samsung,52
+LP0196,Speaker,VisionDisplay,34
+LP0196,Keyboard,CoolTech,241
+LP0197,Touchpad,CoolTech,142
+LP0197,RAM,Kingston,446
+LP0197,SSD,IntelWorks,440
+LP0197,Display,Kingston,286
+LP0197,Motherboard,KeyTech,57
+LP0198,Display,VisionDisplay,420
+LP0198,Cooling Fan,GreenCell,51
+LP0198,Touchpad,CoolTech,48
+LP0198,Motherboard,Samsung,332
+LP0198,GPU,Nvidia,53
+LP0198,RAM,VisionDisplay,366
+LP0198,Keyboard,IntelWorks,306
+LP0198,Speaker,IntelWorks,170
+LP0199,GPU,Nvidia,257
+LP0199,Display,Nvidia,470
+LP0199,Touchpad,VisionDisplay,193
+LP0199,Speaker,IntelWorks,252
+LP0199,SSD,Kingston,320
+LP0199,RAM,KeyTech,75
+LP0199,Motherboard,VisionDisplay,26
+LP0199,Cooling Fan,VisionDisplay,323
+LP0200,Touchpad,CoolTech,115
+LP0200,Battery,KeyTech,90
+LP0200,SSD,IntelWorks,50
+LP0200,Speaker,GreenCell,179
+LP0200,Keyboard,Nvidia,282
+LP0200,RAM,Kingston,179
+LP0201,Battery,Kingston,24
+LP0201,Cooling Fan,GreenCell,49
+LP0201,SSD,KeyTech,279
+LP0201,Speaker,IntelWorks,236
+LP0201,Touchpad,Kingston,120
+LP0201,RAM,KeyTech,347
+LP0202,Display,Kingston,456
+LP0202,RAM,Kingston,335
+LP0202,Keyboard,Samsung,234
+LP0202,Speaker,Kingston,103
+LP0202,Cooling Fan,VisionDisplay,252
+LP0202,GPU,IntelWorks,273
+LP0203,Motherboard,KeyTech,266
+LP0203,Keyboard,Kingston,433
+LP0203,Speaker,Nvidia,125
+LP0203,Cooling Fan,Nvidia,114
+LP0203,SSD,IntelWorks,205
+LP0203,Display,IntelWorks,57
+LP0204,Motherboard,Kingston,42
+LP0204,Speaker,IntelWorks,121
+LP0204,Display,KeyTech,165
+LP0204,Cooling Fan,GreenCell,132
+LP0204,Battery,Samsung,388
+LP0204,Keyboard,GreenCell,193
+LP0204,GPU,KeyTech,111
+LP0205,Motherboard,Nvidia,355
+LP0205,Battery,VisionDisplay,193
+LP0205,SSD,KeyTech,176
+LP0205,Touchpad,CoolTech,142
+LP0205,GPU,Kingston,434
+LP0205,Display,Kingston,358
+LP0206,Speaker,KeyTech,118
+LP0206,GPU,Nvidia,375
+LP0206,Display,Kingston,182
+LP0206,Motherboard,Nvidia,345
+LP0206,Cooling Fan,KeyTech,491
+LP0206,RAM,IntelWorks,410
+LP0207,Speaker,Samsung,466
+LP0207,SSD,GreenCell,455
+LP0207,Battery,CoolTech,127
+LP0207,Cooling Fan,VisionDisplay,421
+LP0207,Display,CoolTech,424
+LP0207,Motherboard,VisionDisplay,105
+LP0208,Speaker,Kingston,289
+LP0208,RAM,CoolTech,386
+LP0208,Cooling Fan,CoolTech,262
+LP0208,SSD,Samsung,317
+LP0208,Keyboard,Nvidia,346
+LP0208,Display,IntelWorks,126
+LP0208,Battery,KeyTech,478
+LP0208,Touchpad,KeyTech,251
+LP0209,GPU,GreenCell,498
+LP0209,Keyboard,Kingston,150
+LP0209,SSD,VisionDisplay,88
+LP0209,Speaker,VisionDisplay,171
+LP0209,Touchpad,CoolTech,285
+LP0209,Cooling Fan,Kingston,137
+LP0210,Cooling Fan,CoolTech,241
+LP0210,Speaker,Nvidia,208
+LP0210,RAM,CoolTech,182
+LP0210,Keyboard,Samsung,215
+LP0210,GPU,IntelWorks,111
+LP0211,Keyboard,KeyTech,70
+LP0211,SSD,VisionDisplay,56
+LP0211,Display,Kingston,39
+LP0211,Battery,KeyTech,190
+LP0211,Motherboard,KeyTech,365
+LP0211,GPU,Kingston,148
+LP0211,RAM,Samsung,401
+LP0211,Cooling Fan,Samsung,117
+LP0212,Speaker,Kingston,420
+LP0212,SSD,Nvidia,227
+LP0212,Motherboard,IntelWorks,261
+LP0212,GPU,GreenCell,463
+LP0212,Battery,Nvidia,136
+LP0212,RAM,KeyTech,390
+LP0213,Cooling Fan,VisionDisplay,180
+LP0213,Keyboard,KeyTech,239
+LP0213,Touchpad,Nvidia,127
+LP0213,RAM,CoolTech,250
+LP0213,Speaker,IntelWorks,211
+LP0213,Battery,GreenCell,315
+LP0214,SSD,Kingston,135
+LP0214,Motherboard,Nvidia,237
+LP0214,Cooling Fan,Nvidia,410
+LP0214,GPU,Samsung,186
+LP0214,RAM,IntelWorks,310
+LP0214,Battery,IntelWorks,492
+LP0215,Battery,VisionDisplay,293
+LP0215,RAM,Nvidia,116
+LP0215,GPU,CoolTech,75
+LP0215,Keyboard,Kingston,311
+LP0215,Display,CoolTech,347
+LP0215,Cooling Fan,Samsung,67
+LP0216,Display,CoolTech,33
+LP0216,Speaker,GreenCell,121
+LP0216,Battery,VisionDisplay,486
+LP0216,Motherboard,Nvidia,165
+LP0216,RAM,KeyTech,139
+LP0216,SSD,Samsung,357
+LP0217,Cooling Fan,GreenCell,187
+LP0217,Motherboard,Nvidia,220
+LP0217,RAM,GreenCell,76
+LP0217,SSD,GreenCell,294
+LP0217,Speaker,Nvidia,264
+LP0218,GPU,Samsung,241
+LP0218,Keyboard,CoolTech,101
+LP0218,Battery,Samsung,320
+LP0218,Touchpad,KeyTech,277
+LP0218,Display,CoolTech,161
+LP0219,Motherboard,KeyTech,289
+LP0219,Battery,Kingston,486
+LP0219,Cooling Fan,CoolTech,255
+LP0219,Touchpad,CoolTech,314
+LP0219,Keyboard,IntelWorks,397
+LP0219,SSD,VisionDisplay,167
+LP0220,RAM,Nvidia,254
+LP0220,SSD,Nvidia,486
+LP0220,GPU,GreenCell,377
+LP0220,Speaker,VisionDisplay,221
+LP0220,Display,IntelWorks,142
+LP0220,Keyboard,GreenCell,160
+LP0220,Touchpad,Samsung,361
+LP0220,Motherboard,VisionDisplay,377
+LP0221,Cooling Fan,Kingston,229
+LP0221,GPU,CoolTech,104
+LP0221,Display,Samsung,126
+LP0221,Battery,IntelWorks,256
+LP0221,Motherboard,IntelWorks,57
+LP0221,RAM,CoolTech,215
+LP0222,GPU,GreenCell,187
+LP0222,Keyboard,CoolTech,268
+LP0222,Touchpad,CoolTech,54
+LP0222,Motherboard,VisionDisplay,300
+LP0222,Cooling Fan,KeyTech,385
+LP0222,Battery,CoolTech,91
+LP0222,RAM,CoolTech,440
+LP0223,Battery,VisionDisplay,293
+LP0223,Touchpad,Nvidia,106
+LP0223,Motherboard,VisionDisplay,363
+LP0223,SSD,IntelWorks,366
+LP0223,Cooling Fan,Samsung,98
+LP0223,Display,CoolTech,203
+LP0223,Speaker,GreenCell,130
+LP0224,Speaker,VisionDisplay,219
+LP0224,Keyboard,Samsung,247
+LP0224,Cooling Fan,IntelWorks,326
+LP0224,RAM,IntelWorks,44
+LP0224,Motherboard,Nvidia,412
+LP0225,Keyboard,Nvidia,34
+LP0225,RAM,IntelWorks,192
+LP0225,Touchpad,KeyTech,368
+LP0225,Display,VisionDisplay,132
+LP0225,Motherboard,VisionDisplay,428
+LP0225,Speaker,GreenCell,390
+LP0226,Motherboard,KeyTech,339
+LP0226,GPU,KeyTech,498
+LP0226,Display,Nvidia,500
+LP0226,Speaker,Nvidia,81
+LP0226,Battery,KeyTech,129
+LP0226,RAM,VisionDisplay,202
+LP0227,Battery,KeyTech,254
+LP0227,Motherboard,KeyTech,53
+LP0227,GPU,Samsung,352
+LP0227,RAM,Kingston,42
+LP0227,Touchpad,VisionDisplay,473
+LP0227,Speaker,KeyTech,230
+LP0227,Keyboard,Samsung,412
+LP0228,Display,Nvidia,367
+LP0228,Speaker,GreenCell,190
+LP0228,Battery,GreenCell,345
+LP0228,Cooling Fan,Kingston,455
+LP0228,Motherboard,CoolTech,54
+LP0228,SSD,Kingston,29
+LP0228,GPU,CoolTech,215
+LP0228,Keyboard,KeyTech,277
+LP0229,Keyboard,Nvidia,407
+LP0229,Motherboard,KeyTech,337
+LP0229,Display,VisionDisplay,50
+LP0229,Battery,GreenCell,211
+LP0229,Cooling Fan,CoolTech,171
+LP0230,Battery,CoolTech,398
+LP0230,GPU,Kingston,88
+LP0230,Keyboard,Samsung,182
+LP0230,RAM,IntelWorks,286
+LP0230,Motherboard,Nvidia,351
+LP0230,Display,Samsung,404
+LP0231,Keyboard,IntelWorks,484
+LP0231,RAM,KeyTech,430
+LP0231,Speaker,KeyTech,331
+LP0231,Display,Nvidia,286
+LP0231,GPU,Kingston,113
+LP0232,Motherboard,GreenCell,66
+LP0232,Display,GreenCell,323
+LP0232,Cooling Fan,KeyTech,140
+LP0232,Touchpad,VisionDisplay,238
+LP0232,Speaker,CoolTech,179
+LP0232,GPU,GreenCell,389
+LP0232,RAM,KeyTech,145
+LP0232,SSD,Nvidia,110
+LP0233,SSD,CoolTech,60
+LP0233,Touchpad,Kingston,223
+LP0233,Cooling Fan,Nvidia,105
+LP0233,RAM,CoolTech,245
+LP0233,Display,Nvidia,278
+LP0233,Battery,Nvidia,409
+LP0234,Cooling Fan,GreenCell,303
+LP0234,Motherboard,GreenCell,151
+LP0234,GPU,Nvidia,257
+LP0234,Keyboard,Samsung,252
+LP0234,Speaker,Samsung,212
+LP0234,Battery,CoolTech,56
+LP0235,Battery,Kingston,271
+LP0235,Cooling Fan,Nvidia,493
+LP0235,Keyboard,Nvidia,222
+LP0235,Display,Kingston,216
+LP0235,GPU,CoolTech,177
+LP0235,Motherboard,VisionDisplay,229
+LP0235,SSD,IntelWorks,491
+LP0236,GPU,Samsung,414
+LP0236,Battery,Kingston,280
+LP0236,Keyboard,CoolTech,345
+LP0236,Touchpad,Kingston,376
+LP0236,Cooling Fan,IntelWorks,353
+LP0237,GPU,GreenCell,153
+LP0237,Keyboard,CoolTech,368
+LP0237,Speaker,GreenCell,150
+LP0237,Cooling Fan,KeyTech,328
+LP0237,Motherboard,GreenCell,26
+LP0237,Battery,VisionDisplay,414
+LP0237,RAM,VisionDisplay,349
+LP0237,SSD,Nvidia,223
+LP0238,Speaker,Samsung,374
+LP0238,Keyboard,Samsung,276
+LP0238,GPU,Nvidia,320
+LP0238,Display,Samsung,395
+LP0238,Touchpad,Nvidia,405
+LP0239,Display,KeyTech,496
+LP0239,RAM,Nvidia,377
+LP0239,Battery,Samsung,23
+LP0239,Cooling Fan,GreenCell,437
+LP0239,Speaker,CoolTech,20
+LP0240,Display,Nvidia,107
+LP0240,GPU,GreenCell,211
+LP0240,Speaker,GreenCell,380
+LP0240,RAM,GreenCell,121
+LP0240,Battery,CoolTech,113
+LP0241,Cooling Fan,GreenCell,434
+LP0241,Keyboard,KeyTech,152
+LP0241,Battery,Nvidia,245
+LP0241,Display,VisionDisplay,464
+LP0241,Motherboard,GreenCell,60
+LP0242,Display,KeyTech,264
+LP0242,GPU,CoolTech,364
+LP0242,Touchpad,VisionDisplay,24
+LP0242,Battery,IntelWorks,156
+LP0242,Motherboard,IntelWorks,360
+LP0242,Speaker,IntelWorks,69
+LP0242,RAM,KeyTech,287
+LP0243,GPU,Kingston,329
+LP0243,Speaker,Nvidia,192
+LP0243,SSD,Kingston,369
+LP0243,Keyboard,Kingston,181
+LP0243,Touchpad,KeyTech,204
+LP0244,GPU,Nvidia,391
+LP0244,Motherboard,GreenCell,33
+LP0244,RAM,VisionDisplay,464
+LP0244,Touchpad,Samsung,378
+LP0244,Battery,KeyTech,208
+LP0244,Speaker,CoolTech,336
+LP0244,SSD,CoolTech,283
+LP0244,Display,Nvidia,358
+LP0245,Motherboard,Kingston,367
+LP0245,RAM,CoolTech,139
+LP0245,Touchpad,CoolTech,224
+LP0245,Speaker,VisionDisplay,198
+LP0245,Battery,Nvidia,500
+LP0245,Cooling Fan,CoolTech,357
+LP0246,GPU,IntelWorks,85
+LP0246,SSD,CoolTech,427
+LP0246,Keyboard,VisionDisplay,174
+LP0246,RAM,CoolTech,106
+LP0246,Display,CoolTech,79
+LP0247,Speaker,IntelWorks,102
+LP0247,Keyboard,Kingston,482
+LP0247,Touchpad,Nvidia,412
+LP0247,Display,Samsung,132
+LP0247,GPU,Samsung,360
+LP0247,Motherboard,CoolTech,479
+LP0247,SSD,VisionDisplay,360
+LP0247,RAM,GreenCell,492
+LP0248,Display,Nvidia,354
+LP0248,RAM,Nvidia,433
+LP0248,Keyboard,KeyTech,134
+LP0248,SSD,Samsung,79
+LP0248,GPU,Samsung,64
+LP0248,Motherboard,VisionDisplay,65
+LP0248,Battery,Kingston,399
+LP0248,Touchpad,KeyTech,401
+LP0249,Touchpad,Nvidia,315
+LP0249,RAM,IntelWorks,179
+LP0249,Battery,IntelWorks,322
+LP0249,GPU,KeyTech,453
+LP0249,Cooling Fan,Nvidia,236
+LP0250,RAM,Kingston,94
+LP0250,Battery,Samsung,448
+LP0250,Keyboard,KeyTech,275
+LP0250,Motherboard,CoolTech,95
+LP0250,Cooling Fan,Samsung,94
+LP0250,GPU,IntelWorks,326
+LP0250,Touchpad,Kingston,178
+LP0251,SSD,Nvidia,50
+LP0251,Cooling Fan,Kingston,98
+LP0251,Keyboard,KeyTech,454
+LP0251,Speaker,KeyTech,378
+LP0251,Battery,IntelWorks,492
+LP0252,Cooling Fan,IntelWorks,300
+LP0252,GPU,Nvidia,192
+LP0252,SSD,Nvidia,367
+LP0252,Speaker,CoolTech,198
+LP0252,RAM,Nvidia,220
+LP0252,Display,VisionDisplay,290
+LP0253,SSD,Samsung,254
+LP0253,Keyboard,GreenCell,315
+LP0253,GPU,GreenCell,246
+LP0253,Motherboard,CoolTech,169
+LP0253,Display,GreenCell,127
+LP0253,Battery,KeyTech,431
+LP0253,Cooling Fan,KeyTech,396
+LP0254,RAM,GreenCell,494
+LP0254,Display,IntelWorks,69
+LP0254,Battery,Kingston,262
+LP0254,Keyboard,GreenCell,46
+LP0254,GPU,VisionDisplay,283
+LP0255,Touchpad,IntelWorks,80
+LP0255,GPU,KeyTech,223
+LP0255,Battery,CoolTech,174
+LP0255,RAM,GreenCell,354
+LP0255,Speaker,Nvidia,417
+LP0255,Keyboard,VisionDisplay,418
+LP0255,Display,CoolTech,462
+LP0256,SSD,CoolTech,348
+LP0256,Cooling Fan,KeyTech,31
+LP0256,RAM,CoolTech,160
+LP0256,Motherboard,VisionDisplay,426
+LP0256,GPU,GreenCell,216
+LP0256,Speaker,CoolTech,350
+LP0256,Touchpad,Nvidia,172
+LP0256,Keyboard,GreenCell,70
+LP0257,Display,CoolTech,52
+LP0257,Speaker,VisionDisplay,405
+LP0257,Battery,KeyTech,357
+LP0257,Keyboard,VisionDisplay,112
+LP0257,RAM,GreenCell,22
+LP0257,Motherboard,CoolTech,429
+LP0257,GPU,Kingston,82
+LP0258,Battery,Samsung,455
+LP0258,Keyboard,IntelWorks,63
+LP0258,Touchpad,VisionDisplay,279
+LP0258,Motherboard,Samsung,206
+LP0258,SSD,GreenCell,236
+LP0259,Keyboard,CoolTech,91
+LP0259,SSD,CoolTech,375
+LP0259,Motherboard,Kingston,287
+LP0259,Speaker,Kingston,330
+LP0259,Battery,KeyTech,372
+LP0260,Motherboard,Samsung,458
+LP0260,Keyboard,KeyTech,88
+LP0260,Touchpad,KeyTech,322
+LP0260,Display,Kingston,162
+LP0260,GPU,GreenCell,393
+LP0261,Display,VisionDisplay,150
+LP0261,Speaker,Nvidia,375
+LP0261,SSD,GreenCell,294
+LP0261,Battery,KeyTech,56
+LP0261,Keyboard,Samsung,344
+LP0261,Touchpad,KeyTech,385
+LP0261,RAM,Kingston,308
+LP0261,Cooling Fan,GreenCell,234
+LP0262,RAM,VisionDisplay,158
+LP0262,GPU,VisionDisplay,292
+LP0262,Speaker,VisionDisplay,370
+LP0262,Motherboard,Nvidia,53
+LP0262,SSD,Kingston,347
+LP0262,Display,VisionDisplay,205
+LP0263,SSD,KeyTech,213
+LP0263,Battery,VisionDisplay,420
+LP0263,Keyboard,VisionDisplay,109
+LP0263,Speaker,Samsung,321
+LP0263,Motherboard,CoolTech,68
+LP0263,RAM,Kingston,378
+LP0263,Cooling Fan,Samsung,302
+LP0264,Touchpad,Kingston,432
+LP0264,Display,Nvidia,264
+LP0264,Motherboard,GreenCell,152
+LP0264,Speaker,IntelWorks,371
+LP0264,Battery,GreenCell,356
+LP0264,Keyboard,GreenCell,93
+LP0264,GPU,Nvidia,310
+LP0265,Motherboard,GreenCell,244
+LP0265,RAM,Kingston,428
+LP0265,Keyboard,CoolTech,277
+LP0265,Speaker,Samsung,161
+LP0265,SSD,Nvidia,286
+LP0265,Cooling Fan,KeyTech,176
+LP0265,GPU,VisionDisplay,176
+LP0266,RAM,IntelWorks,63
+LP0266,Display,Samsung,303
+LP0266,Speaker,CoolTech,433
+LP0266,Motherboard,IntelWorks,237
+LP0266,Touchpad,GreenCell,265
+LP0266,Cooling Fan,CoolTech,283
+LP0266,GPU,VisionDisplay,227
+LP0266,Keyboard,IntelWorks,335
+LP0267,Motherboard,IntelWorks,330
+LP0267,GPU,CoolTech,106
+LP0267,RAM,KeyTech,109
+LP0267,Display,VisionDisplay,207
+LP0267,Cooling Fan,GreenCell,283
+LP0267,SSD,Kingston,46
+LP0268,Cooling Fan,VisionDisplay,168
+LP0268,GPU,Samsung,267
+LP0268,Battery,Samsung,155
+LP0268,Touchpad,KeyTech,21
+LP0268,Motherboard,Nvidia,131
+LP0268,Speaker,Samsung,495
+LP0268,Display,IntelWorks,498
+LP0268,SSD,CoolTech,476
+LP0269,Motherboard,VisionDisplay,22
+LP0269,RAM,Kingston,475
+LP0269,Touchpad,GreenCell,225
+LP0269,SSD,Kingston,24
+LP0269,Keyboard,VisionDisplay,240
+LP0269,Battery,CoolTech,121
+LP0269,GPU,VisionDisplay,290
+LP0269,Display,GreenCell,230
+LP0270,Cooling Fan,Samsung,135
+LP0270,Motherboard,CoolTech,222
+LP0270,Battery,Kingston,173
+LP0270,GPU,Kingston,239
+LP0270,RAM,GreenCell,294
+LP0271,Display,IntelWorks,203
+LP0271,Cooling Fan,KeyTech,76
+LP0271,Speaker,KeyTech,165
+LP0271,Touchpad,IntelWorks,88
+LP0271,GPU,Nvidia,235
+LP0271,Battery,Kingston,481
+LP0271,Keyboard,IntelWorks,102
+LP0272,Cooling Fan,CoolTech,429
+LP0272,SSD,GreenCell,186
+LP0272,Display,Nvidia,276
+LP0272,Keyboard,Nvidia,87
+LP0272,GPU,VisionDisplay,75
+LP0272,Speaker,IntelWorks,84
+LP0273,RAM,IntelWorks,367
+LP0273,Speaker,Kingston,239
+LP0273,Motherboard,IntelWorks,242
+LP0273,GPU,CoolTech,168
+LP0273,Touchpad,Samsung,268
+LP0273,Display,VisionDisplay,409
+LP0274,Keyboard,KeyTech,361
+LP0274,Battery,Nvidia,121
+LP0274,Speaker,CoolTech,381
+LP0274,Display,VisionDisplay,378
+LP0274,Cooling Fan,GreenCell,116
+LP0274,Motherboard,GreenCell,137
+LP0274,RAM,VisionDisplay,87
+LP0274,Touchpad,Nvidia,39
+LP0275,Keyboard,IntelWorks,214
+LP0275,Battery,Nvidia,288
+LP0275,GPU,Samsung,378
+LP0275,Motherboard,KeyTech,133
+LP0275,SSD,Kingston,238
+LP0275,Display,CoolTech,51
+LP0275,Cooling Fan,Nvidia,349
+LP0276,SSD,Kingston,384
+LP0276,Display,Nvidia,146
+LP0276,Touchpad,Kingston,478
+LP0276,Battery,IntelWorks,113
+LP0276,GPU,IntelWorks,20
+LP0277,RAM,VisionDisplay,240
+LP0277,Keyboard,GreenCell,149
+LP0277,SSD,CoolTech,206
+LP0277,Speaker,Kingston,175
+LP0277,Battery,VisionDisplay,69
+LP0278,Speaker,Kingston,400
+LP0278,Battery,Kingston,141
+LP0278,RAM,Samsung,127
+LP0278,Touchpad,Nvidia,64
+LP0278,Cooling Fan,VisionDisplay,86
+LP0279,Motherboard,VisionDisplay,58
+LP0279,Keyboard,Kingston,174
+LP0279,Speaker,CoolTech,409
+LP0279,RAM,KeyTech,293
+LP0279,Cooling Fan,GreenCell,42
+LP0280,Keyboard,Kingston,249
+LP0280,GPU,VisionDisplay,486
+LP0280,SSD,Nvidia,54
+LP0280,Speaker,CoolTech,234
+LP0280,Cooling Fan,IntelWorks,105
+LP0280,Battery,Samsung,376
+LP0281,SSD,Nvidia,273
+LP0281,Motherboard,VisionDisplay,104
+LP0281,Speaker,CoolTech,404
+LP0281,GPU,Nvidia,307
+LP0281,RAM,Nvidia,225
+LP0281,Display,Samsung,125
+LP0282,Motherboard,CoolTech,277
+LP0282,Battery,Samsung,175
+LP0282,Keyboard,KeyTech,171
+LP0282,SSD,Samsung,302
+LP0282,RAM,VisionDisplay,107
+LP0282,Touchpad,KeyTech,43
+LP0283,SSD,IntelWorks,348
+LP0283,Motherboard,KeyTech,441
+LP0283,Battery,KeyTech,293
+LP0283,Cooling Fan,VisionDisplay,20
+LP0283,Display,Kingston,343
+LP0283,GPU,Kingston,186
+LP0284,Speaker,Samsung,186
+LP0284,SSD,IntelWorks,340
+LP0284,Battery,IntelWorks,441
+LP0284,Keyboard,Kingston,132
+LP0284,Touchpad,Samsung,110
+LP0285,Motherboard,KeyTech,438
+LP0285,Speaker,CoolTech,132
+LP0285,Display,Kingston,157
+LP0285,RAM,KeyTech,317
+LP0285,GPU,Nvidia,99
+LP0285,Keyboard,CoolTech,138
+LP0285,Battery,Nvidia,208
+LP0286,Cooling Fan,GreenCell,116
+LP0286,Display,CoolTech,393
+LP0286,Touchpad,GreenCell,351
+LP0286,Speaker,Samsung,30
+LP0286,Keyboard,Samsung,103
+LP0286,GPU,GreenCell,438
+LP0287,Touchpad,Nvidia,71
+LP0287,Keyboard,GreenCell,392
+LP0287,Display,IntelWorks,328
+LP0287,Cooling Fan,VisionDisplay,213
+LP0287,Motherboard,Nvidia,30
+LP0287,Speaker,VisionDisplay,443
+LP0287,GPU,IntelWorks,410
+LP0287,SSD,IntelWorks,87
+LP0288,Display,IntelWorks,425
+LP0288,SSD,VisionDisplay,297
+LP0288,Battery,Kingston,456
+LP0288,RAM,VisionDisplay,123
+LP0288,Speaker,GreenCell,265
+LP0288,Motherboard,CoolTech,437
+LP0289,SSD,Samsung,341
+LP0289,RAM,VisionDisplay,30
+LP0289,Cooling Fan,IntelWorks,72
+LP0289,Display,Samsung,72
+LP0289,GPU,Nvidia,92
+LP0289,Motherboard,IntelWorks,487
+LP0290,Motherboard,Samsung,135
+LP0290,Keyboard,Nvidia,371
+LP0290,GPU,VisionDisplay,271
+LP0290,Speaker,GreenCell,76
+LP0290,Display,KeyTech,72
+LP0290,Battery,Samsung,202
+LP0291,Touchpad,IntelWorks,329
+LP0291,RAM,GreenCell,111
+LP0291,Display,Nvidia,291
+LP0291,Battery,Kingston,327
+LP0291,Motherboard,GreenCell,367
+LP0292,Battery,Kingston,497
+LP0292,SSD,Samsung,435
+LP0292,Speaker,VisionDisplay,423
+LP0292,Touchpad,IntelWorks,461
+LP0292,Motherboard,GreenCell,418
+LP0292,GPU,GreenCell,183
+LP0292,Keyboard,GreenCell,219
+LP0292,Cooling Fan,CoolTech,389
+LP0293,Display,GreenCell,113
+LP0293,Touchpad,Nvidia,200
+LP0293,GPU,Kingston,273
+LP0293,RAM,Nvidia,266
+LP0293,Battery,Nvidia,328
+LP0293,Speaker,Kingston,90
+LP0293,Motherboard,KeyTech,216
+LP0293,SSD,Nvidia,301
+LP0294,Speaker,Nvidia,289
+LP0294,Touchpad,KeyTech,379
+LP0294,Cooling Fan,VisionDisplay,140
+LP0294,SSD,Kingston,21
+LP0294,GPU,KeyTech,455
+LP0294,Display,IntelWorks,205
+LP0294,Keyboard,CoolTech,88
+LP0294,Motherboard,VisionDisplay,50
+LP0295,RAM,KeyTech,127
+LP0295,Battery,KeyTech,48
+LP0295,SSD,GreenCell,80
+LP0295,Keyboard,GreenCell,213
+LP0295,Display,IntelWorks,376
+LP0295,Cooling Fan,Nvidia,210
+LP0295,GPU,IntelWorks,379
+LP0296,Touchpad,GreenCell,35
+LP0296,Display,GreenCell,207
+LP0296,Cooling Fan,GreenCell,60
+LP0296,GPU,KeyTech,59
+LP0296,SSD,IntelWorks,311
+LP0297,Battery,Nvidia,389
+LP0297,Touchpad,Kingston,247
+LP0297,Cooling Fan,IntelWorks,166
+LP0297,RAM,VisionDisplay,99
+LP0297,Display,IntelWorks,471
+LP0297,SSD,IntelWorks,329
+LP0297,Speaker,GreenCell,277
+LP0297,GPU,GreenCell,25
+LP0298,GPU,GreenCell,159
+LP0298,Cooling Fan,VisionDisplay,287
+LP0298,SSD,Nvidia,84
+LP0298,Speaker,KeyTech,225
+LP0298,Touchpad,IntelWorks,132
+LP0298,Battery,Nvidia,114
+LP0298,Display,VisionDisplay,438
+LP0298,Keyboard,CoolTech,264
+LP0299,GPU,Samsung,75
+LP0299,Touchpad,VisionDisplay,59
+LP0299,Battery,Kingston,328
+LP0299,Motherboard,Kingston,34
+LP0299,Cooling Fan,KeyTech,164
+LP0299,Keyboard,GreenCell,297
+LP0299,Display,VisionDisplay,53
+LP0300,Touchpad,IntelWorks,143
+LP0300,Motherboard,Samsung,63
+LP0300,SSD,IntelWorks,308
+LP0300,Display,CoolTech,43
+LP0300,Cooling Fan,IntelWorks,181
+LP0300,GPU,VisionDisplay,178
+LP0301,RAM,Kingston,404
+LP0301,SSD,Nvidia,391
+LP0301,GPU,Kingston,86
+LP0301,Speaker,VisionDisplay,189
+LP0301,Display,Nvidia,479
+LP0302,Speaker,CoolTech,320
+LP0302,Battery,IntelWorks,168
+LP0302,Motherboard,GreenCell,97
+LP0302,SSD,CoolTech,60
+LP0302,Keyboard,VisionDisplay,387
+LP0303,Keyboard,Kingston,249
+LP0303,Battery,GreenCell,193
+LP0303,Speaker,Samsung,204
+LP0303,SSD,Nvidia,40
+LP0303,GPU,Nvidia,142
+LP0303,RAM,KeyTech,332
+LP0304,Battery,GreenCell,412
+LP0304,Cooling Fan,Samsung,300
+LP0304,Display,VisionDisplay,275
+LP0304,GPU,VisionDisplay,252
+LP0304,Motherboard,Kingston,106
+LP0305,Battery,VisionDisplay,111
+LP0305,Display,CoolTech,152
+LP0305,SSD,CoolTech,151
+LP0305,Cooling Fan,CoolTech,352
+LP0305,Touchpad,GreenCell,83
+LP0305,RAM,CoolTech,40
+LP0305,Motherboard,Kingston,459
+LP0306,GPU,Kingston,62
+LP0306,Touchpad,Nvidia,279
+LP0306,Battery,CoolTech,154
+LP0306,Keyboard,IntelWorks,337
+LP0306,Cooling Fan,IntelWorks,399
+LP0306,SSD,KeyTech,378
+LP0306,RAM,IntelWorks,99
+LP0307,SSD,VisionDisplay,134
+LP0307,GPU,Nvidia,467
+LP0307,Battery,CoolTech,362
+LP0307,Touchpad,VisionDisplay,198
+LP0307,Keyboard,CoolTech,259
+LP0308,Display,Nvidia,188
+LP0308,Touchpad,VisionDisplay,182
+LP0308,Battery,Kingston,329
+LP0308,RAM,CoolTech,128
+LP0308,Motherboard,CoolTech,78
+LP0308,Keyboard,Samsung,252
+LP0308,SSD,IntelWorks,299
+LP0308,GPU,GreenCell,260
+LP0309,Keyboard,Kingston,424
+LP0309,RAM,Nvidia,262
+LP0309,Motherboard,KeyTech,47
+LP0309,SSD,KeyTech,464
+LP0309,Touchpad,IntelWorks,408
+LP0309,Cooling Fan,Nvidia,158
+LP0310,Battery,Samsung,467
+LP0310,Display,CoolTech,466
+LP0310,Touchpad,Nvidia,288
+LP0310,Motherboard,KeyTech,362
+LP0310,Cooling Fan,Samsung,114
+LP0310,Keyboard,IntelWorks,67
+LP0310,GPU,Nvidia,195
+LP0311,Battery,Nvidia,201
+LP0311,Keyboard,Nvidia,441
+LP0311,RAM,IntelWorks,307
+LP0311,Speaker,KeyTech,59
+LP0311,GPU,GreenCell,185
+LP0311,Cooling Fan,Kingston,27
+LP0311,Display,GreenCell,479
+LP0312,Battery,IntelWorks,250
+LP0312,Cooling Fan,GreenCell,344
+LP0312,RAM,CoolTech,347
+LP0312,Motherboard,VisionDisplay,38
+LP0312,Speaker,KeyTech,401
+LP0312,Keyboard,KeyTech,235
+LP0312,Touchpad,GreenCell,327
+LP0312,SSD,Nvidia,130
+LP0313,Keyboard,Samsung,277
+LP0313,Touchpad,VisionDisplay,378
+LP0313,Motherboard,CoolTech,352
+LP0313,Battery,CoolTech,231
+LP0313,GPU,Nvidia,200
+LP0313,Cooling Fan,Kingston,444
+LP0313,RAM,Nvidia,287
+LP0314,Display,Nvidia,215
+LP0314,Battery,Samsung,452
+LP0314,Cooling Fan,Nvidia,344
+LP0314,Keyboard,Samsung,379
+LP0314,Speaker,VisionDisplay,64
+LP0314,Touchpad,VisionDisplay,65
+LP0314,SSD,IntelWorks,335
+LP0315,Display,Samsung,456
+LP0315,Cooling Fan,Nvidia,128
+LP0315,Touchpad,KeyTech,417
+LP0315,RAM,CoolTech,302
+LP0315,Keyboard,Nvidia,78
+LP0315,SSD,KeyTech,458
+LP0315,Motherboard,CoolTech,83
+LP0315,Battery,Kingston,426
+LP0316,GPU,Samsung,177
+LP0316,Touchpad,Nvidia,364
+LP0316,Motherboard,KeyTech,22
+LP0316,Battery,Nvidia,36
+LP0316,Display,IntelWorks,33
+LP0316,SSD,GreenCell,424
+LP0316,Speaker,Kingston,450
+LP0316,RAM,Kingston,191
+LP0317,Touchpad,Nvidia,444
+LP0317,GPU,IntelWorks,430
+LP0317,Keyboard,Nvidia,85
+LP0317,SSD,Nvidia,392
+LP0317,Cooling Fan,GreenCell,226
+LP0317,Display,Kingston,284
+LP0318,GPU,VisionDisplay,343
+LP0318,Keyboard,Nvidia,451
+LP0318,Display,Samsung,448
+LP0318,RAM,GreenCell,185
+LP0318,Cooling Fan,KeyTech,67
+LP0318,SSD,VisionDisplay,33
+LP0319,Motherboard,Nvidia,32
+LP0319,Battery,GreenCell,252
+LP0319,Touchpad,Kingston,115
+LP0319,SSD,KeyTech,354
+LP0319,RAM,KeyTech,172
+LP0319,GPU,KeyTech,294
+LP0319,Cooling Fan,KeyTech,391
+LP0319,Speaker,Nvidia,414
+LP0320,Motherboard,VisionDisplay,255
+LP0320,SSD,VisionDisplay,74
+LP0320,Display,GreenCell,164
+LP0320,Cooling Fan,Samsung,478
+LP0320,RAM,GreenCell,67
+LP0320,Touchpad,VisionDisplay,273
+LP0320,Speaker,Kingston,487
+LP0321,GPU,VisionDisplay,269
+LP0321,Display,VisionDisplay,127
+LP0321,Cooling Fan,Nvidia,212
+LP0321,Touchpad,Kingston,344
+LP0321,Motherboard,CoolTech,433
+LP0321,Keyboard,GreenCell,112
+LP0322,Motherboard,IntelWorks,101
+LP0322,Battery,Samsung,494
+LP0322,Touchpad,VisionDisplay,118
+LP0322,Cooling Fan,IntelWorks,294
+LP0322,Speaker,IntelWorks,285
+LP0322,RAM,GreenCell,130
+LP0322,Keyboard,Kingston,78
+LP0323,Motherboard,Samsung,160
+LP0323,RAM,CoolTech,122
+LP0323,Battery,VisionDisplay,198
+LP0323,Display,Samsung,259
+LP0323,Touchpad,CoolTech,243
+LP0323,GPU,Nvidia,492
+LP0324,SSD,Nvidia,72
+LP0324,Battery,Samsung,104
+LP0324,Keyboard,KeyTech,389
+LP0324,RAM,CoolTech,241
+LP0324,GPU,CoolTech,236
+LP0324,Speaker,Samsung,437
+LP0325,Touchpad,Kingston,479
+LP0325,Display,VisionDisplay,250
+LP0325,GPU,GreenCell,475
+LP0325,Keyboard,IntelWorks,281
+LP0325,Speaker,Samsung,320
+LP0325,SSD,Nvidia,170
+LP0325,Battery,Kingston,223
+LP0326,Display,Kingston,145
+LP0326,Battery,VisionDisplay,130
+LP0326,RAM,Kingston,210
+LP0326,Keyboard,GreenCell,419
+LP0326,Touchpad,Kingston,82
+LP0327,RAM,Kingston,480
+LP0327,Motherboard,KeyTech,307
+LP0327,Touchpad,VisionDisplay,217
+LP0327,Display,Samsung,328
+LP0327,Keyboard,KeyTech,289
+LP0328,Display,Nvidia,369
+LP0328,Speaker,Nvidia,182
+LP0328,SSD,Kingston,121
+LP0328,RAM,KeyTech,45
+LP0328,Cooling Fan,CoolTech,275
+LP0328,Motherboard,IntelWorks,160
+LP0329,Display,IntelWorks,165
+LP0329,Touchpad,IntelWorks,349
+LP0329,Cooling Fan,IntelWorks,486
+LP0329,Speaker,CoolTech,165
+LP0329,SSD,GreenCell,450
+LP0329,Battery,Nvidia,38
+LP0329,Keyboard,IntelWorks,192
+LP0329,Motherboard,IntelWorks,55
+LP0330,Display,Kingston,272
+LP0330,GPU,IntelWorks,221
+LP0330,SSD,Samsung,376
+LP0330,Battery,CoolTech,272
+LP0330,Speaker,VisionDisplay,451
+LP0330,RAM,Kingston,500
+LP0330,Keyboard,VisionDisplay,34
+LP0330,Motherboard,KeyTech,44
+LP0331,Battery,Nvidia,135
+LP0331,Display,GreenCell,65
+LP0331,RAM,KeyTech,390
+LP0331,GPU,Kingston,437
+LP0331,Cooling Fan,IntelWorks,498
+LP0332,SSD,VisionDisplay,155
+LP0332,Motherboard,Kingston,372
+LP0332,Display,Nvidia,158
+LP0332,Speaker,GreenCell,493
+LP0332,Battery,GreenCell,318
+LP0333,Display,CoolTech,362
+LP0333,Battery,VisionDisplay,287
+LP0333,RAM,KeyTech,315
+LP0333,GPU,CoolTech,358
+LP0333,Touchpad,CoolTech,163
+LP0333,SSD,Kingston,415
+LP0333,Keyboard,CoolTech,135
+LP0333,Speaker,VisionDisplay,155
+LP0334,Display,VisionDisplay,273
+LP0334,RAM,IntelWorks,128
+LP0334,Keyboard,IntelWorks,363
+LP0334,Speaker,KeyTech,259
+LP0334,GPU,Nvidia,116
+LP0334,Touchpad,CoolTech,73
+LP0334,Motherboard,Kingston,126
+LP0335,SSD,KeyTech,489
+LP0335,Cooling Fan,Kingston,217
+LP0335,Battery,CoolTech,464
+LP0335,GPU,KeyTech,419
+LP0335,Touchpad,Nvidia,116
+LP0335,Motherboard,VisionDisplay,162
+LP0335,Display,Nvidia,104
+LP0336,Touchpad,IntelWorks,477
+LP0336,Display,CoolTech,115
+LP0336,Battery,Samsung,34
+LP0336,Keyboard,CoolTech,358
+LP0336,Motherboard,CoolTech,200
+LP0336,RAM,Samsung,80
+LP0336,Speaker,VisionDisplay,201
+LP0337,Keyboard,CoolTech,159
+LP0337,Battery,Kingston,70
+LP0337,GPU,IntelWorks,352
+LP0337,SSD,Nvidia,394
+LP0337,Touchpad,Nvidia,119
+LP0337,Cooling Fan,Samsung,116
+LP0337,Speaker,Nvidia,110
+LP0337,Motherboard,Samsung,291
+LP0338,Speaker,VisionDisplay,47
+LP0338,GPU,IntelWorks,314
+LP0338,Display,Samsung,142
+LP0338,RAM,VisionDisplay,292
+LP0338,Motherboard,VisionDisplay,161
+LP0338,Cooling Fan,KeyTech,471
+LP0338,Touchpad,Nvidia,220
+LP0338,Keyboard,Nvidia,71
+LP0339,SSD,Samsung,381
+LP0339,Cooling Fan,Samsung,395
+LP0339,Keyboard,IntelWorks,68
+LP0339,Display,GreenCell,277
+LP0339,GPU,CoolTech,398
+LP0339,Battery,Samsung,456
+LP0340,Battery,CoolTech,92
+LP0340,RAM,IntelWorks,361
+LP0340,Display,CoolTech,239
+LP0340,Cooling Fan,Kingston,30
+LP0340,GPU,GreenCell,155
+LP0340,Touchpad,VisionDisplay,107
+LP0341,Touchpad,CoolTech,467
+LP0341,RAM,KeyTech,261
+LP0341,Cooling Fan,VisionDisplay,43
+LP0341,SSD,IntelWorks,310
+LP0341,Motherboard,Samsung,447
+LP0342,Speaker,VisionDisplay,175
+LP0342,Touchpad,Kingston,251
+LP0342,Battery,CoolTech,396
+LP0342,GPU,Kingston,299
+LP0342,Display,Samsung,359
+LP0342,Motherboard,CoolTech,149
+LP0343,Cooling Fan,VisionDisplay,158
+LP0343,Motherboard,IntelWorks,95
+LP0343,RAM,Nvidia,458
+LP0343,Battery,KeyTech,357
+LP0343,Touchpad,GreenCell,202
+LP0343,GPU,CoolTech,35
+LP0343,Keyboard,KeyTech,315
+LP0344,RAM,CoolTech,468
+LP0344,Keyboard,GreenCell,155
+LP0344,Display,Kingston,474
+LP0344,Cooling Fan,Kingston,220
+LP0344,Speaker,Nvidia,161
+LP0344,Motherboard,Samsung,117
+LP0344,Battery,IntelWorks,316
+LP0344,Touchpad,Kingston,447
+LP0345,GPU,IntelWorks,275
+LP0345,Cooling Fan,GreenCell,258
+LP0345,RAM,GreenCell,287
+LP0345,Battery,Samsung,339
+LP0345,Motherboard,GreenCell,175
+LP0346,SSD,VisionDisplay,47
+LP0346,Display,CoolTech,176
+LP0346,Touchpad,IntelWorks,240
+LP0346,Motherboard,Kingston,358
+LP0346,Keyboard,IntelWorks,45
+LP0346,GPU,Samsung,90
+LP0346,Speaker,Kingston,469
+LP0346,RAM,Samsung,422
+LP0347,Display,VisionDisplay,168
+LP0347,SSD,KeyTech,36
+LP0347,Battery,CoolTech,497
+LP0347,RAM,Kingston,147
+LP0347,Touchpad,Nvidia,236
+LP0347,Keyboard,Nvidia,482
+LP0348,SSD,Nvidia,367
+LP0348,Touchpad,Kingston,431
+LP0348,Speaker,GreenCell,369
+LP0348,Display,KeyTech,148
+LP0348,Cooling Fan,GreenCell,233
+LP0349,SSD,GreenCell,212
+LP0349,Touchpad,Nvidia,69
+LP0349,Display,GreenCell,289
+LP0349,Battery,CoolTech,375
+LP0349,Speaker,Kingston,277
+LP0349,Keyboard,Kingston,259
+LP0350,GPU,Nvidia,65
+LP0350,Cooling Fan,GreenCell,334
+LP0350,Touchpad,Samsung,422
+LP0350,Keyboard,KeyTech,317
+LP0350,Speaker,Kingston,85
+LP0350,Motherboard,Samsung,47
+LP0350,SSD,Nvidia,84
+LP0351,Motherboard,VisionDisplay,190
+LP0351,Cooling Fan,VisionDisplay,440
+LP0351,Speaker,Samsung,309
+LP0351,GPU,CoolTech,373
+LP0351,Touchpad,Kingston,462
+LP0351,RAM,IntelWorks,82
+LP0351,SSD,IntelWorks,379
+LP0351,Display,KeyTech,284
+LP0352,Speaker,Samsung,341
+LP0352,Cooling Fan,Samsung,388
+LP0352,Battery,IntelWorks,432
+LP0352,Display,CoolTech,339
+LP0352,RAM,KeyTech,78
+LP0352,GPU,VisionDisplay,20
+LP0353,Touchpad,CoolTech,32
+LP0353,Display,CoolTech,220
+LP0353,Speaker,IntelWorks,494
+LP0353,Cooling Fan,VisionDisplay,173
+LP0353,GPU,Nvidia,267
+LP0353,Motherboard,GreenCell,439
+LP0354,Speaker,VisionDisplay,241
+LP0354,SSD,GreenCell,345
+LP0354,Cooling Fan,IntelWorks,114
+LP0354,GPU,GreenCell,439
+LP0354,RAM,KeyTech,107
+LP0354,Touchpad,KeyTech,263
+LP0355,SSD,Nvidia,377
+LP0355,Touchpad,VisionDisplay,257
+LP0355,Display,Nvidia,436
+LP0355,Speaker,Nvidia,95
+LP0355,Keyboard,IntelWorks,165
+LP0355,Battery,CoolTech,81
+LP0355,GPU,Nvidia,25
+LP0355,Cooling Fan,Samsung,37
+LP0356,Motherboard,GreenCell,203
+LP0356,RAM,KeyTech,198
+LP0356,Battery,Nvidia,282
+LP0356,Keyboard,VisionDisplay,109
+LP0356,Speaker,GreenCell,200
+LP0356,GPU,Kingston,255
+LP0356,Cooling Fan,GreenCell,162
+LP0356,Touchpad,Samsung,492
+LP0357,Display,Kingston,321
+LP0357,Cooling Fan,Kingston,319
+LP0357,GPU,Nvidia,54
+LP0357,Keyboard,IntelWorks,35
+LP0357,SSD,GreenCell,138
+LP0357,Touchpad,VisionDisplay,360
+LP0357,Battery,VisionDisplay,275
+LP0357,Motherboard,CoolTech,185
+LP0358,Keyboard,VisionDisplay,51
+LP0358,Display,Samsung,78
+LP0358,Battery,IntelWorks,453
+LP0358,RAM,VisionDisplay,246
+LP0358,Touchpad,Kingston,330
+LP0358,GPU,IntelWorks,492
+LP0359,RAM,KeyTech,120
+LP0359,Display,Samsung,271
+LP0359,Cooling Fan,CoolTech,367
+LP0359,Keyboard,Samsung,135
+LP0359,Speaker,KeyTech,399
+LP0359,SSD,GreenCell,242
+LP0360,Display,IntelWorks,204
+LP0360,Motherboard,Nvidia,310
+LP0360,Touchpad,VisionDisplay,194
+LP0360,Cooling Fan,GreenCell,369
+LP0360,Speaker,CoolTech,117
+LP0360,GPU,KeyTech,312
+LP0361,Speaker,Nvidia,340
+LP0361,RAM,Nvidia,467
+LP0361,Touchpad,VisionDisplay,311
+LP0361,SSD,VisionDisplay,85
+LP0361,GPU,Samsung,71
+LP0361,Display,VisionDisplay,275
+LP0361,Motherboard,KeyTech,46
+LP0361,Cooling Fan,Kingston,31
+LP0362,SSD,GreenCell,167
+LP0362,Touchpad,VisionDisplay,293
+LP0362,GPU,KeyTech,456
+LP0362,RAM,Samsung,224
+LP0362,Battery,IntelWorks,299
+LP0362,Motherboard,VisionDisplay,318
+LP0363,SSD,IntelWorks,91
+LP0363,Motherboard,KeyTech,300
+LP0363,Speaker,Kingston,493
+LP0363,Battery,IntelWorks,140
+LP0363,Keyboard,CoolTech,57
+LP0363,GPU,IntelWorks,197
+LP0363,Display,VisionDisplay,233
+LP0363,RAM,VisionDisplay,474
+LP0364,Battery,Kingston,240
+LP0364,SSD,CoolTech,175
+LP0364,Motherboard,KeyTech,30
+LP0364,Cooling Fan,IntelWorks,33
+LP0364,GPU,KeyTech,293
+LP0364,Keyboard,Nvidia,369
+LP0364,Display,IntelWorks,302
+LP0364,Touchpad,CoolTech,46
+LP0365,GPU,CoolTech,80
+LP0365,Battery,Kingston,200
+LP0365,Touchpad,KeyTech,195
+LP0365,RAM,Nvidia,490
+LP0365,Keyboard,IntelWorks,141
+LP0365,SSD,KeyTech,67
+LP0365,Display,IntelWorks,136
+LP0365,Motherboard,Nvidia,402
+LP0366,Motherboard,GreenCell,244
+LP0366,Keyboard,GreenCell,164
+LP0366,Touchpad,IntelWorks,180
+LP0366,Cooling Fan,Kingston,328
+LP0366,GPU,KeyTech,169
+LP0367,Touchpad,VisionDisplay,148
+LP0367,GPU,KeyTech,273
+LP0367,Cooling Fan,Kingston,479
+LP0367,RAM,KeyTech,247
+LP0367,Motherboard,Samsung,207
+LP0367,Speaker,Samsung,464
+LP0368,Speaker,VisionDisplay,47
+LP0368,SSD,Kingston,481
+LP0368,RAM,Nvidia,381
+LP0368,Cooling Fan,CoolTech,163
+LP0368,Touchpad,VisionDisplay,124
+LP0368,GPU,GreenCell,450
+LP0369,SSD,IntelWorks,140
+LP0369,Speaker,CoolTech,352
+LP0369,Keyboard,CoolTech,78
+LP0369,Motherboard,IntelWorks,275
+LP0369,Battery,IntelWorks,158
+LP0369,Display,Samsung,321
+LP0370,SSD,Nvidia,216
+LP0370,Display,CoolTech,42
+LP0370,Motherboard,KeyTech,125
+LP0370,Battery,Nvidia,114
+LP0370,Touchpad,Nvidia,292
+LP0370,Keyboard,IntelWorks,358
+LP0370,RAM,Samsung,36
+LP0370,Cooling Fan,Kingston,499
+LP0371,Touchpad,KeyTech,407
+LP0371,RAM,IntelWorks,194
+LP0371,SSD,Nvidia,463
+LP0371,GPU,Nvidia,420
+LP0371,Cooling Fan,IntelWorks,433
+LP0372,Speaker,CoolTech,237
+LP0372,GPU,Samsung,103
+LP0372,SSD,Nvidia,259
+LP0372,Touchpad,KeyTech,87
+LP0372,Cooling Fan,IntelWorks,163
+LP0373,Display,Samsung,205
+LP0373,Keyboard,Samsung,357
+LP0373,SSD,Samsung,420
+LP0373,Battery,IntelWorks,83
+LP0373,Cooling Fan,Samsung,311
+LP0373,Speaker,Kingston,448
+LP0373,Motherboard,Samsung,453
+LP0374,Cooling Fan,IntelWorks,203
+LP0374,Touchpad,CoolTech,346
+LP0374,Motherboard,KeyTech,229
+LP0374,Keyboard,IntelWorks,316
+LP0374,Speaker,VisionDisplay,161
+LP0374,GPU,Kingston,52
+LP0375,Battery,GreenCell,95
+LP0375,SSD,IntelWorks,139
+LP0375,Speaker,VisionDisplay,355
+LP0375,Touchpad,IntelWorks,114
+LP0375,Keyboard,CoolTech,316
+LP0375,Display,Kingston,41
+LP0375,Cooling Fan,KeyTech,51
+LP0375,GPU,Samsung,151
+LP0376,RAM,Kingston,75
+LP0376,Speaker,VisionDisplay,279
+LP0376,Motherboard,CoolTech,77
+LP0376,SSD,VisionDisplay,141
+LP0376,Display,KeyTech,186
+LP0377,GPU,Kingston,191
+LP0377,Display,Nvidia,479
+LP0377,Touchpad,Kingston,260
+LP0377,Battery,Samsung,338
+LP0377,Speaker,IntelWorks,102
+LP0377,Motherboard,Kingston,42
+LP0377,Cooling Fan,Samsung,496
+LP0378,Touchpad,Kingston,130
+LP0378,Motherboard,Nvidia,445
+LP0378,Display,IntelWorks,356
+LP0378,SSD,GreenCell,215
+LP0378,Cooling Fan,VisionDisplay,59
+LP0378,Battery,KeyTech,309
+LP0379,Speaker,Samsung,119
+LP0379,Display,Samsung,486
+LP0379,Motherboard,KeyTech,188
+LP0379,SSD,KeyTech,429
+LP0379,Keyboard,Kingston,138
+LP0379,GPU,CoolTech,181
+LP0379,RAM,VisionDisplay,374
+LP0379,Touchpad,KeyTech,247
+LP0380,RAM,CoolTech,329
+LP0380,Display,KeyTech,249
+LP0380,Touchpad,Nvidia,137
+LP0380,SSD,GreenCell,493
+LP0380,GPU,KeyTech,417
+LP0380,Motherboard,Nvidia,365
+LP0380,Battery,GreenCell,330
+LP0380,Keyboard,Samsung,427
+LP0381,RAM,CoolTech,343
+LP0381,Touchpad,KeyTech,480
+LP0381,Display,GreenCell,468
+LP0381,Motherboard,CoolTech,27
+LP0381,Keyboard,GreenCell,81
+LP0381,Speaker,Nvidia,154
+LP0381,Cooling Fan,CoolTech,400
+LP0382,Battery,GreenCell,57
+LP0382,Motherboard,GreenCell,283
+LP0382,GPU,Nvidia,482
+LP0382,Speaker,Nvidia,201
+LP0382,RAM,GreenCell,225
+LP0383,SSD,VisionDisplay,389
+LP0383,Display,IntelWorks,57
+LP0383,RAM,Kingston,249
+LP0383,GPU,Nvidia,342
+LP0383,Battery,CoolTech,399
+LP0383,Touchpad,Nvidia,168
+LP0384,Battery,CoolTech,214
+LP0384,Touchpad,Kingston,244
+LP0384,Display,GreenCell,280
+LP0384,Cooling Fan,Samsung,415
+LP0384,Motherboard,VisionDisplay,138
+LP0384,SSD,Samsung,272
+LP0384,Speaker,Kingston,44
+LP0384,Keyboard,Nvidia,166
+LP0385,GPU,Samsung,314
+LP0385,RAM,Kingston,70
+LP0385,Battery,Kingston,165
+LP0385,Display,GreenCell,80
+LP0385,Motherboard,Samsung,160
+LP0385,Touchpad,CoolTech,244
+LP0385,Keyboard,KeyTech,473
+LP0386,SSD,GreenCell,69
+LP0386,Touchpad,KeyTech,302
+LP0386,Display,GreenCell,34
+LP0386,Cooling Fan,IntelWorks,476
+LP0386,RAM,KeyTech,23
+LP0386,Battery,CoolTech,446
+LP0387,RAM,CoolTech,286
+LP0387,Keyboard,GreenCell,445
+LP0387,SSD,CoolTech,171
+LP0387,Cooling Fan,VisionDisplay,386
+LP0387,Speaker,VisionDisplay,247
+LP0388,Cooling Fan,VisionDisplay,401
+LP0388,SSD,KeyTech,392
+LP0388,Display,VisionDisplay,187
+LP0388,GPU,GreenCell,279
+LP0388,Touchpad,Kingston,161
+LP0388,Battery,CoolTech,342
+LP0388,Motherboard,VisionDisplay,381
+LP0388,RAM,Kingston,476
+LP0389,GPU,IntelWorks,344
+LP0389,Display,IntelWorks,145
+LP0389,RAM,GreenCell,320
+LP0389,Speaker,Nvidia,466
+LP0389,SSD,KeyTech,364
+LP0390,SSD,Samsung,87
+LP0390,Cooling Fan,KeyTech,345
+LP0390,Battery,VisionDisplay,284
+LP0390,Keyboard,KeyTech,21
+LP0390,Display,Nvidia,54
+LP0390,GPU,CoolTech,305
+LP0391,Battery,Nvidia,343
+LP0391,Motherboard,KeyTech,346
+LP0391,GPU,Kingston,267
+LP0391,RAM,GreenCell,469
+LP0391,Touchpad,Samsung,450
+LP0391,SSD,KeyTech,468
+LP0392,Cooling Fan,Samsung,69
+LP0392,Touchpad,KeyTech,77
+LP0392,GPU,Samsung,234
+LP0392,SSD,CoolTech,186
+LP0392,Battery,KeyTech,359
+LP0392,Speaker,Nvidia,79
+LP0392,Keyboard,GreenCell,257
+LP0393,Display,Nvidia,371
+LP0393,RAM,KeyTech,34
+LP0393,GPU,Samsung,157
+LP0393,Speaker,KeyTech,475
+LP0393,Touchpad,Nvidia,51
+LP0393,Keyboard,Kingston,153
+LP0393,SSD,Kingston,230
+LP0394,Cooling Fan,KeyTech,193
+LP0394,GPU,IntelWorks,177
+LP0394,Speaker,CoolTech,229
+LP0394,Battery,KeyTech,313
+LP0394,Motherboard,GreenCell,294
+LP0394,Touchpad,KeyTech,419
+LP0394,Keyboard,VisionDisplay,334
+LP0394,SSD,Kingston,86
+LP0395,Motherboard,Kingston,487
+LP0395,GPU,Kingston,412
+LP0395,Display,VisionDisplay,355
+LP0395,Speaker,IntelWorks,285
+LP0395,RAM,KeyTech,205
+LP0396,Battery,Samsung,430
+LP0396,Speaker,GreenCell,486
+LP0396,GPU,Kingston,189
+LP0396,Cooling Fan,Nvidia,130
+LP0396,RAM,KeyTech,26
+LP0396,Display,IntelWorks,452
+LP0397,Speaker,IntelWorks,100
+LP0397,Display,Samsung,174
+LP0397,GPU,IntelWorks,137
+LP0397,Cooling Fan,KeyTech,37
+LP0397,Keyboard,Samsung,403
+LP0398,GPU,Samsung,461
+LP0398,Touchpad,VisionDisplay,59
+LP0398,Battery,VisionDisplay,278
+LP0398,Speaker,Nvidia,30
+LP0398,RAM,IntelWorks,400
+LP0399,Display,Kingston,237
+LP0399,GPU,IntelWorks,174
+LP0399,Keyboard,Samsung,254
+LP0399,Speaker,KeyTech,71
+LP0399,SSD,Samsung,355
+LP0399,Battery,CoolTech,212
+LP0400,GPU,Samsung,484
+LP0400,Display,KeyTech,215
+LP0400,Keyboard,IntelWorks,274
+LP0400,Cooling Fan,Nvidia,210
+LP0400,SSD,VisionDisplay,251
+LP0400,Battery,KeyTech,315
+LP0400,Touchpad,IntelWorks,223
+LP0401,Cooling Fan,Kingston,93
+LP0401,RAM,VisionDisplay,68
+LP0401,Touchpad,GreenCell,126
+LP0401,SSD,CoolTech,323
+LP0401,Motherboard,KeyTech,62
+LP0401,Battery,GreenCell,226
+LP0402,Speaker,Kingston,447
+LP0402,Keyboard,GreenCell,38
+LP0402,Motherboard,Kingston,372
+LP0402,GPU,Nvidia,466
+LP0402,Touchpad,IntelWorks,157
+LP0402,Battery,KeyTech,406
+LP0402,RAM,CoolTech,299
+LP0402,Display,CoolTech,180
+LP0403,RAM,VisionDisplay,237
+LP0403,Cooling Fan,VisionDisplay,212
+LP0403,Speaker,GreenCell,407
+LP0403,SSD,IntelWorks,102
+LP0403,GPU,VisionDisplay,105
+LP0403,Motherboard,KeyTech,244
+LP0404,Motherboard,CoolTech,91
+LP0404,GPU,Nvidia,224
+LP0404,Cooling Fan,IntelWorks,171
+LP0404,Display,VisionDisplay,242
+LP0404,RAM,Samsung,388
+LP0405,Speaker,Samsung,287
+LP0405,RAM,KeyTech,431
+LP0405,Touchpad,Kingston,285
+LP0405,SSD,Samsung,261
+LP0405,Cooling Fan,CoolTech,127
+LP0405,Display,Kingston,494
+LP0405,GPU,GreenCell,104
+LP0406,Motherboard,Samsung,379
+LP0406,RAM,KeyTech,122
+LP0406,GPU,VisionDisplay,295
+LP0406,Display,CoolTech,189
+LP0406,Cooling Fan,VisionDisplay,51
+LP0406,Keyboard,CoolTech,324
+LP0406,Touchpad,GreenCell,54
+LP0406,SSD,Kingston,345
+LP0407,RAM,Samsung,208
+LP0407,Motherboard,Nvidia,498
+LP0407,Keyboard,Samsung,307
+LP0407,Battery,KeyTech,59
+LP0407,GPU,GreenCell,72
+LP0407,Cooling Fan,KeyTech,163
+LP0408,SSD,Nvidia,189
+LP0408,Display,Samsung,433
+LP0408,Battery,CoolTech,127
+LP0408,GPU,GreenCell,21
+LP0408,Touchpad,KeyTech,130
+LP0408,RAM,VisionDisplay,495
+LP0409,Battery,VisionDisplay,478
+LP0409,Touchpad,IntelWorks,90
+LP0409,Cooling Fan,CoolTech,237
+LP0409,GPU,CoolTech,187
+LP0409,Motherboard,Samsung,276
+LP0409,Speaker,VisionDisplay,143
+LP0410,GPU,VisionDisplay,472
+LP0410,Touchpad,KeyTech,105
+LP0410,Cooling Fan,Samsung,384
+LP0410,Battery,GreenCell,450
+LP0410,Speaker,Nvidia,306
+LP0410,SSD,CoolTech,270
+LP0410,RAM,Samsung,370
+LP0410,Keyboard,VisionDisplay,305
+LP0411,RAM,Nvidia,129
+LP0411,Battery,KeyTech,215
+LP0411,Motherboard,Kingston,111
+LP0411,GPU,IntelWorks,120
+LP0411,Speaker,CoolTech,204
+LP0411,Keyboard,KeyTech,22
+LP0411,Touchpad,Samsung,188
+LP0411,SSD,VisionDisplay,486
+LP0412,SSD,CoolTech,223
+LP0412,Speaker,IntelWorks,376
+LP0412,Motherboard,Samsung,160
+LP0412,Touchpad,IntelWorks,312
+LP0412,Battery,IntelWorks,461
+LP0412,Cooling Fan,CoolTech,331
+LP0412,RAM,CoolTech,271
+LP0413,Cooling Fan,GreenCell,381
+LP0413,Speaker,GreenCell,465
+LP0413,Display,GreenCell,62
+LP0413,Motherboard,Nvidia,447
+LP0413,Battery,VisionDisplay,48
+LP0413,GPU,CoolTech,346
+LP0414,RAM,IntelWorks,190
+LP0414,Display,Kingston,479
+LP0414,SSD,GreenCell,483
+LP0414,GPU,Kingston,284
+LP0414,Speaker,IntelWorks,360
+LP0415,GPU,GreenCell,247
+LP0415,Motherboard,IntelWorks,161
+LP0415,Display,KeyTech,372
+LP0415,Cooling Fan,Nvidia,108
+LP0415,SSD,IntelWorks,179
+LP0415,Touchpad,Samsung,307
+LP0415,Battery,Kingston,80
+LP0415,Speaker,Kingston,258
+LP0416,Touchpad,GreenCell,393
+LP0416,Cooling Fan,VisionDisplay,115
+LP0416,Display,Kingston,322
+LP0416,Motherboard,IntelWorks,412
+LP0416,GPU,GreenCell,423
+LP0417,Keyboard,KeyTech,177
+LP0417,RAM,KeyTech,402
+LP0417,Cooling Fan,GreenCell,178
+LP0417,Motherboard,IntelWorks,214
+LP0417,Speaker,Samsung,111
+LP0418,Battery,GreenCell,171
+LP0418,RAM,Samsung,377
+LP0418,GPU,CoolTech,155
+LP0418,Display,VisionDisplay,270
+LP0418,Cooling Fan,Kingston,316
+LP0418,Touchpad,Kingston,198
+LP0418,Speaker,CoolTech,444
+LP0419,Motherboard,Nvidia,197
+LP0419,GPU,Samsung,126
+LP0419,Battery,Kingston,378
+LP0419,SSD,Samsung,66
+LP0419,Speaker,KeyTech,152
+LP0419,Display,KeyTech,259
+LP0420,Motherboard,Kingston,308
+LP0420,Display,Nvidia,357
+LP0420,Battery,IntelWorks,185
+LP0420,Keyboard,VisionDisplay,342
+LP0420,Speaker,Kingston,465
+LP0420,GPU,IntelWorks,101
+LP0420,Cooling Fan,Nvidia,263
+LP0421,RAM,GreenCell,405
+LP0421,Display,IntelWorks,244
+LP0421,Battery,CoolTech,323
+LP0421,Cooling Fan,Nvidia,394
+LP0421,GPU,Nvidia,262
+LP0421,Speaker,KeyTech,149
+LP0421,Keyboard,Kingston,327
+LP0422,Cooling Fan,Nvidia,238
+LP0422,GPU,Samsung,315
+LP0422,SSD,Nvidia,323
+LP0422,Motherboard,IntelWorks,103
+LP0422,Display,GreenCell,492
+LP0422,Touchpad,Samsung,473
+LP0422,Speaker,KeyTech,310
+LP0423,Battery,Kingston,254
+LP0423,RAM,Nvidia,104
+LP0423,Motherboard,CoolTech,20
+LP0423,Cooling Fan,GreenCell,122
+LP0423,Touchpad,GreenCell,174
+LP0423,Display,Samsung,61
+LP0424,Keyboard,GreenCell,370
+LP0424,Touchpad,Kingston,22
+LP0424,GPU,CoolTech,101
+LP0424,Motherboard,Kingston,71
+LP0424,RAM,CoolTech,301
+LP0424,Display,Nvidia,377
+LP0425,Cooling Fan,Nvidia,85
+LP0425,GPU,Kingston,410
+LP0425,Touchpad,GreenCell,224
+LP0425,RAM,Kingston,479
+LP0425,Display,Samsung,439
+LP0425,Motherboard,Nvidia,325
+LP0426,Speaker,GreenCell,413
+LP0426,Display,KeyTech,208
+LP0426,RAM,Kingston,194
+LP0426,Keyboard,IntelWorks,332
+LP0426,Cooling Fan,Nvidia,488
+LP0426,SSD,VisionDisplay,350
+LP0426,Motherboard,KeyTech,90
+LP0426,GPU,CoolTech,116
+LP0427,Keyboard,Nvidia,354
+LP0427,SSD,GreenCell,237
+LP0427,GPU,GreenCell,165
+LP0427,Motherboard,Samsung,218
+LP0427,Battery,CoolTech,37
+LP0428,GPU,CoolTech,432
+LP0428,Battery,VisionDisplay,197
+LP0428,Speaker,VisionDisplay,355
+LP0428,Keyboard,Nvidia,431
+LP0428,RAM,IntelWorks,102
+LP0428,SSD,Kingston,85
+LP0428,Motherboard,Nvidia,371
+LP0429,Motherboard,VisionDisplay,329
+LP0429,Cooling Fan,CoolTech,277
+LP0429,GPU,Kingston,419
+LP0429,Keyboard,CoolTech,384
+LP0429,Touchpad,Kingston,452
+LP0429,Battery,Kingston,77
+LP0429,Speaker,GreenCell,237
+LP0429,Display,Nvidia,465
+LP0430,Battery,Samsung,121
+LP0430,Motherboard,CoolTech,242
+LP0430,RAM,IntelWorks,257
+LP0430,Cooling Fan,Samsung,40
+LP0430,SSD,VisionDisplay,464
+LP0431,Cooling Fan,Kingston,365
+LP0431,RAM,Samsung,412
+LP0431,Motherboard,IntelWorks,297
+LP0431,SSD,Samsung,111
+LP0431,Speaker,Samsung,202
+LP0431,Battery,Nvidia,28
+LP0431,GPU,CoolTech,186
+LP0431,Display,Samsung,345
+LP0432,Touchpad,Nvidia,147
+LP0432,Display,GreenCell,63
+LP0432,RAM,VisionDisplay,84
+LP0432,Cooling Fan,GreenCell,344
+LP0432,Motherboard,CoolTech,240
+LP0433,RAM,IntelWorks,59
+LP0433,Cooling Fan,Kingston,210
+LP0433,Keyboard,IntelWorks,95
+LP0433,GPU,VisionDisplay,215
+LP0433,Touchpad,VisionDisplay,192
+LP0433,SSD,Samsung,236
+LP0433,Speaker,Nvidia,31
+LP0434,SSD,Samsung,175
+LP0434,Display,KeyTech,375
+LP0434,GPU,IntelWorks,211
+LP0434,Motherboard,CoolTech,130
+LP0434,Speaker,Nvidia,160
+LP0434,Touchpad,GreenCell,161
+LP0435,Touchpad,Samsung,22
+LP0435,GPU,Nvidia,126
+LP0435,Battery,IntelWorks,420
+LP0435,RAM,Nvidia,356
+LP0435,Cooling Fan,GreenCell,160
+LP0436,Cooling Fan,KeyTech,52
+LP0436,RAM,Samsung,392
+LP0436,Display,CoolTech,321
+LP0436,Touchpad,Nvidia,345
+LP0436,GPU,Kingston,297
+LP0436,Motherboard,Nvidia,263
+LP0436,Battery,IntelWorks,195
+LP0437,RAM,GreenCell,364
+LP0437,Touchpad,Nvidia,150
+LP0437,Cooling Fan,Nvidia,36
+LP0437,Display,VisionDisplay,343
+LP0437,Keyboard,CoolTech,307
+LP0437,Speaker,Kingston,62
+LP0437,GPU,KeyTech,402
+LP0438,SSD,GreenCell,339
+LP0438,Touchpad,GreenCell,339
+LP0438,RAM,Kingston,309
+LP0438,Keyboard,Nvidia,232
+LP0438,Cooling Fan,IntelWorks,404
+LP0438,GPU,Samsung,304
+LP0438,Motherboard,CoolTech,140
+LP0439,Speaker,KeyTech,76
+LP0439,Battery,Samsung,111
+LP0439,GPU,GreenCell,412
+LP0439,SSD,Nvidia,301
+LP0439,Motherboard,Nvidia,200
+LP0439,RAM,KeyTech,234
+LP0439,Keyboard,Samsung,183
+LP0439,Cooling Fan,Kingston,342
+LP0440,RAM,CoolTech,407
+LP0440,Speaker,CoolTech,166
+LP0440,GPU,CoolTech,100
+LP0440,Display,GreenCell,224
+LP0440,Keyboard,Samsung,21
+LP0441,Cooling Fan,Nvidia,116
+LP0441,Battery,IntelWorks,336
+LP0441,Display,KeyTech,90
+LP0441,Keyboard,VisionDisplay,326
+LP0441,SSD,Nvidia,31
+LP0441,GPU,Kingston,332
+LP0441,RAM,KeyTech,105
+LP0442,Display,CoolTech,208
+LP0442,RAM,KeyTech,109
+LP0442,Motherboard,CoolTech,499
+LP0442,Speaker,KeyTech,185
+LP0442,SSD,GreenCell,170
+LP0442,Keyboard,VisionDisplay,477
+LP0442,Touchpad,IntelWorks,125
+LP0442,Cooling Fan,CoolTech,255
+LP0443,Touchpad,VisionDisplay,431
+LP0443,Cooling Fan,Kingston,466
+LP0443,Keyboard,GreenCell,145
+LP0443,GPU,CoolTech,389
+LP0443,Display,VisionDisplay,23
+LP0443,Speaker,IntelWorks,369
+LP0444,Speaker,IntelWorks,244
+LP0444,Cooling Fan,CoolTech,443
+LP0444,GPU,IntelWorks,169
+LP0444,Motherboard,Nvidia,444
+LP0444,Keyboard,IntelWorks,206
+LP0444,Battery,Nvidia,386
+LP0444,Touchpad,CoolTech,239
+LP0444,SSD,VisionDisplay,73
+LP0445,SSD,GreenCell,487
+LP0445,Display,KeyTech,427
+LP0445,Battery,CoolTech,127
+LP0445,Cooling Fan,Samsung,69
+LP0445,Keyboard,Kingston,348
+LP0445,GPU,VisionDisplay,254
+LP0446,Keyboard,Samsung,310
+LP0446,SSD,Samsung,324
+LP0446,RAM,IntelWorks,409
+LP0446,Battery,GreenCell,95
+LP0446,Cooling Fan,Samsung,33
+LP0446,Touchpad,KeyTech,470
+LP0446,GPU,Kingston,308
+LP0446,Display,Kingston,385
+LP0447,SSD,GreenCell,400
+LP0447,Battery,GreenCell,95
+LP0447,Touchpad,Samsung,459
+LP0447,Keyboard,Nvidia,151
+LP0447,RAM,KeyTech,34
+LP0447,GPU,KeyTech,318
+LP0447,Speaker,Samsung,95
+LP0448,SSD,GreenCell,196
+LP0448,RAM,GreenCell,320
+LP0448,GPU,Kingston,287
+LP0448,Keyboard,Kingston,213
+LP0448,Touchpad,CoolTech,351
+LP0449,Speaker,VisionDisplay,195
+LP0449,Cooling Fan,KeyTech,178
+LP0449,Battery,KeyTech,134
+LP0449,Keyboard,GreenCell,162
+LP0449,GPU,VisionDisplay,352
+LP0449,Motherboard,KeyTech,202
+LP0450,Cooling Fan,VisionDisplay,188
+LP0450,Motherboard,VisionDisplay,158
+LP0450,Keyboard,VisionDisplay,428
+LP0450,RAM,IntelWorks,248
+LP0450,Display,KeyTech,145
+LP0450,Battery,Samsung,428
+LP0450,Speaker,GreenCell,373
+LP0450,GPU,KeyTech,136
+LP0451,Battery,VisionDisplay,483
+LP0451,Motherboard,GreenCell,287
+LP0451,SSD,Samsung,51
+LP0451,Cooling Fan,KeyTech,136
+LP0451,Touchpad,KeyTech,319
+LP0451,Speaker,CoolTech,257
+LP0451,Display,VisionDisplay,294
+LP0451,RAM,IntelWorks,183
+LP0452,Keyboard,CoolTech,121
+LP0452,Cooling Fan,VisionDisplay,297
+LP0452,Display,KeyTech,326
+LP0452,Touchpad,CoolTech,173
+LP0452,Motherboard,IntelWorks,317
+LP0453,Display,Samsung,406
+LP0453,Cooling Fan,Nvidia,327
+LP0453,Keyboard,Samsung,272
+LP0453,SSD,GreenCell,188
+LP0453,RAM,CoolTech,283
+LP0453,GPU,Samsung,350
+LP0453,Speaker,Samsung,155
+LP0453,Motherboard,KeyTech,194
+LP0454,Speaker,CoolTech,23
+LP0454,Touchpad,Kingston,477
+LP0454,SSD,CoolTech,273
+LP0454,RAM,GreenCell,111
+LP0454,Keyboard,VisionDisplay,409
+LP0454,Motherboard,Nvidia,364
+LP0454,Display,Samsung,68
+LP0455,RAM,Samsung,183
+LP0455,Speaker,CoolTech,72
+LP0455,Battery,Samsung,494
+LP0455,Display,KeyTech,312
+LP0455,Motherboard,GreenCell,185
+LP0455,GPU,GreenCell,118
+LP0455,SSD,Nvidia,422
+LP0455,Keyboard,GreenCell,456
+LP0456,Touchpad,Nvidia,419
+LP0456,Battery,Samsung,137
+LP0456,RAM,Samsung,261
+LP0456,SSD,Samsung,209
+LP0456,Keyboard,GreenCell,176
+LP0456,GPU,Kingston,392
+LP0457,RAM,IntelWorks,410
+LP0457,Cooling Fan,Nvidia,48
+LP0457,SSD,Nvidia,201
+LP0457,Keyboard,GreenCell,253
+LP0457,Speaker,Samsung,29
+LP0457,GPU,KeyTech,126
+LP0457,Touchpad,Samsung,170
+LP0458,Motherboard,KeyTech,336
+LP0458,RAM,CoolTech,458
+LP0458,GPU,Samsung,74
+LP0458,Cooling Fan,VisionDisplay,144
+LP0458,Keyboard,GreenCell,186
+LP0458,Battery,CoolTech,389
+LP0458,Display,CoolTech,43
+LP0459,Cooling Fan,IntelWorks,347
+LP0459,Keyboard,Kingston,161
+LP0459,SSD,Kingston,244
+LP0459,Touchpad,Samsung,76
+LP0459,GPU,CoolTech,88
+LP0459,Speaker,VisionDisplay,186
+LP0459,Motherboard,Nvidia,442
+LP0459,RAM,GreenCell,467
+LP0460,Touchpad,KeyTech,187
+LP0460,SSD,Samsung,305
+LP0460,Keyboard,Samsung,373
+LP0460,Speaker,IntelWorks,91
+LP0460,Motherboard,VisionDisplay,465
+LP0460,Cooling Fan,Kingston,456
+LP0461,Cooling Fan,Kingston,190
+LP0461,Keyboard,KeyTech,366
+LP0461,Battery,Samsung,150
+LP0461,Touchpad,IntelWorks,91
+LP0461,Speaker,VisionDisplay,348
+LP0461,Display,Nvidia,238
+LP0461,RAM,Nvidia,432
+LP0462,Motherboard,Kingston,424
+LP0462,Speaker,CoolTech,164
+LP0462,Touchpad,Kingston,344
+LP0462,SSD,VisionDisplay,396
+LP0462,Battery,VisionDisplay,309
+LP0462,Cooling Fan,VisionDisplay,305
+LP0462,Keyboard,VisionDisplay,292
+LP0462,GPU,GreenCell,428
+LP0463,Touchpad,Nvidia,438
+LP0463,Cooling Fan,Samsung,258
+LP0463,Keyboard,CoolTech,475
+LP0463,GPU,GreenCell,353
+LP0463,Motherboard,Kingston,57
+LP0464,Touchpad,IntelWorks,225
+LP0464,RAM,Samsung,23
+LP0464,Cooling Fan,Nvidia,29
+LP0464,SSD,IntelWorks,135
+LP0464,Speaker,Kingston,238
+LP0464,Keyboard,GreenCell,152
+LP0465,Touchpad,Kingston,477
+LP0465,RAM,GreenCell,116
+LP0465,Cooling Fan,GreenCell,125
+LP0465,Speaker,Samsung,112
+LP0465,GPU,VisionDisplay,33
+LP0465,Display,IntelWorks,419
+LP0466,Speaker,KeyTech,123
+LP0466,RAM,Samsung,103
+LP0466,Display,Nvidia,158
+LP0466,Battery,KeyTech,499
+LP0466,GPU,KeyTech,415
+LP0466,Cooling Fan,Kingston,33
+LP0467,Cooling Fan,Nvidia,45
+LP0467,Display,CoolTech,244
+LP0467,GPU,Nvidia,121
+LP0467,Motherboard,KeyTech,414
+LP0467,Keyboard,Nvidia,322
+LP0467,Speaker,VisionDisplay,67
+LP0468,Speaker,CoolTech,399
+LP0468,Touchpad,Kingston,403
+LP0468,Display,Kingston,232
+LP0468,Cooling Fan,KeyTech,127
+LP0468,GPU,VisionDisplay,429
+LP0468,Motherboard,Kingston,264
+LP0469,Speaker,Nvidia,459
+LP0469,Display,VisionDisplay,201
+LP0469,Cooling Fan,Kingston,178
+LP0469,Motherboard,VisionDisplay,242
+LP0469,GPU,Samsung,137
+LP0469,Keyboard,VisionDisplay,353
+LP0469,SSD,Nvidia,468
+LP0470,Motherboard,IntelWorks,85
+LP0470,SSD,GreenCell,91
+LP0470,RAM,CoolTech,410
+LP0470,Touchpad,IntelWorks,51
+LP0470,Display,KeyTech,463
+LP0470,Cooling Fan,Samsung,210
+LP0470,Speaker,Nvidia,441
+LP0470,Battery,GreenCell,234
+LP0471,Battery,Kingston,470
+LP0471,Speaker,VisionDisplay,422
+LP0471,Touchpad,GreenCell,35
+LP0471,RAM,CoolTech,124
+LP0471,GPU,Samsung,226
+LP0471,Display,Kingston,485
+LP0472,Touchpad,CoolTech,37
+LP0472,RAM,GreenCell,487
+LP0472,Motherboard,Nvidia,43
+LP0472,GPU,Nvidia,410
+LP0472,Cooling Fan,GreenCell,100
+LP0472,Battery,VisionDisplay,27
+LP0472,Speaker,Kingston,479
+LP0473,Display,Nvidia,458
+LP0473,GPU,CoolTech,88
+LP0473,Touchpad,IntelWorks,179
+LP0473,Motherboard,CoolTech,260
+LP0473,Keyboard,Samsung,85
+LP0473,RAM,Kingston,356
+LP0474,Touchpad,GreenCell,132
+LP0474,Display,GreenCell,432
+LP0474,Cooling Fan,GreenCell,135
+LP0474,Keyboard,VisionDisplay,400
+LP0474,RAM,VisionDisplay,387
+LP0474,SSD,Nvidia,164
+LP0474,Speaker,VisionDisplay,147
+LP0475,SSD,Samsung,409
+LP0475,Battery,GreenCell,187
+LP0475,Touchpad,Nvidia,211
+LP0475,Speaker,GreenCell,316
+LP0475,RAM,IntelWorks,402
+LP0475,Keyboard,Nvidia,343
+LP0476,Keyboard,IntelWorks,447
+LP0476,Battery,KeyTech,102
+LP0476,Motherboard,Nvidia,185
+LP0476,Display,IntelWorks,312
+LP0476,RAM,CoolTech,267
+LP0477,Keyboard,CoolTech,80
+LP0477,GPU,Samsung,355
+LP0477,Cooling Fan,Kingston,192
+LP0477,Display,GreenCell,150
+LP0477,Touchpad,Kingston,433
+LP0477,SSD,CoolTech,415
+LP0477,Battery,CoolTech,359
+LP0478,RAM,Nvidia,348
+LP0478,Speaker,IntelWorks,298
+LP0478,SSD,GreenCell,68
+LP0478,Motherboard,KeyTech,254
+LP0478,Battery,VisionDisplay,81
+LP0479,Battery,GreenCell,223
+LP0479,RAM,KeyTech,92
+LP0479,SSD,KeyTech,417
+LP0479,Keyboard,IntelWorks,121
+LP0479,GPU,Kingston,289
+LP0479,Cooling Fan,GreenCell,308
+LP0479,Motherboard,IntelWorks,429
+LP0480,Speaker,KeyTech,451
+LP0480,Keyboard,GreenCell,296
+LP0480,Battery,Nvidia,459
+LP0480,Cooling Fan,KeyTech,162
+LP0480,Display,IntelWorks,225
+LP0480,Motherboard,Samsung,219
+LP0480,RAM,Nvidia,477
+LP0481,Cooling Fan,Samsung,126
+LP0481,RAM,VisionDisplay,50
+LP0481,Battery,Nvidia,91
+LP0481,Speaker,GreenCell,266
+LP0481,Touchpad,GreenCell,411
+LP0481,Motherboard,KeyTech,220
+LP0481,SSD,GreenCell,350
+LP0481,Display,Nvidia,220
+LP0482,Keyboard,Nvidia,83
+LP0482,RAM,GreenCell,125
+LP0482,Display,CoolTech,92
+LP0482,Cooling Fan,Samsung,409
+LP0482,Battery,Kingston,25
+LP0482,GPU,VisionDisplay,286
+LP0483,Speaker,VisionDisplay,297
+LP0483,Display,CoolTech,98
+LP0483,Cooling Fan,VisionDisplay,470
+LP0483,Touchpad,Kingston,468
+LP0483,RAM,Samsung,40
+LP0483,Keyboard,Nvidia,449
+LP0483,Battery,Samsung,77
+LP0484,GPU,Kingston,143
+LP0484,Battery,CoolTech,448
+LP0484,Cooling Fan,Nvidia,235
+LP0484,Touchpad,IntelWorks,346
+LP0484,Speaker,VisionDisplay,462
+LP0484,Display,Samsung,451
+LP0484,Motherboard,Samsung,483
+LP0484,Keyboard,Samsung,347
+LP0485,GPU,KeyTech,319
+LP0485,SSD,CoolTech,133
+LP0485,RAM,Nvidia,360
+LP0485,Motherboard,Samsung,73
+LP0485,Touchpad,CoolTech,307
+LP0485,Cooling Fan,Nvidia,330
+LP0485,Keyboard,Nvidia,41
+LP0486,Touchpad,Kingston,317
+LP0486,Display,Nvidia,437
+LP0486,Speaker,Nvidia,387
+LP0486,Motherboard,IntelWorks,197
+LP0486,Cooling Fan,CoolTech,456
+LP0487,Touchpad,GreenCell,32
+LP0487,Speaker,Kingston,70
+LP0487,Motherboard,Samsung,491
+LP0487,Keyboard,Nvidia,430
+LP0487,RAM,IntelWorks,393
+LP0487,GPU,CoolTech,454
+LP0487,Cooling Fan,Samsung,203
+LP0487,SSD,Kingston,200
+LP0488,SSD,GreenCell,127
+LP0488,Cooling Fan,Kingston,399
+LP0488,Motherboard,Nvidia,405
+LP0488,Battery,Kingston,419
+LP0488,Keyboard,GreenCell,452
+LP0488,GPU,CoolTech,458
+LP0489,RAM,VisionDisplay,488
+LP0489,Touchpad,VisionDisplay,347
+LP0489,Keyboard,Nvidia,180
+LP0489,Battery,CoolTech,347
+LP0489,GPU,GreenCell,407
+LP0490,Keyboard,GreenCell,185
+LP0490,SSD,IntelWorks,77
+LP0490,Cooling Fan,KeyTech,317
+LP0490,Battery,Samsung,485
+LP0490,GPU,Samsung,407
+LP0490,Touchpad,GreenCell,223
+LP0490,RAM,VisionDisplay,121
+LP0490,Motherboard,VisionDisplay,66
+LP0491,SSD,VisionDisplay,452
+LP0491,Battery,Samsung,334
+LP0491,RAM,VisionDisplay,185
+LP0491,Touchpad,KeyTech,246
+LP0491,Speaker,IntelWorks,145
+LP0491,Keyboard,GreenCell,361
+LP0491,Display,Samsung,33
+LP0491,GPU,CoolTech,134
+LP0492,Keyboard,IntelWorks,171
+LP0492,Touchpad,KeyTech,30
+LP0492,Cooling Fan,CoolTech,449
+LP0492,RAM,CoolTech,232
+LP0492,Display,KeyTech,231
+LP0492,GPU,GreenCell,454
+LP0493,Touchpad,Kingston,480
+LP0493,GPU,KeyTech,183
+LP0493,SSD,Kingston,59
+LP0493,RAM,GreenCell,184
+LP0493,Battery,KeyTech,427
+LP0493,Speaker,GreenCell,69
+LP0493,Keyboard,CoolTech,294
+LP0493,Display,Kingston,73
+LP0494,RAM,IntelWorks,255
+LP0494,Speaker,CoolTech,274
+LP0494,Keyboard,Nvidia,53
+LP0494,Cooling Fan,GreenCell,31
+LP0494,Battery,CoolTech,306
+LP0494,SSD,IntelWorks,478
+LP0495,Cooling Fan,Samsung,479
+LP0495,Battery,IntelWorks,385
+LP0495,Display,CoolTech,240
+LP0495,RAM,GreenCell,222
+LP0495,Speaker,KeyTech,358
+LP0495,Motherboard,CoolTech,178
+LP0495,GPU,Samsung,189
+LP0496,Touchpad,Kingston,461
+LP0496,Speaker,IntelWorks,332
+LP0496,GPU,IntelWorks,384
+LP0496,Display,Kingston,320
+LP0496,SSD,VisionDisplay,416
+LP0496,RAM,VisionDisplay,334
+LP0497,Speaker,KeyTech,327
+LP0497,GPU,GreenCell,447
+LP0497,Battery,GreenCell,35
+LP0497,RAM,CoolTech,393
+LP0497,Display,VisionDisplay,189
+LP0498,Display,Nvidia,376
+LP0498,GPU,CoolTech,90
+LP0498,Speaker,Kingston,113
+LP0498,Cooling Fan,VisionDisplay,179
+LP0498,Keyboard,Kingston,110
+LP0499,SSD,Kingston,351
+LP0499,Cooling Fan,VisionDisplay,193
+LP0499,Display,CoolTech,404
+LP0499,Speaker,VisionDisplay,288
+LP0499,Battery,Samsung,30
+LP0499,Keyboard,IntelWorks,305
+LP0499,GPU,IntelWorks,369
+LP0499,Motherboard,Kingston,68
+LP0500,Motherboard,Samsung,34
+LP0500,Speaker,Kingston,459
+LP0500,Touchpad,VisionDisplay,108
+LP0500,Cooling Fan,KeyTech,345
+LP0500,Battery,CoolTech,113
+LP0500,Keyboard,KeyTech,196
+LP0501,Battery,GreenCell,279
+LP0501,RAM,GreenCell,436
+LP0501,Touchpad,CoolTech,35
+LP0501,Keyboard,IntelWorks,498
+LP0501,Speaker,VisionDisplay,433
+LP0502,SSD,VisionDisplay,274
+LP0502,Display,KeyTech,328
+LP0502,RAM,GreenCell,333
+LP0502,Cooling Fan,Kingston,500
+LP0502,Speaker,CoolTech,495
+LP0502,Touchpad,Nvidia,421
+LP0502,GPU,CoolTech,79
+LP0503,RAM,CoolTech,116
+LP0503,Keyboard,Nvidia,41
+LP0503,Touchpad,Kingston,50
+LP0503,Display,CoolTech,435
+LP0503,GPU,VisionDisplay,454
+LP0504,RAM,KeyTech,164
+LP0504,Speaker,Kingston,89
+LP0504,GPU,CoolTech,410
+LP0504,Cooling Fan,KeyTech,169
+LP0504,SSD,Nvidia,226
+LP0505,GPU,CoolTech,332
+LP0505,Display,Nvidia,176
+LP0505,Cooling Fan,CoolTech,422
+LP0505,Motherboard,Samsung,414
+LP0505,Keyboard,IntelWorks,290
+LP0505,Touchpad,IntelWorks,116
+LP0505,Battery,VisionDisplay,177
+LP0505,RAM,GreenCell,348
+LP0506,Motherboard,Kingston,295
+LP0506,Speaker,IntelWorks,441
+LP0506,Touchpad,Nvidia,398
+LP0506,Cooling Fan,GreenCell,280
+LP0506,Battery,Kingston,368
+LP0506,Keyboard,IntelWorks,486
+LP0506,Display,KeyTech,70
+LP0507,Battery,IntelWorks,43
+LP0507,Keyboard,Nvidia,125
+LP0507,RAM,VisionDisplay,493
+LP0507,Motherboard,Samsung,22
+LP0507,Cooling Fan,KeyTech,357
+LP0507,Display,Kingston,110
+LP0507,Speaker,Nvidia,443
+LP0507,GPU,KeyTech,210
+LP0508,Motherboard,Samsung,124
+LP0508,Battery,Samsung,229
+LP0508,Speaker,IntelWorks,232
+LP0508,SSD,Nvidia,213
+LP0508,Display,Samsung,451
+LP0508,GPU,KeyTech,438
+LP0508,Cooling Fan,CoolTech,149
+LP0508,RAM,IntelWorks,340
+LP0509,Motherboard,VisionDisplay,79
+LP0509,Cooling Fan,GreenCell,481
+LP0509,Battery,CoolTech,54
+LP0509,RAM,GreenCell,294
+LP0509,GPU,Kingston,105
+LP0509,Display,Samsung,368
+LP0509,Touchpad,Nvidia,165
+LP0509,Speaker,Samsung,165
+LP0510,Display,KeyTech,85
+LP0510,Touchpad,IntelWorks,260
+LP0510,GPU,CoolTech,75
+LP0510,Cooling Fan,VisionDisplay,137
+LP0510,Speaker,IntelWorks,446
+LP0510,Motherboard,Nvidia,114
+LP0510,Keyboard,VisionDisplay,410
+LP0511,Keyboard,GreenCell,246
+LP0511,GPU,IntelWorks,359
+LP0511,RAM,KeyTech,413
+LP0511,Touchpad,KeyTech,391
+LP0511,Cooling Fan,Kingston,42
+LP0512,Battery,CoolTech,122
+LP0512,RAM,IntelWorks,220
+LP0512,SSD,Nvidia,98
+LP0512,Display,Samsung,278
+LP0512,Touchpad,VisionDisplay,135
+LP0513,Keyboard,KeyTech,328
+LP0513,RAM,Samsung,305
+LP0513,Cooling Fan,GreenCell,93
+LP0513,Motherboard,Kingston,49
+LP0513,Touchpad,VisionDisplay,370
+LP0513,GPU,VisionDisplay,229
+LP0514,Touchpad,GreenCell,481
+LP0514,Battery,VisionDisplay,370
+LP0514,RAM,KeyTech,23
+LP0514,Speaker,Nvidia,21
+LP0514,Motherboard,IntelWorks,436
+LP0515,Touchpad,CoolTech,499
+LP0515,Display,Nvidia,164
+LP0515,Keyboard,Nvidia,250
+LP0515,GPU,KeyTech,369
+LP0515,RAM,CoolTech,333
+LP0515,Motherboard,Samsung,196
+LP0515,SSD,CoolTech,265
+LP0515,Cooling Fan,GreenCell,252
+LP0516,Keyboard,Samsung,471
+LP0516,Battery,GreenCell,208
+LP0516,SSD,IntelWorks,241
+LP0516,RAM,Samsung,93
+LP0516,GPU,IntelWorks,255
+LP0516,Display,Nvidia,383
+LP0516,Touchpad,KeyTech,225
+LP0517,RAM,CoolTech,247
+LP0517,Keyboard,Nvidia,257
+LP0517,GPU,Kingston,192
+LP0517,Speaker,Kingston,360
+LP0517,Cooling Fan,Nvidia,88
+LP0517,Touchpad,KeyTech,145
+LP0518,Keyboard,Kingston,349
+LP0518,Touchpad,Samsung,129
+LP0518,RAM,Nvidia,92
+LP0518,Speaker,CoolTech,75
+LP0518,SSD,CoolTech,173
+LP0518,GPU,Nvidia,46
+LP0519,Keyboard,Nvidia,112
+LP0519,RAM,CoolTech,32
+LP0519,Battery,KeyTech,217
+LP0519,Speaker,GreenCell,159
+LP0519,Touchpad,GreenCell,348
+LP0519,SSD,Nvidia,314
+LP0520,Battery,CoolTech,181
+LP0520,GPU,IntelWorks,366
+LP0520,RAM,VisionDisplay,422
+LP0520,Keyboard,VisionDisplay,63
+LP0520,Display,IntelWorks,24
+LP0520,Cooling Fan,IntelWorks,189
+LP0521,RAM,KeyTech,177
+LP0521,Touchpad,VisionDisplay,205
+LP0521,Keyboard,Kingston,318
+LP0521,Speaker,CoolTech,263
+LP0521,Display,Kingston,380
+LP0522,SSD,GreenCell,103
+LP0522,Touchpad,Nvidia,80
+LP0522,Display,Nvidia,101
+LP0522,GPU,CoolTech,378
+LP0522,Speaker,Samsung,373
+LP0522,Cooling Fan,KeyTech,78
+LP0523,Cooling Fan,Nvidia,264
+LP0523,Display,GreenCell,412
+LP0523,Motherboard,IntelWorks,320
+LP0523,Speaker,Kingston,496
+LP0523,Keyboard,CoolTech,319
+LP0523,RAM,GreenCell,249
+LP0524,Cooling Fan,VisionDisplay,110
+LP0524,RAM,GreenCell,339
+LP0524,Speaker,Samsung,366
+LP0524,Motherboard,Nvidia,489
+LP0524,Battery,GreenCell,76
+LP0525,RAM,IntelWorks,338
+LP0525,SSD,Nvidia,106
+LP0525,Display,Kingston,455
+LP0525,Battery,Samsung,118
+LP0525,Speaker,Samsung,286
+LP0525,Keyboard,IntelWorks,270
+LP0526,Battery,Nvidia,192
+LP0526,Motherboard,IntelWorks,159
+LP0526,Keyboard,CoolTech,357
+LP0526,RAM,VisionDisplay,190
+LP0526,Touchpad,IntelWorks,86
+LP0526,GPU,IntelWorks,396
+LP0526,Cooling Fan,IntelWorks,174
+LP0527,Keyboard,Kingston,431
+LP0527,Cooling Fan,Nvidia,228
+LP0527,GPU,Kingston,87
+LP0527,Touchpad,Kingston,388
+LP0527,Motherboard,Samsung,302
+LP0527,Battery,KeyTech,270
+LP0527,Speaker,Samsung,156
+LP0527,Display,VisionDisplay,487
+LP0528,Display,GreenCell,211
+LP0528,RAM,VisionDisplay,98
+LP0528,Touchpad,KeyTech,418
+LP0528,Motherboard,VisionDisplay,462
+LP0528,Cooling Fan,VisionDisplay,24
+LP0528,GPU,IntelWorks,397
+LP0528,Speaker,Kingston,465
+LP0528,SSD,VisionDisplay,99
+LP0529,RAM,VisionDisplay,115
+LP0529,Display,VisionDisplay,387
+LP0529,Speaker,VisionDisplay,21
+LP0529,Motherboard,Nvidia,425
+LP0529,Touchpad,KeyTech,127
+LP0529,Cooling Fan,IntelWorks,387
+LP0529,SSD,VisionDisplay,218
+LP0529,Battery,Kingston,340
+LP0530,Cooling Fan,CoolTech,167
+LP0530,Keyboard,IntelWorks,246
+LP0530,Touchpad,GreenCell,279
+LP0530,SSD,IntelWorks,60
+LP0530,RAM,GreenCell,121
+LP0530,Display,Samsung,93
+LP0531,Display,GreenCell,222
+LP0531,Touchpad,Samsung,327
+LP0531,Keyboard,Nvidia,279
+LP0531,Speaker,Samsung,131
+LP0531,Battery,Nvidia,148
+LP0531,GPU,Kingston,396
+LP0532,Speaker,IntelWorks,52
+LP0532,Motherboard,CoolTech,196
+LP0532,SSD,IntelWorks,337
+LP0532,Battery,Nvidia,60
+LP0532,Display,CoolTech,26
+LP0532,Touchpad,VisionDisplay,183
+LP0533,Touchpad,CoolTech,209
+LP0533,Display,CoolTech,173
+LP0533,SSD,CoolTech,180
+LP0533,RAM,KeyTech,136
+LP0533,Battery,GreenCell,41
+LP0533,Keyboard,Kingston,229
+LP0533,GPU,CoolTech,470
+LP0534,RAM,Nvidia,234
+LP0534,GPU,IntelWorks,467
+LP0534,Cooling Fan,GreenCell,423
+LP0534,Speaker,Kingston,215
+LP0534,Keyboard,GreenCell,224
+LP0534,Touchpad,Kingston,27
+LP0534,Display,Nvidia,425
+LP0534,Motherboard,GreenCell,97
+LP0535,Keyboard,Samsung,192
+LP0535,Display,KeyTech,31
+LP0535,Motherboard,CoolTech,220
+LP0535,Touchpad,GreenCell,175
+LP0535,GPU,Samsung,136
+LP0535,Speaker,KeyTech,269
+LP0536,GPU,VisionDisplay,185
+LP0536,Touchpad,CoolTech,331
+LP0536,Battery,Samsung,92
+LP0536,Keyboard,KeyTech,285
+LP0536,RAM,CoolTech,431
+LP0536,Motherboard,KeyTech,233
+LP0536,Cooling Fan,CoolTech,26
+LP0536,SSD,Samsung,343
+LP0537,RAM,GreenCell,291
+LP0537,SSD,Samsung,194
+LP0537,GPU,Kingston,433
+LP0537,Speaker,GreenCell,209
+LP0537,Motherboard,CoolTech,52
+LP0537,Cooling Fan,IntelWorks,248
+LP0538,GPU,CoolTech,422
+LP0538,Keyboard,Samsung,304
+LP0538,Speaker,Kingston,315
+LP0538,Battery,Kingston,377
+LP0538,RAM,KeyTech,481
+LP0538,Display,GreenCell,184
+LP0538,Touchpad,KeyTech,382
+LP0539,Keyboard,VisionDisplay,216
+LP0539,Cooling Fan,GreenCell,339
+LP0539,Speaker,Kingston,61
+LP0539,Motherboard,CoolTech,256
+LP0539,Battery,Samsung,54
+LP0539,SSD,CoolTech,219
+LP0540,SSD,KeyTech,134
+LP0540,Battery,IntelWorks,187
+LP0540,RAM,Kingston,442
+LP0540,GPU,CoolTech,307
+LP0540,Motherboard,GreenCell,421
+LP0540,Keyboard,Samsung,183
+LP0541,RAM,IntelWorks,396
+LP0541,Speaker,KeyTech,288
+LP0541,Keyboard,Samsung,147
+LP0541,GPU,Nvidia,236
+LP0541,Touchpad,IntelWorks,172
+LP0541,Display,Samsung,124
+LP0541,Motherboard,GreenCell,171
+LP0541,SSD,IntelWorks,34
+LP0542,Display,GreenCell,324
+LP0542,RAM,CoolTech,408
+LP0542,Cooling Fan,Kingston,75
+LP0542,GPU,Samsung,253
+LP0542,Touchpad,Samsung,121
+LP0542,Keyboard,CoolTech,165
+LP0542,SSD,GreenCell,320
+LP0542,Battery,GreenCell,185
+LP0543,Display,Kingston,92
+LP0543,Motherboard,Kingston,445
+LP0543,RAM,Nvidia,301
+LP0543,SSD,IntelWorks,341
+LP0543,Keyboard,Nvidia,350
+LP0544,GPU,IntelWorks,472
+LP0544,Battery,IntelWorks,390
+LP0544,RAM,GreenCell,274
+LP0544,SSD,VisionDisplay,494
+LP0544,Motherboard,VisionDisplay,91
+LP0544,Speaker,GreenCell,72
+LP0544,Touchpad,GreenCell,385
+LP0545,Display,Kingston,404
+LP0545,RAM,VisionDisplay,272
+LP0545,Speaker,Nvidia,299
+LP0545,Battery,IntelWorks,288
+LP0545,Motherboard,Nvidia,348
+LP0545,Keyboard,Nvidia,375
+LP0546,Speaker,Samsung,136
+LP0546,Display,KeyTech,48
+LP0546,Keyboard,IntelWorks,46
+LP0546,Cooling Fan,KeyTech,265
+LP0546,Touchpad,IntelWorks,41
+LP0546,Motherboard,KeyTech,408
+LP0547,Battery,IntelWorks,281
+LP0547,Touchpad,Samsung,272
+LP0547,RAM,IntelWorks,362
+LP0547,Speaker,Nvidia,301
+LP0547,Keyboard,VisionDisplay,40
+LP0547,Cooling Fan,KeyTech,321
+LP0548,Keyboard,VisionDisplay,317
+LP0548,Touchpad,Kingston,280
+LP0548,Cooling Fan,GreenCell,223
+LP0548,Motherboard,KeyTech,97
+LP0548,Battery,IntelWorks,488
+LP0549,SSD,Samsung,191
+LP0549,Speaker,KeyTech,187
+LP0549,RAM,Samsung,221
+LP0549,Touchpad,VisionDisplay,353
+LP0549,Keyboard,Samsung,251
+LP0549,Display,IntelWorks,248
+LP0549,GPU,Nvidia,124
+LP0550,Display,KeyTech,408
+LP0550,Motherboard,Samsung,446
+LP0550,GPU,KeyTech,473
+LP0550,Cooling Fan,Samsung,204
+LP0550,Speaker,CoolTech,47
+LP0550,Touchpad,KeyTech,310
+LP0551,Keyboard,Kingston,125
+LP0551,Speaker,CoolTech,388
+LP0551,Motherboard,Nvidia,388
+LP0551,Battery,Kingston,254
+LP0551,Cooling Fan,Nvidia,328
+LP0551,Display,GreenCell,491
+LP0551,SSD,CoolTech,265
+LP0552,Keyboard,IntelWorks,160
+LP0552,Display,IntelWorks,175
+LP0552,Speaker,CoolTech,215
+LP0552,Motherboard,GreenCell,69
+LP0552,GPU,IntelWorks,208
+LP0552,SSD,KeyTech,350
+LP0552,RAM,KeyTech,236
+LP0553,Display,VisionDisplay,174
+LP0553,SSD,GreenCell,154
+LP0553,GPU,CoolTech,496
+LP0553,RAM,KeyTech,81
+LP0553,Motherboard,IntelWorks,470
+LP0553,Battery,CoolTech,109
+LP0553,Cooling Fan,IntelWorks,77
+LP0554,Keyboard,CoolTech,52
+LP0554,Cooling Fan,GreenCell,130
+LP0554,SSD,VisionDisplay,223
+LP0554,Battery,Nvidia,35
+LP0554,Motherboard,IntelWorks,274
+LP0555,Cooling Fan,Samsung,388
+LP0555,GPU,CoolTech,123
+LP0555,Battery,Samsung,32
+LP0555,Motherboard,Samsung,466
+LP0555,SSD,KeyTech,140
+LP0555,Speaker,CoolTech,434
+LP0555,RAM,IntelWorks,352
+LP0555,Display,IntelWorks,467
+LP0556,Speaker,VisionDisplay,326
+LP0556,Cooling Fan,Kingston,253
+LP0556,Keyboard,CoolTech,298
+LP0556,RAM,GreenCell,211
+LP0556,GPU,Kingston,391
+LP0556,Motherboard,GreenCell,184
+LP0556,Battery,Kingston,228
+LP0556,Display,GreenCell,317
+LP0557,RAM,Nvidia,204
+LP0557,Cooling Fan,Nvidia,64
+LP0557,Touchpad,Samsung,473
+LP0557,GPU,GreenCell,190
+LP0557,Battery,Kingston,350
+LP0557,Display,CoolTech,250
+LP0557,Keyboard,GreenCell,475
+LP0557,Speaker,IntelWorks,195
+LP0558,Touchpad,KeyTech,442
+LP0558,RAM,Nvidia,61
+LP0558,Battery,Nvidia,470
+LP0558,GPU,VisionDisplay,276
+LP0558,SSD,IntelWorks,286
+LP0558,Display,VisionDisplay,314
+LP0559,SSD,Kingston,270
+LP0559,Speaker,VisionDisplay,186
+LP0559,Battery,Kingston,300
+LP0559,RAM,Nvidia,287
+LP0559,Display,Nvidia,132
+LP0560,GPU,KeyTech,386
+LP0560,Display,IntelWorks,477
+LP0560,Keyboard,VisionDisplay,273
+LP0560,RAM,GreenCell,488
+LP0560,Touchpad,VisionDisplay,375
+LP0560,Cooling Fan,Samsung,143
+LP0560,Speaker,Nvidia,175
+LP0561,Speaker,Samsung,81
+LP0561,Display,KeyTech,115
+LP0561,Keyboard,VisionDisplay,54
+LP0561,Motherboard,Samsung,251
+LP0561,GPU,VisionDisplay,236
+LP0561,RAM,Kingston,358
+LP0562,Motherboard,CoolTech,345
+LP0562,SSD,IntelWorks,367
+LP0562,RAM,CoolTech,36
+LP0562,Keyboard,CoolTech,183
+LP0562,Battery,Kingston,35
+LP0562,Display,Samsung,378
+LP0562,Cooling Fan,CoolTech,460
+LP0562,Speaker,Nvidia,405
+LP0563,GPU,IntelWorks,269
+LP0563,RAM,VisionDisplay,263
+LP0563,Cooling Fan,Samsung,298
+LP0563,Motherboard,VisionDisplay,62
+LP0563,Keyboard,KeyTech,390
+LP0564,Cooling Fan,CoolTech,37
+LP0564,GPU,Kingston,178
+LP0564,RAM,CoolTech,130
+LP0564,Display,Nvidia,68
+LP0564,SSD,IntelWorks,370
+LP0565,Touchpad,CoolTech,160
+LP0565,Motherboard,Nvidia,430
+LP0565,Cooling Fan,IntelWorks,149
+LP0565,Speaker,VisionDisplay,377
+LP0565,SSD,CoolTech,109
+LP0565,Display,CoolTech,170
+LP0566,Motherboard,VisionDisplay,121
+LP0566,SSD,CoolTech,268
+LP0566,RAM,KeyTech,22
+LP0566,Keyboard,Nvidia,417
+LP0566,Touchpad,GreenCell,415
+LP0566,Display,Nvidia,42
+LP0567,Battery,KeyTech,385
+LP0567,Keyboard,CoolTech,433
+LP0567,RAM,VisionDisplay,71
+LP0567,GPU,GreenCell,91
+LP0567,Cooling Fan,GreenCell,399
+LP0567,SSD,IntelWorks,244
+LP0567,Speaker,CoolTech,207
+LP0568,Motherboard,IntelWorks,162
+LP0568,Speaker,Nvidia,305
+LP0568,RAM,Nvidia,54
+LP0568,Cooling Fan,VisionDisplay,64
+LP0568,SSD,Samsung,469
+LP0568,Touchpad,Kingston,263
+LP0568,Keyboard,Nvidia,279
+LP0568,Display,KeyTech,484
+LP0569,Display,KeyTech,248
+LP0569,Motherboard,Kingston,305
+LP0569,Battery,Samsung,264
+LP0569,Speaker,VisionDisplay,424
+LP0569,SSD,GreenCell,318
+LP0569,Touchpad,Nvidia,79
+LP0570,Keyboard,Nvidia,25
+LP0570,Touchpad,Kingston,50
+LP0570,Battery,IntelWorks,77
+LP0570,Cooling Fan,Samsung,319
+LP0570,Display,IntelWorks,175
+LP0571,RAM,CoolTech,264
+LP0571,Keyboard,CoolTech,129
+LP0571,Cooling Fan,VisionDisplay,108
+LP0571,GPU,Nvidia,303
+LP0571,Display,VisionDisplay,94
+LP0571,Touchpad,GreenCell,459
+LP0572,Display,Nvidia,449
+LP0572,Cooling Fan,Kingston,500
+LP0572,Touchpad,KeyTech,443
+LP0572,SSD,Samsung,228
+LP0572,Speaker,IntelWorks,405
+LP0572,RAM,Nvidia,41
+LP0573,GPU,CoolTech,330
+LP0573,Motherboard,KeyTech,403
+LP0573,Keyboard,GreenCell,265
+LP0573,RAM,Nvidia,350
+LP0573,Touchpad,GreenCell,143
+LP0573,Battery,Samsung,274
+LP0573,Cooling Fan,VisionDisplay,241
+LP0574,GPU,IntelWorks,209
+LP0574,Display,Samsung,221
+LP0574,Speaker,Samsung,257
+LP0574,RAM,Kingston,175
+LP0574,Cooling Fan,Kingston,490
+LP0575,Cooling Fan,CoolTech,192
+LP0575,Speaker,VisionDisplay,374
+LP0575,Touchpad,CoolTech,195
+LP0575,Keyboard,VisionDisplay,148
+LP0575,RAM,Samsung,498
+LP0575,SSD,Samsung,467
+LP0575,Display,Samsung,324
+LP0576,RAM,Samsung,118
+LP0576,Touchpad,Kingston,285
+LP0576,Keyboard,Nvidia,162
+LP0576,SSD,Samsung,326
+LP0576,Display,Nvidia,362
+LP0576,Battery,KeyTech,413
+LP0577,SSD,Kingston,124
+LP0577,Keyboard,CoolTech,317
+LP0577,RAM,GreenCell,80
+LP0577,Cooling Fan,Samsung,346
+LP0577,Touchpad,KeyTech,125
+LP0577,GPU,Kingston,113
+LP0578,RAM,Kingston,94
+LP0578,Keyboard,Samsung,330
+LP0578,GPU,VisionDisplay,149
+LP0578,Speaker,VisionDisplay,212
+LP0578,Touchpad,Nvidia,21
+LP0578,Battery,VisionDisplay,116
+LP0578,Cooling Fan,Samsung,495
+LP0578,SSD,CoolTech,252
+LP0579,Speaker,VisionDisplay,263
+LP0579,GPU,Nvidia,218
+LP0579,Keyboard,Kingston,81
+LP0579,Battery,GreenCell,112
+LP0579,Motherboard,VisionDisplay,205
+LP0579,Cooling Fan,IntelWorks,41
+LP0579,SSD,VisionDisplay,162
+LP0580,Speaker,Nvidia,124
+LP0580,Touchpad,IntelWorks,476
+LP0580,SSD,IntelWorks,25
+LP0580,Display,VisionDisplay,192
+LP0580,Motherboard,Samsung,165
+LP0581,Keyboard,Kingston,450
+LP0581,Touchpad,KeyTech,97
+LP0581,Speaker,IntelWorks,303
+LP0581,SSD,Kingston,410
+LP0581,GPU,KeyTech,107
+LP0581,RAM,Nvidia,124
+LP0581,Battery,IntelWorks,102
+LP0581,Cooling Fan,VisionDisplay,312
+LP0582,Cooling Fan,CoolTech,332
+LP0582,Display,GreenCell,476
+LP0582,Speaker,GreenCell,489
+LP0582,Touchpad,KeyTech,163
+LP0582,Keyboard,VisionDisplay,21
+LP0582,GPU,KeyTech,363
+LP0582,SSD,Samsung,242
+LP0583,Cooling Fan,GreenCell,398
+LP0583,Keyboard,Nvidia,455
+LP0583,Speaker,Nvidia,31
+LP0583,Motherboard,Samsung,125
+LP0583,GPU,CoolTech,243
+LP0583,Touchpad,Kingston,184
+LP0583,SSD,IntelWorks,275
+LP0583,Display,Nvidia,449
+LP0584,Touchpad,Nvidia,126
+LP0584,Keyboard,KeyTech,180
+LP0584,RAM,Kingston,227
+LP0584,Display,Samsung,147
+LP0584,Cooling Fan,Samsung,480
+LP0584,Motherboard,KeyTech,214
+LP0584,Speaker,CoolTech,32
+LP0584,SSD,KeyTech,350
+LP0585,Cooling Fan,Kingston,215
+LP0585,Motherboard,IntelWorks,271
+LP0585,GPU,Nvidia,390
+LP0585,SSD,CoolTech,485
+LP0585,Battery,Nvidia,65
+LP0586,SSD,GreenCell,132
+LP0586,RAM,KeyTech,453
+LP0586,Keyboard,IntelWorks,215
+LP0586,Battery,Kingston,44
+LP0586,GPU,KeyTech,66
+LP0586,Speaker,GreenCell,67
+LP0586,Cooling Fan,IntelWorks,148
+LP0586,Motherboard,VisionDisplay,288
+LP0587,Cooling Fan,KeyTech,229
+LP0587,Battery,Samsung,105
+LP0587,SSD,VisionDisplay,138
+LP0587,Display,VisionDisplay,337
+LP0587,Keyboard,IntelWorks,313
+LP0587,Speaker,GreenCell,167
+LP0587,GPU,CoolTech,236
+LP0588,Keyboard,VisionDisplay,415
+LP0588,Motherboard,VisionDisplay,157
+LP0588,Touchpad,GreenCell,293
+LP0588,SSD,VisionDisplay,418
+LP0588,RAM,CoolTech,303
+LP0588,Speaker,Kingston,390
+LP0589,Battery,GreenCell,412
+LP0589,Speaker,Samsung,282
+LP0589,Touchpad,IntelWorks,276
+LP0589,Display,IntelWorks,221
+LP0589,Motherboard,GreenCell,105
+LP0589,Cooling Fan,IntelWorks,260
+LP0590,Battery,KeyTech,252
+LP0590,Keyboard,GreenCell,383
+LP0590,RAM,VisionDisplay,385
+LP0590,SSD,KeyTech,102
+LP0590,Touchpad,IntelWorks,54
+LP0590,Speaker,Nvidia,89
+LP0591,SSD,Nvidia,475
+LP0591,Cooling Fan,CoolTech,351
+LP0591,Speaker,Kingston,422
+LP0591,RAM,Nvidia,404
+LP0591,Keyboard,Samsung,288
+LP0592,Battery,Kingston,451
+LP0592,Speaker,Samsung,79
+LP0592,Cooling Fan,Nvidia,215
+LP0592,Display,Nvidia,173
+LP0592,Motherboard,Kingston,32
+LP0592,GPU,Kingston,269
+LP0592,RAM,KeyTech,404
+LP0592,Touchpad,IntelWorks,130
+LP0593,Battery,IntelWorks,481
+LP0593,Cooling Fan,KeyTech,482
+LP0593,Touchpad,CoolTech,149
+LP0593,RAM,CoolTech,224
+LP0593,Speaker,CoolTech,384
+LP0593,Keyboard,CoolTech,210
+LP0593,Display,KeyTech,257
+LP0593,Motherboard,GreenCell,232
+LP0594,Keyboard,IntelWorks,199
+LP0594,Battery,CoolTech,485
+LP0594,Display,Nvidia,474
+LP0594,Speaker,Nvidia,59
+LP0594,GPU,Samsung,201
+LP0595,Motherboard,GreenCell,25
+LP0595,Cooling Fan,VisionDisplay,94
+LP0595,Display,Samsung,50
+LP0595,Battery,IntelWorks,280
+LP0595,GPU,KeyTech,342
+LP0595,Speaker,Kingston,32
+LP0595,RAM,CoolTech,226
+LP0595,Keyboard,Kingston,428
+LP0596,RAM,CoolTech,241
+LP0596,Touchpad,IntelWorks,361
+LP0596,SSD,VisionDisplay,98
+LP0596,Battery,Nvidia,189
+LP0596,Motherboard,CoolTech,394
+LP0596,Cooling Fan,Samsung,93
+LP0596,Speaker,GreenCell,410
+LP0596,Display,KeyTech,67
+LP0597,SSD,KeyTech,234
+LP0597,GPU,KeyTech,233
+LP0597,Keyboard,GreenCell,238
+LP0597,Motherboard,Samsung,489
+LP0597,Speaker,KeyTech,20
+LP0597,Battery,VisionDisplay,103
+LP0597,RAM,IntelWorks,155
+LP0597,Cooling Fan,CoolTech,422
+LP0598,Keyboard,VisionDisplay,60
+LP0598,Cooling Fan,CoolTech,435
+LP0598,Battery,Kingston,335
+LP0598,RAM,Kingston,455
+LP0598,Touchpad,CoolTech,152
+LP0599,RAM,KeyTech,135
+LP0599,Speaker,IntelWorks,242
+LP0599,Battery,CoolTech,159
+LP0599,Touchpad,Kingston,280
+LP0599,GPU,Samsung,275
+LP0599,SSD,Nvidia,46
+LP0599,Cooling Fan,Samsung,430
+LP0600,Display,GreenCell,494
+LP0600,Battery,VisionDisplay,377
+LP0600,Keyboard,Kingston,231
+LP0600,GPU,Nvidia,234
+LP0600,Touchpad,Kingston,173
+LP0600,RAM,VisionDisplay,144
+LP0600,Cooling Fan,GreenCell,339
+LP0601,Display,CoolTech,35
+LP0601,RAM,Kingston,500
+LP0601,Motherboard,Kingston,80
+LP0601,Keyboard,Samsung,140
+LP0601,GPU,CoolTech,470
+LP0601,Speaker,CoolTech,495
+LP0601,Touchpad,Nvidia,321
+LP0601,SSD,KeyTech,227
+LP0602,Keyboard,Kingston,323
+LP0602,SSD,Nvidia,456
+LP0602,Touchpad,VisionDisplay,71
+LP0602,Speaker,VisionDisplay,62
+LP0602,Display,IntelWorks,96
+LP0602,Battery,Nvidia,272
+LP0602,RAM,VisionDisplay,498
+LP0602,GPU,GreenCell,46
+LP0603,Cooling Fan,Kingston,367
+LP0603,Battery,Kingston,361
+LP0603,Motherboard,VisionDisplay,40
+LP0603,Display,GreenCell,477
+LP0603,Speaker,Samsung,189
+LP0604,Motherboard,KeyTech,424
+LP0604,Display,GreenCell,479
+LP0604,Touchpad,Nvidia,441
+LP0604,SSD,CoolTech,75
+LP0604,Cooling Fan,Samsung,323
+LP0605,Touchpad,VisionDisplay,256
+LP0605,Speaker,Samsung,100
+LP0605,Display,VisionDisplay,274
+LP0605,GPU,KeyTech,372
+LP0605,SSD,Samsung,36
+LP0605,Battery,Nvidia,456
+LP0605,Cooling Fan,Kingston,360
+LP0606,Cooling Fan,Nvidia,234
+LP0606,Touchpad,KeyTech,426
+LP0606,RAM,Samsung,361
+LP0606,SSD,Kingston,127
+LP0606,Battery,KeyTech,256
+LP0606,Speaker,GreenCell,380
+LP0607,Motherboard,VisionDisplay,249
+LP0607,Display,GreenCell,96
+LP0607,Touchpad,VisionDisplay,164
+LP0607,SSD,Kingston,372
+LP0607,Cooling Fan,Kingston,316
+LP0607,Speaker,KeyTech,387
+LP0608,GPU,KeyTech,478
+LP0608,Touchpad,CoolTech,355
+LP0608,Display,IntelWorks,206
+LP0608,RAM,GreenCell,220
+LP0608,Speaker,KeyTech,196
+LP0608,SSD,VisionDisplay,45
+LP0608,Battery,IntelWorks,450
+LP0608,Keyboard,Samsung,219
+LP0609,Cooling Fan,CoolTech,88
+LP0609,Touchpad,Kingston,401
+LP0609,GPU,Nvidia,357
+LP0609,Speaker,Kingston,488
+LP0609,RAM,GreenCell,23
+LP0609,Battery,GreenCell,148
+LP0610,Display,CoolTech,162
+LP0610,Cooling Fan,KeyTech,389
+LP0610,RAM,GreenCell,233
+LP0610,Touchpad,IntelWorks,414
+LP0610,Motherboard,IntelWorks,343
+LP0610,GPU,Kingston,384
+LP0610,SSD,Kingston,429
+LP0610,Battery,Kingston,192
+LP0611,Display,Kingston,368
+LP0611,Cooling Fan,Samsung,291
+LP0611,Keyboard,Nvidia,475
+LP0611,Touchpad,KeyTech,242
+LP0611,GPU,IntelWorks,252
+LP0612,Speaker,VisionDisplay,262
+LP0612,Cooling Fan,Nvidia,495
+LP0612,Motherboard,CoolTech,488
+LP0612,Battery,KeyTech,492
+LP0612,GPU,Kingston,447
+LP0612,Touchpad,KeyTech,250
+LP0612,Keyboard,Samsung,173
+LP0613,Keyboard,KeyTech,40
+LP0613,SSD,KeyTech,440
+LP0613,GPU,CoolTech,142
+LP0613,Battery,Nvidia,21
+LP0613,Motherboard,Nvidia,44
+LP0614,SSD,Samsung,413
+LP0614,Speaker,IntelWorks,274
+LP0614,GPU,KeyTech,293
+LP0614,Motherboard,Samsung,419
+LP0614,Touchpad,VisionDisplay,457
+LP0615,GPU,IntelWorks,370
+LP0615,Speaker,Nvidia,60
+LP0615,RAM,Kingston,351
+LP0615,Display,KeyTech,265
+LP0615,SSD,IntelWorks,70
+LP0615,Touchpad,GreenCell,496
+LP0616,Battery,GreenCell,205
+LP0616,SSD,VisionDisplay,411
+LP0616,Speaker,Samsung,178
+LP0616,Keyboard,VisionDisplay,59
+LP0616,Display,GreenCell,467
+LP0616,GPU,VisionDisplay,456
+LP0616,RAM,IntelWorks,142
+LP0617,SSD,Kingston,82
+LP0617,Battery,CoolTech,281
+LP0617,Display,VisionDisplay,266
+LP0617,GPU,Samsung,422
+LP0617,Keyboard,VisionDisplay,202
+LP0618,RAM,Samsung,391
+LP0618,Battery,IntelWorks,486
+LP0618,GPU,VisionDisplay,52
+LP0618,Cooling Fan,GreenCell,94
+LP0618,Display,Kingston,102
+LP0619,Cooling Fan,VisionDisplay,433
+LP0619,RAM,Nvidia,128
+LP0619,Motherboard,GreenCell,117
+LP0619,Battery,CoolTech,416
+LP0619,Keyboard,VisionDisplay,401
+LP0619,Speaker,KeyTech,447
+LP0620,Speaker,IntelWorks,251
+LP0620,Cooling Fan,KeyTech,21
+LP0620,GPU,Kingston,28
+LP0620,Battery,Kingston,352
+LP0620,RAM,Kingston,232
+LP0620,Touchpad,IntelWorks,181
+LP0620,Display,CoolTech,63
+LP0620,Motherboard,GreenCell,451
+LP0621,Touchpad,CoolTech,273
+LP0621,Speaker,Kingston,81
+LP0621,Display,IntelWorks,422
+LP0621,SSD,Kingston,145
+LP0621,Cooling Fan,Samsung,294
+LP0622,SSD,GreenCell,163
+LP0622,Motherboard,Kingston,455
+LP0622,Display,Nvidia,58
+LP0622,Speaker,Kingston,58
+LP0622,Battery,CoolTech,177
+LP0622,Cooling Fan,Samsung,228
+LP0622,RAM,IntelWorks,33
+LP0622,Touchpad,Samsung,187
+LP0623,Display,Samsung,413
+LP0623,Battery,Kingston,182
+LP0623,Touchpad,VisionDisplay,113
+LP0623,Speaker,KeyTech,318
+LP0623,Motherboard,VisionDisplay,138
+LP0623,RAM,IntelWorks,161
+LP0624,Speaker,Samsung,71
+LP0624,Touchpad,Nvidia,405
+LP0624,Display,IntelWorks,179
+LP0624,GPU,Nvidia,67
+LP0624,RAM,Kingston,157
+LP0624,SSD,IntelWorks,90
+LP0624,Battery,VisionDisplay,68
+LP0625,Display,Nvidia,297
+LP0625,Cooling Fan,VisionDisplay,155
+LP0625,Motherboard,GreenCell,322
+LP0625,Keyboard,KeyTech,61
+LP0625,Battery,Kingston,106
+LP0626,Touchpad,GreenCell,397
+LP0626,Display,KeyTech,228
+LP0626,Motherboard,IntelWorks,368
+LP0626,Keyboard,Samsung,315
+LP0626,Speaker,KeyTech,272
+LP0626,RAM,KeyTech,50
+LP0627,Keyboard,Nvidia,322
+LP0627,GPU,Nvidia,486
+LP0627,Touchpad,Samsung,157
+LP0627,Speaker,KeyTech,335
+LP0627,SSD,VisionDisplay,381
+LP0627,Battery,Nvidia,150
+LP0627,RAM,CoolTech,20
+LP0627,Motherboard,VisionDisplay,227
+LP0628,SSD,VisionDisplay,363
+LP0628,Battery,KeyTech,87
+LP0628,Speaker,IntelWorks,138
+LP0628,GPU,KeyTech,401
+LP0628,RAM,IntelWorks,394
+LP0628,Touchpad,VisionDisplay,370
+LP0629,Battery,VisionDisplay,444
+LP0629,Keyboard,IntelWorks,231
+LP0629,SSD,VisionDisplay,194
+LP0629,Motherboard,KeyTech,248
+LP0629,Cooling Fan,GreenCell,95
+LP0629,GPU,VisionDisplay,464
+LP0629,Display,Kingston,186
+LP0629,Touchpad,Nvidia,213
+LP0630,Cooling Fan,KeyTech,270
+LP0630,Keyboard,CoolTech,160
+LP0630,Battery,Nvidia,45
+LP0630,Display,Samsung,21
+LP0630,Speaker,Nvidia,257
+LP0630,Touchpad,GreenCell,51
+LP0630,GPU,IntelWorks,403
+LP0631,Speaker,Samsung,110
+LP0631,SSD,Nvidia,413
+LP0631,Keyboard,IntelWorks,262
+LP0631,Cooling Fan,VisionDisplay,320
+LP0631,Motherboard,CoolTech,198
+LP0631,Battery,Samsung,349
+LP0631,Display,KeyTech,250
+LP0631,GPU,KeyTech,372
+LP0632,Cooling Fan,GreenCell,28
+LP0632,GPU,KeyTech,350
+LP0632,SSD,CoolTech,216
+LP0632,Display,KeyTech,302
+LP0632,Keyboard,GreenCell,76
+LP0632,Speaker,Samsung,389
+LP0632,RAM,Kingston,287
+LP0633,Display,VisionDisplay,143
+LP0633,SSD,Samsung,149
+LP0633,Speaker,KeyTech,407
+LP0633,RAM,GreenCell,341
+LP0633,Keyboard,CoolTech,290
+LP0633,Motherboard,IntelWorks,96
+LP0633,Cooling Fan,IntelWorks,187
+LP0634,Touchpad,Samsung,389
+LP0634,RAM,Nvidia,148
+LP0634,Motherboard,Samsung,320
+LP0634,Keyboard,KeyTech,341
+LP0634,Display,Nvidia,362
+LP0634,Speaker,Kingston,69
+LP0634,Cooling Fan,Nvidia,261
+LP0634,Battery,KeyTech,475
+LP0635,RAM,Kingston,272
+LP0635,Motherboard,KeyTech,240
+LP0635,Touchpad,IntelWorks,373
+LP0635,Battery,VisionDisplay,72
+LP0635,Keyboard,GreenCell,138
+LP0635,Display,Nvidia,463
+LP0636,Keyboard,VisionDisplay,72
+LP0636,Cooling Fan,CoolTech,387
+LP0636,GPU,GreenCell,133
+LP0636,SSD,KeyTech,131
+LP0636,RAM,Kingston,69
+LP0637,SSD,CoolTech,477
+LP0637,Motherboard,KeyTech,67
+LP0637,GPU,Kingston,492
+LP0637,Speaker,KeyTech,333
+LP0637,Battery,VisionDisplay,67
+LP0638,Touchpad,IntelWorks,494
+LP0638,Speaker,CoolTech,438
+LP0638,Keyboard,KeyTech,427
+LP0638,Motherboard,Nvidia,474
+LP0638,Cooling Fan,Kingston,71
+LP0638,Battery,VisionDisplay,277
+LP0638,Display,KeyTech,493
+LP0639,Motherboard,IntelWorks,398
+LP0639,GPU,VisionDisplay,341
+LP0639,RAM,IntelWorks,361
+LP0639,Battery,Samsung,118
+LP0639,Keyboard,GreenCell,441
+LP0639,SSD,GreenCell,139
+LP0639,Display,IntelWorks,395
+LP0640,Keyboard,IntelWorks,358
+LP0640,Touchpad,CoolTech,135
+LP0640,Speaker,GreenCell,36
+LP0640,Display,VisionDisplay,391
+LP0640,Battery,KeyTech,207
+LP0640,Cooling Fan,Samsung,447
+LP0641,Battery,IntelWorks,292
+LP0641,Display,GreenCell,370
+LP0641,Touchpad,Nvidia,75
+LP0641,Keyboard,VisionDisplay,411
+LP0641,GPU,GreenCell,128
+LP0641,Motherboard,VisionDisplay,98
+LP0641,Speaker,Nvidia,75
+LP0641,RAM,Nvidia,137
+LP0642,SSD,KeyTech,249
+LP0642,Speaker,Nvidia,108
+LP0642,RAM,CoolTech,162
+LP0642,Keyboard,Kingston,153
+LP0642,Display,KeyTech,494
+LP0642,Touchpad,IntelWorks,120
+LP0643,SSD,KeyTech,397
+LP0643,GPU,VisionDisplay,306
+LP0643,Cooling Fan,CoolTech,222
+LP0643,Motherboard,GreenCell,47
+LP0643,Touchpad,GreenCell,295
+LP0643,Speaker,KeyTech,429
+LP0643,Display,GreenCell,143
+LP0643,RAM,IntelWorks,280
+LP0644,Keyboard,VisionDisplay,152
+LP0644,Speaker,Samsung,190
+LP0644,Display,GreenCell,443
+LP0644,Battery,GreenCell,42
+LP0644,SSD,Nvidia,271
+LP0645,Battery,CoolTech,56
+LP0645,Keyboard,Nvidia,389
+LP0645,Display,VisionDisplay,397
+LP0645,SSD,Kingston,255
+LP0645,Cooling Fan,GreenCell,368
+LP0645,GPU,Samsung,453
+LP0646,Motherboard,VisionDisplay,185
+LP0646,Touchpad,GreenCell,407
+LP0646,Speaker,VisionDisplay,62
+LP0646,GPU,KeyTech,266
+LP0646,Cooling Fan,VisionDisplay,244
+LP0646,RAM,Kingston,49
+LP0646,SSD,IntelWorks,388
+LP0647,RAM,Samsung,405
+LP0647,Touchpad,Samsung,153
+LP0647,GPU,GreenCell,63
+LP0647,Speaker,GreenCell,327
+LP0647,Motherboard,CoolTech,167
+LP0647,SSD,CoolTech,287
+LP0648,Battery,IntelWorks,180
+LP0648,Touchpad,Nvidia,260
+LP0648,SSD,IntelWorks,279
+LP0648,Cooling Fan,Nvidia,259
+LP0648,GPU,IntelWorks,42
+LP0649,Motherboard,Kingston,65
+LP0649,SSD,Kingston,390
+LP0649,Keyboard,Samsung,291
+LP0649,Cooling Fan,GreenCell,227
+LP0649,Battery,Nvidia,308
+LP0650,Keyboard,KeyTech,184
+LP0650,GPU,Kingston,358
+LP0650,Battery,IntelWorks,207
+LP0650,Speaker,Samsung,440
+LP0650,Cooling Fan,GreenCell,421
+LP0651,Motherboard,KeyTech,230
+LP0651,Speaker,CoolTech,336
+LP0651,Touchpad,Kingston,422
+LP0651,RAM,IntelWorks,415
+LP0651,Keyboard,GreenCell,84
+LP0651,Cooling Fan,VisionDisplay,51
+LP0651,GPU,Samsung,430
+LP0651,SSD,IntelWorks,495
+LP0652,GPU,IntelWorks,153
+LP0652,SSD,Samsung,458
+LP0652,Display,GreenCell,300
+LP0652,Speaker,CoolTech,275
+LP0652,Touchpad,KeyTech,284
+LP0653,GPU,GreenCell,364
+LP0653,Keyboard,VisionDisplay,92
+LP0653,Display,Nvidia,336
+LP0653,Speaker,Samsung,391
+LP0653,Battery,GreenCell,287
+LP0653,Cooling Fan,Samsung,228
+LP0654,Battery,Nvidia,129
+LP0654,Motherboard,VisionDisplay,178
+LP0654,Keyboard,Samsung,62
+LP0654,Cooling Fan,CoolTech,467
+LP0654,RAM,IntelWorks,440
+LP0654,Display,Nvidia,169
+LP0654,Touchpad,Nvidia,100
+LP0655,RAM,Kingston,298
+LP0655,SSD,GreenCell,170
+LP0655,Motherboard,KeyTech,463
+LP0655,Display,IntelWorks,362
+LP0655,Keyboard,VisionDisplay,260
+LP0655,GPU,Nvidia,177
+LP0655,Battery,Nvidia,425
+LP0656,SSD,KeyTech,304
+LP0656,Speaker,GreenCell,445
+LP0656,Motherboard,Samsung,189
+LP0656,GPU,GreenCell,258
+LP0656,Display,IntelWorks,364
+LP0656,Cooling Fan,Kingston,39
+LP0656,Battery,Samsung,371
+LP0657,SSD,Kingston,119
+LP0657,Keyboard,Samsung,320
+LP0657,Speaker,Kingston,472
+LP0657,Display,VisionDisplay,222
+LP0657,GPU,KeyTech,433
+LP0658,Display,CoolTech,389
+LP0658,Touchpad,VisionDisplay,298
+LP0658,Speaker,IntelWorks,330
+LP0658,RAM,KeyTech,143
+LP0658,SSD,VisionDisplay,343
+LP0658,Keyboard,KeyTech,272
+LP0659,Battery,IntelWorks,390
+LP0659,GPU,VisionDisplay,62
+LP0659,RAM,CoolTech,408
+LP0659,Display,Kingston,219
+LP0659,Motherboard,VisionDisplay,256
+LP0659,Keyboard,Nvidia,418
+LP0660,Motherboard,IntelWorks,320
+LP0660,Battery,VisionDisplay,191
+LP0660,Keyboard,Nvidia,77
+LP0660,GPU,GreenCell,448
+LP0660,Touchpad,IntelWorks,145
+LP0661,RAM,Nvidia,489
+LP0661,Cooling Fan,IntelWorks,471
+LP0661,Speaker,KeyTech,220
+LP0661,Battery,Kingston,332
+LP0661,Touchpad,Kingston,88
+LP0661,GPU,IntelWorks,59
+LP0661,Motherboard,Samsung,329
+LP0661,SSD,VisionDisplay,433
+LP0662,Speaker,KeyTech,138
+LP0662,SSD,Nvidia,291
+LP0662,Display,CoolTech,195
+LP0662,Touchpad,IntelWorks,320
+LP0662,Battery,GreenCell,407
+LP0663,Keyboard,KeyTech,251
+LP0663,Battery,Samsung,191
+LP0663,Speaker,Kingston,234
+LP0663,Display,VisionDisplay,67
+LP0663,SSD,Samsung,498
+LP0663,RAM,IntelWorks,376
+LP0663,GPU,Samsung,86
+LP0663,Motherboard,Nvidia,402
+LP0664,RAM,Nvidia,239
+LP0664,Motherboard,Nvidia,424
+LP0664,Touchpad,IntelWorks,285
+LP0664,Display,VisionDisplay,79
+LP0664,Keyboard,GreenCell,238
+LP0665,Motherboard,Kingston,219
+LP0665,Keyboard,Nvidia,472
+LP0665,Touchpad,VisionDisplay,438
+LP0665,SSD,IntelWorks,217
+LP0665,Display,GreenCell,370
+LP0666,Display,Kingston,46
+LP0666,RAM,Nvidia,280
+LP0666,Keyboard,GreenCell,243
+LP0666,Motherboard,VisionDisplay,268
+LP0666,Touchpad,CoolTech,237
+LP0666,Speaker,GreenCell,338
+LP0666,Battery,KeyTech,288
+LP0666,SSD,Samsung,168
+LP0667,Display,CoolTech,419
+LP0667,Keyboard,KeyTech,195
+LP0667,SSD,Samsung,141
+LP0667,Cooling Fan,CoolTech,461
+LP0667,Motherboard,GreenCell,228
+LP0668,Keyboard,VisionDisplay,47
+LP0668,Touchpad,VisionDisplay,361
+LP0668,RAM,Kingston,251
+LP0668,SSD,IntelWorks,330
+LP0668,Cooling Fan,IntelWorks,279
+LP0669,Touchpad,CoolTech,150
+LP0669,Display,GreenCell,226
+LP0669,SSD,Nvidia,412
+LP0669,Battery,Nvidia,465
+LP0669,Cooling Fan,Samsung,445
+LP0669,Speaker,CoolTech,65
+LP0669,Motherboard,Samsung,94
+LP0670,Touchpad,Samsung,30
+LP0670,GPU,Samsung,311
+LP0670,Keyboard,KeyTech,109
+LP0670,Display,KeyTech,75
+LP0670,Battery,GreenCell,449
+LP0670,SSD,KeyTech,170
+LP0670,Motherboard,GreenCell,417
+LP0671,GPU,Nvidia,347
+LP0671,Speaker,VisionDisplay,254
+LP0671,Motherboard,Nvidia,476
+LP0671,Keyboard,IntelWorks,348
+LP0671,SSD,CoolTech,109
+LP0671,Cooling Fan,KeyTech,178
+LP0671,Touchpad,KeyTech,286
+LP0671,RAM,KeyTech,186
+LP0672,Keyboard,IntelWorks,479
+LP0672,Speaker,Kingston,228
+LP0672,Battery,VisionDisplay,92
+LP0672,RAM,Nvidia,194
+LP0672,SSD,IntelWorks,301
+LP0672,Motherboard,GreenCell,227
+LP0672,Cooling Fan,Kingston,298
+LP0673,GPU,Nvidia,196
+LP0673,SSD,Nvidia,342
+LP0673,Display,VisionDisplay,492
+LP0673,Touchpad,KeyTech,27
+LP0673,Speaker,CoolTech,434
+LP0673,Keyboard,Nvidia,70
+LP0674,Keyboard,Samsung,451
+LP0674,Speaker,KeyTech,417
+LP0674,RAM,Samsung,224
+LP0674,SSD,GreenCell,143
+LP0674,Battery,Samsung,455
+LP0674,Motherboard,Samsung,340
+LP0675,Motherboard,IntelWorks,23
+LP0675,Battery,Nvidia,327
+LP0675,Cooling Fan,Nvidia,484
+LP0675,GPU,Nvidia,52
+LP0675,Display,IntelWorks,79
+LP0676,Speaker,IntelWorks,53
+LP0676,Keyboard,Nvidia,290
+LP0676,Display,IntelWorks,333
+LP0676,Motherboard,Samsung,61
+LP0676,RAM,Samsung,342
+LP0676,Cooling Fan,VisionDisplay,459
+LP0676,Battery,Kingston,47
+LP0676,GPU,CoolTech,228
+LP0677,Speaker,IntelWorks,393
+LP0677,Keyboard,Kingston,132
+LP0677,Cooling Fan,Samsung,158
+LP0677,RAM,IntelWorks,478
+LP0677,Touchpad,CoolTech,245
+LP0677,Display,CoolTech,326
+LP0678,GPU,Nvidia,363
+LP0678,Battery,GreenCell,325
+LP0678,Motherboard,GreenCell,196
+LP0678,RAM,IntelWorks,304
+LP0678,Keyboard,VisionDisplay,401
+LP0678,Display,CoolTech,391
+LP0678,Touchpad,CoolTech,492
+LP0679,Motherboard,Samsung,54
+LP0679,Battery,KeyTech,121
+LP0679,Display,KeyTech,252
+LP0679,GPU,KeyTech,65
+LP0679,Speaker,GreenCell,496
+LP0679,Touchpad,Kingston,203
+LP0679,Keyboard,GreenCell,123
+LP0679,RAM,Kingston,488
+LP0680,Display,VisionDisplay,60
+LP0680,Cooling Fan,GreenCell,20
+LP0680,Touchpad,Nvidia,77
+LP0680,Keyboard,KeyTech,404
+LP0680,Motherboard,Nvidia,141
+LP0680,Speaker,Kingston,87
+LP0680,SSD,CoolTech,273
+LP0680,Battery,Kingston,212
+LP0681,Keyboard,Samsung,177
+LP0681,Touchpad,Samsung,323
+LP0681,Cooling Fan,IntelWorks,391
+LP0681,Motherboard,GreenCell,462
+LP0681,RAM,Kingston,44
+LP0682,GPU,Samsung,165
+LP0682,SSD,IntelWorks,141
+LP0682,Motherboard,CoolTech,124
+LP0682,Touchpad,Samsung,445
+LP0682,Cooling Fan,VisionDisplay,223
+LP0682,Keyboard,CoolTech,293
+LP0683,Battery,GreenCell,488
+LP0683,Cooling Fan,GreenCell,58
+LP0683,Speaker,IntelWorks,446
+LP0683,RAM,GreenCell,347
+LP0683,SSD,VisionDisplay,469
+LP0684,Touchpad,Nvidia,107
+LP0684,Speaker,Kingston,396
+LP0684,Battery,CoolTech,421
+LP0684,Motherboard,CoolTech,139
+LP0684,RAM,Nvidia,463
+LP0684,Display,KeyTech,467
+LP0684,Cooling Fan,KeyTech,468
+LP0684,Keyboard,VisionDisplay,454
+LP0685,Speaker,CoolTech,398
+LP0685,RAM,IntelWorks,272
+LP0685,GPU,Nvidia,226
+LP0685,Motherboard,VisionDisplay,252
+LP0685,Battery,CoolTech,378
+LP0685,Display,IntelWorks,226
+LP0686,Keyboard,GreenCell,63
+LP0686,GPU,GreenCell,112
+LP0686,Battery,KeyTech,342
+LP0686,Speaker,Kingston,187
+LP0686,Motherboard,GreenCell,64
+LP0686,Cooling Fan,Nvidia,367
+LP0686,RAM,Kingston,27
+LP0686,Display,Kingston,296
+LP0687,Display,GreenCell,187
+LP0687,SSD,Nvidia,253
+LP0687,GPU,IntelWorks,305
+LP0687,Speaker,Samsung,140
+LP0687,Touchpad,Nvidia,339
+LP0687,Motherboard,Samsung,421
+LP0687,RAM,IntelWorks,101
+LP0687,Cooling Fan,GreenCell,476
+LP0688,RAM,Nvidia,388
+LP0688,Motherboard,Samsung,279
+LP0688,Keyboard,Samsung,351
+LP0688,Touchpad,GreenCell,172
+LP0688,SSD,Kingston,453
+LP0689,Display,CoolTech,434
+LP0689,SSD,IntelWorks,375
+LP0689,RAM,CoolTech,66
+LP0689,Keyboard,Kingston,492
+LP0689,Cooling Fan,GreenCell,140
+LP0690,Cooling Fan,CoolTech,160
+LP0690,GPU,Nvidia,419
+LP0690,Touchpad,VisionDisplay,334
+LP0690,Display,VisionDisplay,388
+LP0690,SSD,CoolTech,273
+LP0690,Speaker,CoolTech,216
+LP0690,Motherboard,GreenCell,458
+LP0690,Battery,Nvidia,278
+LP0691,Battery,IntelWorks,424
+LP0691,Touchpad,Kingston,368
+LP0691,RAM,IntelWorks,224
+LP0691,SSD,GreenCell,369
+LP0691,GPU,KeyTech,208
+LP0691,Display,IntelWorks,376
+LP0691,Keyboard,Samsung,472
+LP0691,Speaker,IntelWorks,359
+LP0692,GPU,IntelWorks,364
+LP0692,Touchpad,VisionDisplay,105
+LP0692,RAM,Samsung,480
+LP0692,Cooling Fan,GreenCell,418
+LP0692,Keyboard,Kingston,456
+LP0692,SSD,Kingston,157
+LP0692,Motherboard,Samsung,113
+LP0693,Cooling Fan,KeyTech,344
+LP0693,GPU,GreenCell,369
+LP0693,Keyboard,Samsung,424
+LP0693,Display,Nvidia,445
+LP0693,Battery,KeyTech,463
+LP0693,SSD,KeyTech,299
+LP0693,RAM,VisionDisplay,194
+LP0693,Motherboard,Nvidia,104
+LP0694,Display,Kingston,219
+LP0694,RAM,GreenCell,314
+LP0694,Battery,GreenCell,226
+LP0694,SSD,KeyTech,464
+LP0694,Cooling Fan,KeyTech,195
+LP0694,Keyboard,Kingston,72
+LP0694,Touchpad,KeyTech,460
+LP0695,Speaker,CoolTech,285
+LP0695,GPU,Samsung,217
+LP0695,RAM,Kingston,28
+LP0695,Battery,Kingston,407
+LP0695,Motherboard,CoolTech,415
+LP0696,SSD,VisionDisplay,494
+LP0696,Keyboard,VisionDisplay,487
+LP0696,Motherboard,CoolTech,326
+LP0696,Display,CoolTech,104
+LP0696,Battery,IntelWorks,121
+LP0696,Touchpad,Kingston,317
+LP0696,Cooling Fan,KeyTech,157
+LP0697,Display,VisionDisplay,186
+LP0697,RAM,Samsung,252
+LP0697,Keyboard,VisionDisplay,187
+LP0697,Cooling Fan,Kingston,123
+LP0697,Battery,VisionDisplay,130
+LP0698,RAM,VisionDisplay,141
+LP0698,Keyboard,Nvidia,249
+LP0698,GPU,Kingston,43
+LP0698,Speaker,IntelWorks,337
+LP0698,Touchpad,Samsung,453
+LP0698,SSD,GreenCell,376
+LP0699,SSD,GreenCell,253
+LP0699,Display,Nvidia,335
+LP0699,Motherboard,VisionDisplay,376
+LP0699,GPU,CoolTech,307
+LP0699,Battery,IntelWorks,329
+LP0700,Cooling Fan,Kingston,225
+LP0700,Motherboard,GreenCell,475
+LP0700,SSD,GreenCell,498
+LP0700,Battery,Kingston,305
+LP0700,Display,Nvidia,233
+LP0700,RAM,IntelWorks,186
+LP0701,Cooling Fan,Kingston,281
+LP0701,Speaker,Kingston,399
+LP0701,Touchpad,Samsung,297
+LP0701,Battery,Kingston,395
+LP0701,GPU,Nvidia,206
+LP0701,Display,Kingston,423
+LP0701,SSD,Samsung,111
+LP0701,Keyboard,GreenCell,175
+LP0702,Display,IntelWorks,471
+LP0702,GPU,IntelWorks,41
+LP0702,RAM,GreenCell,430
+LP0702,Motherboard,Samsung,210
+LP0702,Touchpad,KeyTech,320
+LP0703,Display,Kingston,55
+LP0703,Keyboard,KeyTech,22
+LP0703,Battery,Kingston,194
+LP0703,RAM,CoolTech,37
+LP0703,Motherboard,KeyTech,344
+LP0703,Cooling Fan,Nvidia,304
+LP0704,Display,Nvidia,217
+LP0704,SSD,CoolTech,93
+LP0704,Speaker,CoolTech,455
+LP0704,Battery,KeyTech,236
+LP0704,Cooling Fan,CoolTech,480
+LP0704,RAM,CoolTech,388
+LP0705,GPU,Kingston,167
+LP0705,Battery,KeyTech,55
+LP0705,Motherboard,KeyTech,432
+LP0705,Display,GreenCell,382
+LP0705,Speaker,VisionDisplay,397
+LP0705,SSD,GreenCell,117
+LP0705,Touchpad,VisionDisplay,84
+LP0706,Touchpad,VisionDisplay,50
+LP0706,Battery,Nvidia,398
+LP0706,Motherboard,IntelWorks,473
+LP0706,RAM,VisionDisplay,286
+LP0706,Speaker,KeyTech,232
+LP0706,SSD,Samsung,270
+LP0707,Keyboard,GreenCell,412
+LP0707,Speaker,CoolTech,226
+LP0707,Cooling Fan,VisionDisplay,360
+LP0707,Battery,CoolTech,110
+LP0707,Motherboard,GreenCell,480
+LP0707,SSD,Kingston,265
+LP0708,RAM,Nvidia,99
+LP0708,SSD,IntelWorks,186
+LP0708,Touchpad,GreenCell,336
+LP0708,Speaker,VisionDisplay,281
+LP0708,Cooling Fan,CoolTech,215
+LP0708,Battery,KeyTech,393
+LP0708,Keyboard,VisionDisplay,220
+LP0708,Motherboard,IntelWorks,301
+LP0709,Cooling Fan,KeyTech,121
+LP0709,Display,CoolTech,423
+LP0709,Touchpad,KeyTech,494
+LP0709,Speaker,GreenCell,448
+LP0709,Motherboard,IntelWorks,186
+LP0709,Keyboard,GreenCell,108
+LP0710,Touchpad,Kingston,356
+LP0710,Keyboard,VisionDisplay,347
+LP0710,GPU,Samsung,140
+LP0710,Display,GreenCell,141
+LP0710,Motherboard,GreenCell,186
+LP0710,Speaker,Kingston,379
+LP0711,Touchpad,Samsung,233
+LP0711,Speaker,VisionDisplay,270
+LP0711,Keyboard,CoolTech,397
+LP0711,Battery,CoolTech,132
+LP0711,SSD,GreenCell,433
+LP0711,GPU,Nvidia,168
+LP0712,Motherboard,CoolTech,332
+LP0712,RAM,VisionDisplay,112
+LP0712,SSD,CoolTech,329
+LP0712,GPU,CoolTech,21
+LP0712,Battery,GreenCell,312
+LP0712,Cooling Fan,GreenCell,245
+LP0713,Battery,CoolTech,408
+LP0713,Motherboard,CoolTech,388
+LP0713,RAM,VisionDisplay,129
+LP0713,Display,CoolTech,382
+LP0713,Cooling Fan,Kingston,90
+LP0714,Battery,GreenCell,426
+LP0714,Touchpad,Kingston,223
+LP0714,Motherboard,IntelWorks,300
+LP0714,GPU,KeyTech,108
+LP0714,RAM,IntelWorks,472
+LP0714,Cooling Fan,IntelWorks,155
+LP0715,Touchpad,Kingston,114
+LP0715,Cooling Fan,KeyTech,346
+LP0715,Speaker,Nvidia,493
+LP0715,Battery,IntelWorks,428
+LP0715,RAM,IntelWorks,123
+LP0715,Display,IntelWorks,162
+LP0715,GPU,Samsung,140
+LP0715,Keyboard,Nvidia,350
+LP0716,Touchpad,Kingston,447
+LP0716,RAM,GreenCell,127
+LP0716,Display,VisionDisplay,31
+LP0716,Keyboard,GreenCell,349
+LP0716,Motherboard,GreenCell,418
+LP0717,Motherboard,IntelWorks,333
+LP0717,Display,KeyTech,486
+LP0717,SSD,IntelWorks,315
+LP0717,Speaker,Nvidia,260
+LP0717,Keyboard,VisionDisplay,127
+LP0717,Battery,CoolTech,67
+LP0717,GPU,VisionDisplay,94
+LP0718,Motherboard,CoolTech,229
+LP0718,Battery,CoolTech,405
+LP0718,Speaker,GreenCell,47
+LP0718,Touchpad,VisionDisplay,330
+LP0718,Display,VisionDisplay,79
+LP0718,RAM,VisionDisplay,215
+LP0718,GPU,Nvidia,73
+LP0718,Cooling Fan,GreenCell,487
+LP0719,Motherboard,CoolTech,497
+LP0719,Display,KeyTech,121
+LP0719,Touchpad,KeyTech,38
+LP0719,Keyboard,Samsung,312
+LP0719,Speaker,KeyTech,240
+LP0719,Battery,Nvidia,192
+LP0720,Speaker,VisionDisplay,96
+LP0720,Motherboard,Samsung,110
+LP0720,Battery,VisionDisplay,66
+LP0720,Keyboard,Samsung,31
+LP0720,RAM,Nvidia,340
+LP0720,Cooling Fan,GreenCell,492
+LP0721,Motherboard,GreenCell,28
+LP0721,RAM,KeyTech,378
+LP0721,Battery,Kingston,199
+LP0721,Display,Nvidia,449
+LP0721,SSD,VisionDisplay,434
+LP0721,Cooling Fan,IntelWorks,432
+LP0721,Keyboard,KeyTech,386
+LP0722,Battery,VisionDisplay,92
+LP0722,Cooling Fan,Samsung,117
+LP0722,Motherboard,Nvidia,498
+LP0722,GPU,Kingston,301
+LP0722,Speaker,Kingston,296
+LP0722,Display,Kingston,218
+LP0722,Keyboard,Samsung,410
+LP0723,Keyboard,IntelWorks,92
+LP0723,Motherboard,CoolTech,496
+LP0723,SSD,IntelWorks,236
+LP0723,Speaker,VisionDisplay,205
+LP0723,RAM,GreenCell,265
+LP0723,Display,KeyTech,305
+LP0724,SSD,VisionDisplay,240
+LP0724,Motherboard,Nvidia,461
+LP0724,Battery,IntelWorks,231
+LP0724,Touchpad,KeyTech,86
+LP0724,GPU,GreenCell,460
+LP0724,Speaker,Samsung,291
+LP0724,Keyboard,VisionDisplay,195
+LP0724,Cooling Fan,Kingston,153
+LP0725,Motherboard,VisionDisplay,28
+LP0725,Keyboard,Kingston,484
+LP0725,SSD,Nvidia,274
+LP0725,Touchpad,CoolTech,208
+LP0725,Display,Nvidia,477
+LP0725,GPU,Samsung,338
+LP0726,RAM,Nvidia,451
+LP0726,Cooling Fan,GreenCell,146
+LP0726,Touchpad,Samsung,265
+LP0726,Battery,VisionDisplay,90
+LP0726,GPU,Samsung,256
+LP0727,Motherboard,KeyTech,33
+LP0727,Display,Nvidia,303
+LP0727,Touchpad,KeyTech,71
+LP0727,SSD,CoolTech,224
+LP0727,Cooling Fan,Samsung,410
+LP0727,RAM,VisionDisplay,270
+LP0727,GPU,GreenCell,236
+LP0727,Keyboard,IntelWorks,298
+LP0728,Speaker,GreenCell,323
+LP0728,Display,IntelWorks,464
+LP0728,RAM,VisionDisplay,195
+LP0728,Keyboard,IntelWorks,257
+LP0728,Motherboard,VisionDisplay,120
+LP0729,GPU,CoolTech,384
+LP0729,Cooling Fan,KeyTech,190
+LP0729,Display,VisionDisplay,44
+LP0729,Speaker,Samsung,204
+LP0729,Motherboard,Samsung,271
+LP0730,Keyboard,IntelWorks,309
+LP0730,GPU,Nvidia,113
+LP0730,Battery,Kingston,292
+LP0730,Motherboard,Kingston,248
+LP0730,RAM,Nvidia,380
+LP0730,Display,Nvidia,325
+LP0730,Speaker,Samsung,274
+LP0731,Keyboard,KeyTech,330
+LP0731,Display,Nvidia,100
+LP0731,Motherboard,CoolTech,492
+LP0731,Battery,Samsung,449
+LP0731,Speaker,Nvidia,475
+LP0732,GPU,CoolTech,29
+LP0732,Battery,IntelWorks,49
+LP0732,Display,Samsung,226
+LP0732,Speaker,Nvidia,237
+LP0732,SSD,VisionDisplay,179
+LP0732,Motherboard,Kingston,340
+LP0732,Cooling Fan,IntelWorks,406
+LP0732,RAM,VisionDisplay,427
+LP0733,Motherboard,VisionDisplay,487
+LP0733,Cooling Fan,Samsung,39
+LP0733,Speaker,IntelWorks,403
+LP0733,RAM,Samsung,319
+LP0733,Keyboard,KeyTech,298
+LP0734,Touchpad,VisionDisplay,182
+LP0734,SSD,GreenCell,41
+LP0734,Motherboard,Samsung,332
+LP0734,Battery,IntelWorks,433
+LP0734,Display,Samsung,351
+LP0735,GPU,CoolTech,370
+LP0735,Speaker,VisionDisplay,436
+LP0735,Cooling Fan,Nvidia,215
+LP0735,RAM,Samsung,72
+LP0735,Display,Nvidia,484
+LP0735,Motherboard,Nvidia,70
+LP0735,Touchpad,GreenCell,130
+LP0735,Keyboard,CoolTech,166
+LP0736,Cooling Fan,GreenCell,410
+LP0736,Touchpad,Kingston,243
+LP0736,SSD,GreenCell,127
+LP0736,Display,Samsung,318
+LP0736,GPU,VisionDisplay,332
+LP0737,Motherboard,CoolTech,46
+LP0737,Display,CoolTech,439
+LP0737,SSD,GreenCell,74
+LP0737,Speaker,VisionDisplay,230
+LP0737,Keyboard,IntelWorks,450
+LP0737,GPU,GreenCell,358
+LP0737,Touchpad,IntelWorks,342
+LP0737,RAM,Samsung,68
+LP0738,Keyboard,VisionDisplay,247
+LP0738,RAM,IntelWorks,394
+LP0738,Cooling Fan,Samsung,495
+LP0738,Display,IntelWorks,437
+LP0738,Motherboard,VisionDisplay,299
+LP0739,SSD,KeyTech,312
+LP0739,Touchpad,CoolTech,279
+LP0739,Battery,Kingston,244
+LP0739,Display,IntelWorks,296
+LP0739,Motherboard,GreenCell,51
+LP0739,Keyboard,IntelWorks,152
+LP0739,Cooling Fan,IntelWorks,234
+LP0739,Speaker,CoolTech,183
+LP0740,Display,Nvidia,66
+LP0740,Battery,VisionDisplay,498
+LP0740,Keyboard,GreenCell,281
+LP0740,Cooling Fan,CoolTech,365
+LP0740,SSD,Samsung,425
+LP0740,Motherboard,GreenCell,327
+LP0740,Speaker,Nvidia,306
+LP0740,GPU,GreenCell,257
+LP0741,Touchpad,VisionDisplay,152
+LP0741,Cooling Fan,VisionDisplay,424
+LP0741,Motherboard,Nvidia,77
+LP0741,Battery,Kingston,238
+LP0741,Speaker,IntelWorks,273
+LP0741,SSD,KeyTech,110
+LP0741,GPU,CoolTech,165
+LP0741,RAM,KeyTech,190
+LP0742,RAM,IntelWorks,473
+LP0742,Display,Nvidia,379
+LP0742,Cooling Fan,Samsung,447
+LP0742,SSD,Nvidia,216
+LP0742,Touchpad,KeyTech,388
+LP0742,Keyboard,Samsung,499
+LP0742,Speaker,Nvidia,33
+LP0742,GPU,Samsung,251
+LP0743,Battery,VisionDisplay,217
+LP0743,Display,GreenCell,101
+LP0743,Cooling Fan,Kingston,316
+LP0743,Motherboard,KeyTech,442
+LP0743,Speaker,Nvidia,160
+LP0743,SSD,GreenCell,20
+LP0743,Touchpad,KeyTech,156
+LP0744,Speaker,Nvidia,265
+LP0744,Touchpad,GreenCell,405
+LP0744,Keyboard,CoolTech,328
+LP0744,SSD,VisionDisplay,237
+LP0744,Motherboard,IntelWorks,339
+LP0744,Cooling Fan,VisionDisplay,65
+LP0744,Display,Samsung,57
+LP0744,GPU,KeyTech,444
+LP0745,Touchpad,GreenCell,440
+LP0745,Keyboard,KeyTech,385
+LP0745,RAM,Nvidia,75
+LP0745,Cooling Fan,KeyTech,129
+LP0745,SSD,CoolTech,388
+LP0746,Motherboard,VisionDisplay,225
+LP0746,RAM,Kingston,419
+LP0746,Battery,IntelWorks,485
+LP0746,Display,GreenCell,204
+LP0746,Touchpad,Samsung,404
+LP0746,Cooling Fan,Samsung,273
+LP0746,SSD,GreenCell,154
+LP0746,Keyboard,VisionDisplay,335
+LP0747,GPU,Samsung,160
+LP0747,RAM,IntelWorks,423
+LP0747,Motherboard,Nvidia,225
+LP0747,Touchpad,VisionDisplay,260
+LP0747,Display,CoolTech,479
+LP0748,Speaker,IntelWorks,299
+LP0748,Battery,IntelWorks,463
+LP0748,SSD,Nvidia,256
+LP0748,Cooling Fan,GreenCell,69
+LP0748,GPU,Samsung,60
+LP0749,SSD,Nvidia,155
+LP0749,GPU,Nvidia,335
+LP0749,Display,KeyTech,377
+LP0749,Speaker,Nvidia,376
+LP0749,Cooling Fan,CoolTech,179
+LP0749,Battery,Nvidia,310
+LP0749,RAM,Samsung,372
+LP0749,Keyboard,VisionDisplay,187
+LP0750,Touchpad,VisionDisplay,334
+LP0750,SSD,GreenCell,389
+LP0750,RAM,GreenCell,49
+LP0750,GPU,CoolTech,204
+LP0750,Cooling Fan,KeyTech,376
+LP0750,Motherboard,Nvidia,475
+LP0750,Speaker,IntelWorks,199
+LP0751,Display,IntelWorks,136
+LP0751,Cooling Fan,Nvidia,126
+LP0751,Touchpad,Nvidia,180
+LP0751,Keyboard,KeyTech,230
+LP0751,RAM,GreenCell,71
+LP0752,RAM,IntelWorks,324
+LP0752,Touchpad,Samsung,433
+LP0752,Motherboard,GreenCell,172
+LP0752,Keyboard,Samsung,111
+LP0752,GPU,IntelWorks,170
+LP0752,Cooling Fan,Nvidia,212
+LP0752,SSD,Samsung,422
+LP0753,GPU,IntelWorks,439
+LP0753,Cooling Fan,Samsung,181
+LP0753,Touchpad,Nvidia,462
+LP0753,Motherboard,Kingston,270
+LP0753,Battery,CoolTech,194
+LP0753,Keyboard,IntelWorks,312
+LP0753,RAM,CoolTech,420
+LP0753,Speaker,Samsung,413
+LP0754,Keyboard,Samsung,429
+LP0754,Touchpad,Nvidia,468
+LP0754,Motherboard,Nvidia,421
+LP0754,Speaker,GreenCell,457
+LP0754,Display,GreenCell,414
+LP0754,RAM,Nvidia,192
+LP0754,Battery,Samsung,47
+LP0755,GPU,IntelWorks,375
+LP0755,RAM,Nvidia,102
+LP0755,Speaker,GreenCell,80
+LP0755,Display,GreenCell,97
+LP0755,Motherboard,Samsung,112
+LP0756,GPU,VisionDisplay,219
+LP0756,Cooling Fan,IntelWorks,73
+LP0756,Speaker,VisionDisplay,110
+LP0756,Battery,Samsung,383
+LP0756,Keyboard,VisionDisplay,67
+LP0756,Display,Kingston,486
+LP0756,Touchpad,Samsung,293
+LP0756,RAM,Nvidia,50
+LP0757,Speaker,Nvidia,266
+LP0757,Motherboard,CoolTech,306
+LP0757,Display,GreenCell,120
+LP0757,Keyboard,VisionDisplay,108
+LP0757,SSD,Kingston,247
+LP0758,SSD,Samsung,456
+LP0758,Cooling Fan,GreenCell,346
+LP0758,Battery,Nvidia,58
+LP0758,RAM,GreenCell,393
+LP0758,Keyboard,VisionDisplay,490
+LP0759,Motherboard,Kingston,136
+LP0759,Keyboard,Nvidia,197
+LP0759,SSD,Nvidia,463
+LP0759,Display,IntelWorks,256
+LP0759,RAM,Kingston,439
+LP0759,Speaker,GreenCell,208
+LP0760,Speaker,Kingston,469
+LP0760,Battery,Samsung,205
+LP0760,SSD,Samsung,44
+LP0760,Display,IntelWorks,366
+LP0760,Motherboard,Nvidia,150
+LP0760,Cooling Fan,Samsung,354
+LP0760,GPU,Kingston,166
+LP0761,RAM,GreenCell,498
+LP0761,Battery,CoolTech,166
+LP0761,Keyboard,CoolTech,369
+LP0761,GPU,VisionDisplay,250
+LP0761,Motherboard,CoolTech,481
+LP0761,Touchpad,Nvidia,411
+LP0761,Display,KeyTech,144
+LP0761,SSD,Samsung,350
+LP0762,Cooling Fan,Nvidia,370
+LP0762,Battery,GreenCell,439
+LP0762,Motherboard,VisionDisplay,479
+LP0762,Display,CoolTech,201
+LP0762,SSD,IntelWorks,355
+LP0762,RAM,IntelWorks,430
+LP0763,Touchpad,Samsung,188
+LP0763,GPU,KeyTech,36
+LP0763,Keyboard,Nvidia,331
+LP0763,Speaker,KeyTech,186
+LP0763,Motherboard,GreenCell,156
+LP0764,RAM,VisionDisplay,386
+LP0764,Keyboard,Nvidia,245
+LP0764,SSD,CoolTech,278
+LP0764,Motherboard,Samsung,283
+LP0764,GPU,VisionDisplay,451
+LP0764,Touchpad,Nvidia,196
+LP0765,SSD,Samsung,238
+LP0765,Touchpad,IntelWorks,442
+LP0765,Speaker,KeyTech,439
+LP0765,RAM,Kingston,372
+LP0765,Battery,VisionDisplay,263
+LP0765,GPU,KeyTech,250
+LP0766,Motherboard,VisionDisplay,95
+LP0766,RAM,CoolTech,277
+LP0766,Keyboard,Samsung,467
+LP0766,Speaker,Nvidia,431
+LP0766,SSD,Nvidia,320
+LP0767,Touchpad,GreenCell,448
+LP0767,Motherboard,CoolTech,73
+LP0767,SSD,Samsung,449
+LP0767,Battery,CoolTech,368
+LP0767,Keyboard,GreenCell,149
+LP0767,Cooling Fan,Nvidia,139
+LP0768,Display,GreenCell,157
+LP0768,Speaker,GreenCell,483
+LP0768,GPU,KeyTech,445
+LP0768,RAM,KeyTech,323
+LP0768,Battery,CoolTech,103
+LP0769,Keyboard,CoolTech,35
+LP0769,Display,Nvidia,491
+LP0769,Battery,GreenCell,471
+LP0769,Motherboard,KeyTech,108
+LP0769,RAM,IntelWorks,384
+LP0769,SSD,KeyTech,105
+LP0770,Display,GreenCell,475
+LP0770,Motherboard,IntelWorks,28
+LP0770,Touchpad,VisionDisplay,374
+LP0770,Speaker,Nvidia,256
+LP0770,Cooling Fan,Nvidia,214
+LP0770,RAM,VisionDisplay,43
+LP0771,Speaker,VisionDisplay,25
+LP0771,Touchpad,VisionDisplay,438
+LP0771,Cooling Fan,Samsung,116
+LP0771,RAM,Kingston,216
+LP0771,Keyboard,VisionDisplay,167
+LP0772,Keyboard,KeyTech,348
+LP0772,Speaker,VisionDisplay,321
+LP0772,SSD,IntelWorks,422
+LP0772,Battery,CoolTech,161
+LP0772,RAM,Nvidia,420
+LP0773,Keyboard,VisionDisplay,37
+LP0773,RAM,IntelWorks,121
+LP0773,SSD,IntelWorks,254
+LP0773,Touchpad,Nvidia,488
+LP0773,Cooling Fan,GreenCell,21
+LP0773,Battery,Kingston,438
+LP0774,RAM,IntelWorks,243
+LP0774,GPU,Nvidia,479
+LP0774,Cooling Fan,Nvidia,236
+LP0774,Speaker,Samsung,67
+LP0774,Motherboard,VisionDisplay,26
+LP0774,Battery,Nvidia,489
+LP0774,Touchpad,Kingston,173
+LP0775,Display,Kingston,71
+LP0775,Keyboard,Nvidia,334
+LP0775,SSD,Samsung,415
+LP0775,Motherboard,CoolTech,41
+LP0775,Speaker,IntelWorks,208
+LP0776,GPU,Nvidia,293
+LP0776,Touchpad,Nvidia,101
+LP0776,Keyboard,Nvidia,330
+LP0776,Battery,CoolTech,421
+LP0776,SSD,IntelWorks,290
+LP0776,Display,KeyTech,296
+LP0777,Speaker,IntelWorks,209
+LP0777,Touchpad,Nvidia,112
+LP0777,Display,Kingston,252
+LP0777,Keyboard,VisionDisplay,311
+LP0777,SSD,CoolTech,479
+LP0777,GPU,Nvidia,31
+LP0777,Motherboard,KeyTech,84
+LP0777,Cooling Fan,IntelWorks,64
+LP0778,GPU,GreenCell,214
+LP0778,RAM,IntelWorks,174
+LP0778,Cooling Fan,VisionDisplay,303
+LP0778,Touchpad,IntelWorks,409
+LP0778,Speaker,Kingston,498
+LP0778,SSD,GreenCell,57
+LP0779,RAM,VisionDisplay,363
+LP0779,Touchpad,GreenCell,269
+LP0779,Speaker,Samsung,217
+LP0779,Motherboard,GreenCell,421
+LP0779,Keyboard,VisionDisplay,69
+LP0779,Cooling Fan,GreenCell,163
+LP0779,SSD,VisionDisplay,331
+LP0779,Display,Nvidia,90
+LP0780,SSD,VisionDisplay,250
+LP0780,Battery,IntelWorks,435
+LP0780,Speaker,Samsung,389
+LP0780,Display,Kingston,156
+LP0780,Touchpad,GreenCell,73
+LP0780,Keyboard,Kingston,368
+LP0780,Cooling Fan,Samsung,210
+LP0780,RAM,CoolTech,446
+LP0781,RAM,GreenCell,84
+LP0781,GPU,Kingston,274
+LP0781,Battery,IntelWorks,383
+LP0781,Motherboard,IntelWorks,500
+LP0781,SSD,IntelWorks,52
+LP0782,Keyboard,GreenCell,162
+LP0782,RAM,CoolTech,110
+LP0782,GPU,GreenCell,490
+LP0782,Battery,Kingston,474
+LP0782,Motherboard,Samsung,22
+LP0782,Touchpad,IntelWorks,65
+LP0782,Display,CoolTech,286
+LP0782,Speaker,GreenCell,102
+LP0783,Cooling Fan,Kingston,23
+LP0783,Keyboard,CoolTech,53
+LP0783,Display,IntelWorks,422
+LP0783,Touchpad,Kingston,307
+LP0783,Speaker,IntelWorks,66
+LP0783,Motherboard,VisionDisplay,314
+LP0783,RAM,Kingston,20
+LP0784,Cooling Fan,VisionDisplay,402
+LP0784,Display,IntelWorks,400
+LP0784,Speaker,Kingston,136
+LP0784,Battery,CoolTech,47
+LP0784,Touchpad,GreenCell,122
+LP0784,Keyboard,IntelWorks,36
+LP0785,Display,VisionDisplay,469
+LP0785,GPU,Samsung,307
+LP0785,RAM,Kingston,377
+LP0785,Cooling Fan,Samsung,136
+LP0785,Motherboard,GreenCell,428
+LP0785,Speaker,CoolTech,231
+LP0785,Keyboard,KeyTech,462
+LP0785,Touchpad,Nvidia,196
+LP0786,Touchpad,VisionDisplay,339
+LP0786,SSD,GreenCell,262
+LP0786,Speaker,KeyTech,432
+LP0786,Keyboard,Samsung,435
+LP0786,Motherboard,VisionDisplay,129
+LP0786,GPU,VisionDisplay,38
+LP0787,RAM,KeyTech,370
+LP0787,Motherboard,GreenCell,55
+LP0787,Battery,CoolTech,476
+LP0787,Cooling Fan,Samsung,129
+LP0787,SSD,Kingston,244
+LP0787,Touchpad,Samsung,288
+LP0787,Keyboard,KeyTech,192
+LP0788,GPU,Nvidia,39
+LP0788,Speaker,Nvidia,249
+LP0788,Motherboard,KeyTech,321
+LP0788,Keyboard,KeyTech,387
+LP0788,Battery,Samsung,476
+LP0788,SSD,Samsung,496
+LP0789,Speaker,Samsung,227
+LP0789,SSD,GreenCell,296
+LP0789,Battery,IntelWorks,189
+LP0789,Cooling Fan,Kingston,47
+LP0789,Display,CoolTech,437
+LP0789,Keyboard,CoolTech,494
+LP0790,Motherboard,VisionDisplay,206
+LP0790,GPU,Nvidia,101
+LP0790,RAM,KeyTech,309
+LP0790,Keyboard,GreenCell,393
+LP0790,SSD,IntelWorks,324
+LP0790,Battery,IntelWorks,296
+LP0790,Cooling Fan,Kingston,481
+LP0791,Display,VisionDisplay,475
+LP0791,Motherboard,KeyTech,71
+LP0791,Cooling Fan,VisionDisplay,71
+LP0791,RAM,CoolTech,418
+LP0791,GPU,Nvidia,68
+LP0791,Battery,IntelWorks,92
+LP0791,Speaker,Kingston,432
+LP0792,Cooling Fan,IntelWorks,227
+LP0792,GPU,Kingston,490
+LP0792,Motherboard,KeyTech,181
+LP0792,RAM,Samsung,377
+LP0792,Speaker,VisionDisplay,369
+LP0792,Display,GreenCell,20
+LP0792,SSD,VisionDisplay,361
+LP0793,Battery,IntelWorks,25
+LP0793,Cooling Fan,GreenCell,460
+LP0793,RAM,Nvidia,408
+LP0793,GPU,IntelWorks,60
+LP0793,SSD,Kingston,76
+LP0793,Touchpad,Kingston,129
+LP0794,RAM,IntelWorks,244
+LP0794,SSD,Samsung,42
+LP0794,Cooling Fan,CoolTech,71
+LP0794,Touchpad,CoolTech,380
+LP0794,Speaker,KeyTech,452
+LP0794,Battery,GreenCell,257
+LP0795,RAM,VisionDisplay,44
+LP0795,Touchpad,IntelWorks,221
+LP0795,Motherboard,Samsung,366
+LP0795,Display,KeyTech,175
+LP0795,Speaker,IntelWorks,124
+LP0796,Motherboard,KeyTech,239
+LP0796,SSD,IntelWorks,279
+LP0796,RAM,Samsung,52
+LP0796,Display,VisionDisplay,297
+LP0796,Touchpad,Samsung,340
+LP0797,Keyboard,Kingston,409
+LP0797,RAM,KeyTech,485
+LP0797,Battery,Kingston,371
+LP0797,SSD,Kingston,95
+LP0797,Cooling Fan,IntelWorks,205
+LP0798,Display,IntelWorks,223
+LP0798,Motherboard,Nvidia,487
+LP0798,Speaker,IntelWorks,57
+LP0798,Keyboard,Nvidia,387
+LP0798,GPU,CoolTech,264
+LP0798,SSD,Samsung,42
+LP0798,Cooling Fan,KeyTech,265
+LP0798,Battery,Samsung,375
+LP0799,Keyboard,KeyTech,30
+LP0799,Touchpad,IntelWorks,221
+LP0799,SSD,CoolTech,254
+LP0799,Battery,Nvidia,408
+LP0799,Cooling Fan,GreenCell,191
+LP0799,GPU,Kingston,24
+LP0800,Battery,Nvidia,180
+LP0800,RAM,Samsung,86
+LP0800,Motherboard,Nvidia,114
+LP0800,Cooling Fan,Samsung,74
+LP0800,Keyboard,CoolTech,295
+LP0800,Display,Samsung,114
+LP0801,Battery,Samsung,189
+LP0801,Touchpad,VisionDisplay,55
+LP0801,Keyboard,IntelWorks,397
+LP0801,GPU,IntelWorks,312
+LP0801,Display,IntelWorks,349
+LP0802,Motherboard,Samsung,144
+LP0802,RAM,IntelWorks,97
+LP0802,Keyboard,VisionDisplay,65
+LP0802,Touchpad,Nvidia,221
+LP0802,Speaker,CoolTech,132
+LP0802,SSD,GreenCell,335
+LP0802,Cooling Fan,IntelWorks,164
+LP0802,Battery,Kingston,492
+LP0803,RAM,Nvidia,179
+LP0803,Speaker,GreenCell,222
+LP0803,Cooling Fan,IntelWorks,138
+LP0803,Battery,KeyTech,234
+LP0803,SSD,GreenCell,428
+LP0803,Display,IntelWorks,472
+LP0803,Motherboard,GreenCell,254
+LP0803,Keyboard,Kingston,201
+LP0804,Display,GreenCell,20
+LP0804,SSD,CoolTech,78
+LP0804,Cooling Fan,VisionDisplay,430
+LP0804,Keyboard,Kingston,451
+LP0804,Motherboard,GreenCell,135
+LP0804,Speaker,IntelWorks,112
+LP0805,GPU,VisionDisplay,200
+LP0805,Battery,VisionDisplay,287
+LP0805,Display,CoolTech,390
+LP0805,RAM,IntelWorks,371
+LP0805,SSD,Kingston,309
+LP0805,Cooling Fan,VisionDisplay,242
+LP0806,Display,Kingston,190
+LP0806,Speaker,VisionDisplay,393
+LP0806,GPU,Kingston,311
+LP0806,Touchpad,CoolTech,373
+LP0806,SSD,CoolTech,105
+LP0807,GPU,Kingston,489
+LP0807,Speaker,KeyTech,265
+LP0807,Motherboard,KeyTech,54
+LP0807,RAM,Nvidia,331
+LP0807,Cooling Fan,GreenCell,280
+LP0808,Battery,GreenCell,106
+LP0808,Speaker,CoolTech,103
+LP0808,SSD,IntelWorks,47
+LP0808,Touchpad,GreenCell,302
+LP0808,GPU,KeyTech,334
+LP0808,Motherboard,Samsung,294
+LP0808,Cooling Fan,GreenCell,340
+LP0808,RAM,KeyTech,89
+LP0809,Motherboard,Samsung,355
+LP0809,SSD,KeyTech,394
+LP0809,Display,GreenCell,493
+LP0809,Battery,VisionDisplay,53
+LP0809,GPU,Nvidia,204
+LP0809,Keyboard,KeyTech,378
+LP0810,Battery,KeyTech,45
+LP0810,Motherboard,Samsung,499
+LP0810,Touchpad,GreenCell,132
+LP0810,Speaker,GreenCell,86
+LP0810,RAM,CoolTech,274
+LP0811,Battery,GreenCell,277
+LP0811,Display,VisionDisplay,233
+LP0811,Keyboard,Kingston,473
+LP0811,Touchpad,IntelWorks,228
+LP0811,RAM,Samsung,222
+LP0811,Speaker,KeyTech,21
+LP0811,Motherboard,IntelWorks,196
+LP0812,Cooling Fan,VisionDisplay,332
+LP0812,Touchpad,KeyTech,87
+LP0812,Speaker,VisionDisplay,370
+LP0812,Battery,IntelWorks,353
+LP0812,Keyboard,GreenCell,326
+LP0812,SSD,VisionDisplay,232
+LP0813,Cooling Fan,IntelWorks,460
+LP0813,SSD,GreenCell,318
+LP0813,GPU,KeyTech,81
+LP0813,Touchpad,IntelWorks,154
+LP0813,Speaker,KeyTech,451
+LP0814,Display,KeyTech,500
+LP0814,GPU,VisionDisplay,234
+LP0814,Speaker,CoolTech,27
+LP0814,Touchpad,IntelWorks,207
+LP0814,Cooling Fan,Nvidia,305
+LP0814,SSD,Kingston,450
+LP0814,Motherboard,Nvidia,450
+LP0815,Cooling Fan,Nvidia,205
+LP0815,Motherboard,Kingston,50
+LP0815,GPU,Samsung,317
+LP0815,Display,Samsung,418
+LP0815,RAM,Samsung,173
+LP0815,Keyboard,IntelWorks,245
+LP0815,Touchpad,Nvidia,220
+LP0815,Speaker,KeyTech,370
+LP0816,Touchpad,Samsung,351
+LP0816,Keyboard,Nvidia,105
+LP0816,Speaker,CoolTech,117
+LP0816,SSD,GreenCell,453
+LP0816,Cooling Fan,GreenCell,217
+LP0816,Battery,GreenCell,242
+LP0816,Motherboard,VisionDisplay,65
+LP0817,Battery,Kingston,156
+LP0817,SSD,GreenCell,71
+LP0817,Keyboard,IntelWorks,293
+LP0817,GPU,CoolTech,324
+LP0817,Cooling Fan,VisionDisplay,398
+LP0817,Display,Nvidia,95
+LP0817,Touchpad,KeyTech,390
+LP0818,Display,KeyTech,474
+LP0818,GPU,GreenCell,388
+LP0818,SSD,Samsung,255
+LP0818,Touchpad,GreenCell,475
+LP0818,Speaker,Kingston,361
+LP0818,Cooling Fan,IntelWorks,206
+LP0818,Battery,KeyTech,135
+LP0819,SSD,VisionDisplay,60
+LP0819,Keyboard,Kingston,454
+LP0819,Motherboard,CoolTech,227
+LP0819,GPU,IntelWorks,211
+LP0819,RAM,Samsung,209
+LP0819,Display,CoolTech,418
+LP0820,Touchpad,Kingston,122
+LP0820,SSD,Kingston,142
+LP0820,Cooling Fan,Nvidia,209
+LP0820,Battery,CoolTech,458
+LP0820,Keyboard,Samsung,221
+LP0820,RAM,Nvidia,496
+LP0820,GPU,Nvidia,433
+LP0820,Speaker,VisionDisplay,240
+LP0821,SSD,Kingston,31
+LP0821,Battery,IntelWorks,313
+LP0821,Display,Kingston,493
+LP0821,Cooling Fan,Samsung,280
+LP0821,Speaker,VisionDisplay,437
+LP0821,RAM,Kingston,114
+LP0822,Touchpad,Samsung,452
+LP0822,Battery,CoolTech,113
+LP0822,RAM,VisionDisplay,456
+LP0822,GPU,KeyTech,26
+LP0822,Speaker,CoolTech,465
+LP0822,SSD,Samsung,89
+LP0822,Keyboard,KeyTech,208
+LP0822,Display,VisionDisplay,156
+LP0823,GPU,KeyTech,146
+LP0823,Display,GreenCell,232
+LP0823,SSD,VisionDisplay,174
+LP0823,Motherboard,Kingston,473
+LP0823,RAM,Samsung,129
+LP0823,Battery,IntelWorks,251
+LP0824,Keyboard,VisionDisplay,273
+LP0824,Cooling Fan,Kingston,490
+LP0824,Touchpad,GreenCell,92
+LP0824,Motherboard,VisionDisplay,60
+LP0824,RAM,Kingston,393
+LP0824,GPU,CoolTech,67
+LP0824,SSD,Samsung,182
+LP0824,Battery,GreenCell,127
+LP0825,SSD,CoolTech,44
+LP0825,Battery,VisionDisplay,274
+LP0825,GPU,KeyTech,349
+LP0825,Touchpad,GreenCell,465
+LP0825,Keyboard,IntelWorks,374
+LP0825,Speaker,Nvidia,427
+LP0825,Cooling Fan,Kingston,468
+LP0826,Keyboard,Nvidia,224
+LP0826,Cooling Fan,Kingston,228
+LP0826,Speaker,KeyTech,119
+LP0826,Touchpad,CoolTech,21
+LP0826,Display,VisionDisplay,162
+LP0826,SSD,IntelWorks,350
+LP0827,RAM,IntelWorks,494
+LP0827,Battery,Kingston,186
+LP0827,Cooling Fan,IntelWorks,38
+LP0827,SSD,IntelWorks,491
+LP0827,Motherboard,GreenCell,267
+LP0828,Battery,KeyTech,81
+LP0828,Display,Nvidia,33
+LP0828,SSD,Samsung,136
+LP0828,Speaker,VisionDisplay,413
+LP0828,Touchpad,KeyTech,410
+LP0828,Keyboard,Nvidia,290
+LP0829,Cooling Fan,KeyTech,213
+LP0829,Battery,Kingston,199
+LP0829,Motherboard,GreenCell,285
+LP0829,Display,Nvidia,110
+LP0829,Touchpad,IntelWorks,327
+LP0830,Touchpad,Kingston,443
+LP0830,Cooling Fan,KeyTech,485
+LP0830,Keyboard,KeyTech,95
+LP0830,Battery,GreenCell,97
+LP0830,Display,CoolTech,136
+LP0830,GPU,KeyTech,477
+LP0831,Motherboard,Kingston,135
+LP0831,SSD,GreenCell,136
+LP0831,RAM,Nvidia,238
+LP0831,GPU,VisionDisplay,279
+LP0831,Keyboard,Kingston,37
+LP0831,Display,CoolTech,223
+LP0832,Motherboard,GreenCell,219
+LP0832,Speaker,CoolTech,423
+LP0832,Cooling Fan,VisionDisplay,411
+LP0832,Touchpad,GreenCell,444
+LP0832,SSD,KeyTech,215
+LP0833,Display,Nvidia,71
+LP0833,Motherboard,Kingston,350
+LP0833,Cooling Fan,KeyTech,477
+LP0833,Speaker,GreenCell,381
+LP0833,Touchpad,VisionDisplay,459
+LP0834,GPU,CoolTech,405
+LP0834,SSD,Samsung,87
+LP0834,Speaker,GreenCell,127
+LP0834,Touchpad,KeyTech,373
+LP0834,Keyboard,GreenCell,92
+LP0834,RAM,GreenCell,490
+LP0834,Display,IntelWorks,344
+LP0834,Cooling Fan,VisionDisplay,406
+LP0835,SSD,GreenCell,111
+LP0835,Battery,Kingston,227
+LP0835,RAM,IntelWorks,213
+LP0835,Touchpad,GreenCell,440
+LP0835,Cooling Fan,Kingston,128
+LP0835,GPU,Kingston,355
+LP0835,Display,IntelWorks,480
+LP0836,Keyboard,Nvidia,370
+LP0836,Cooling Fan,CoolTech,161
+LP0836,Touchpad,VisionDisplay,443
+LP0836,Motherboard,KeyTech,23
+LP0836,RAM,CoolTech,362
+LP0836,GPU,Kingston,137
+LP0836,SSD,Samsung,415
+LP0836,Display,VisionDisplay,354
+LP0837,Battery,IntelWorks,280
+LP0837,Motherboard,Samsung,359
+LP0837,Display,Nvidia,137
+LP0837,Cooling Fan,CoolTech,356
+LP0837,Keyboard,Kingston,217
+LP0837,GPU,VisionDisplay,180
+LP0837,RAM,Samsung,424
+LP0838,Motherboard,VisionDisplay,208
+LP0838,RAM,VisionDisplay,239
+LP0838,Speaker,Samsung,56
+LP0838,Battery,VisionDisplay,309
+LP0838,SSD,Kingston,188
+LP0838,Touchpad,Nvidia,159
+LP0838,Display,IntelWorks,311
+LP0838,GPU,VisionDisplay,315
+LP0839,Touchpad,IntelWorks,264
+LP0839,Keyboard,IntelWorks,435
+LP0839,RAM,GreenCell,29
+LP0839,Speaker,Samsung,106
+LP0839,SSD,Nvidia,101
+LP0839,GPU,IntelWorks,56
+LP0839,Battery,CoolTech,69
+LP0839,Motherboard,GreenCell,393
+LP0840,Battery,KeyTech,404
+LP0840,SSD,Nvidia,483
+LP0840,Display,Nvidia,256
+LP0840,Cooling Fan,CoolTech,227
+LP0840,Speaker,IntelWorks,309
+LP0841,Keyboard,GreenCell,87
+LP0841,Display,CoolTech,353
+LP0841,Battery,Nvidia,365
+LP0841,Touchpad,IntelWorks,255
+LP0841,GPU,Kingston,376
+LP0841,RAM,CoolTech,352
+LP0841,Speaker,Nvidia,200
+LP0841,Motherboard,KeyTech,450
+LP0842,Touchpad,Nvidia,188
+LP0842,SSD,Samsung,116
+LP0842,Keyboard,IntelWorks,282
+LP0842,Motherboard,Kingston,113
+LP0842,Speaker,KeyTech,83
+LP0842,GPU,GreenCell,43
+LP0843,Display,CoolTech,433
+LP0843,Touchpad,Nvidia,159
+LP0843,RAM,Samsung,308
+LP0843,GPU,CoolTech,429
+LP0843,Motherboard,Samsung,265
+LP0843,Battery,IntelWorks,384
+LP0844,Motherboard,Nvidia,176
+LP0844,Battery,Samsung,298
+LP0844,GPU,Nvidia,274
+LP0844,SSD,Nvidia,172
+LP0844,Keyboard,CoolTech,323
+LP0845,SSD,IntelWorks,151
+LP0845,Display,Kingston,36
+LP0845,GPU,IntelWorks,228
+LP0845,Cooling Fan,KeyTech,200
+LP0845,Speaker,Kingston,377
+LP0845,Keyboard,KeyTech,260
+LP0845,Battery,KeyTech,39
+LP0845,RAM,Nvidia,159
+LP0846,Touchpad,Nvidia,134
+LP0846,Battery,Kingston,125
+LP0846,Cooling Fan,IntelWorks,375
+LP0846,Keyboard,Kingston,323
+LP0846,Motherboard,CoolTech,388
+LP0846,RAM,IntelWorks,111
+LP0846,Speaker,Kingston,199
+LP0846,SSD,VisionDisplay,102
+LP0847,Cooling Fan,VisionDisplay,456
+LP0847,GPU,Kingston,334
+LP0847,Keyboard,Samsung,489
+LP0847,Touchpad,Kingston,333
+LP0847,Battery,Nvidia,198
+LP0847,Display,Samsung,231
+LP0848,Keyboard,Samsung,422
+LP0848,SSD,VisionDisplay,425
+LP0848,RAM,Samsung,333
+LP0848,GPU,VisionDisplay,222
+LP0848,Battery,KeyTech,405
+LP0848,Cooling Fan,KeyTech,446
+LP0848,Display,Samsung,161
+LP0848,Touchpad,CoolTech,165
+LP0849,Touchpad,GreenCell,94
+LP0849,SSD,KeyTech,44
+LP0849,GPU,Kingston,276
+LP0849,Battery,Nvidia,85
+LP0849,Motherboard,CoolTech,390
+LP0849,Speaker,KeyTech,314
+LP0850,Display,GreenCell,51
+LP0850,Keyboard,GreenCell,78
+LP0850,Battery,CoolTech,409
+LP0850,Motherboard,IntelWorks,265
+LP0850,GPU,Kingston,174
+LP0850,SSD,Kingston,118
+LP0850,Speaker,Samsung,342
+LP0851,RAM,KeyTech,25
+LP0851,Touchpad,IntelWorks,174
+LP0851,Cooling Fan,Samsung,310
+LP0851,GPU,Nvidia,454
+LP0851,SSD,Samsung,215
+LP0851,Display,VisionDisplay,95
+LP0851,Speaker,KeyTech,310
+LP0851,Motherboard,IntelWorks,441
+LP0852,Battery,KeyTech,395
+LP0852,RAM,CoolTech,190
+LP0852,Display,Nvidia,462
+LP0852,Cooling Fan,Kingston,290
+LP0852,Motherboard,Nvidia,117
+LP0853,Touchpad,KeyTech,55
+LP0853,RAM,Samsung,381
+LP0853,Cooling Fan,Kingston,302
+LP0853,Motherboard,Samsung,116
+LP0853,SSD,Samsung,376
+LP0853,Keyboard,Kingston,223
+LP0853,GPU,Nvidia,133
+LP0854,Display,Samsung,475
+LP0854,Keyboard,GreenCell,117
+LP0854,RAM,Nvidia,100
+LP0854,Motherboard,GreenCell,37
+LP0854,Touchpad,KeyTech,119
+LP0855,Cooling Fan,IntelWorks,174
+LP0855,SSD,KeyTech,359
+LP0855,Battery,CoolTech,385
+LP0855,Touchpad,Nvidia,278
+LP0855,Keyboard,Nvidia,420
+LP0855,Display,IntelWorks,36
+LP0855,Motherboard,Kingston,383
+LP0856,Touchpad,GreenCell,473
+LP0856,SSD,VisionDisplay,351
+LP0856,GPU,CoolTech,244
+LP0856,Cooling Fan,Samsung,52
+LP0856,Speaker,CoolTech,154
+LP0856,Motherboard,KeyTech,39
+LP0857,Keyboard,IntelWorks,103
+LP0857,RAM,GreenCell,437
+LP0857,Motherboard,Samsung,236
+LP0857,Display,Nvidia,193
+LP0857,GPU,GreenCell,249
+LP0857,SSD,Kingston,393
+LP0857,Battery,GreenCell,121
+LP0858,Battery,GreenCell,28
+LP0858,Speaker,GreenCell,189
+LP0858,Touchpad,Nvidia,313
+LP0858,SSD,VisionDisplay,130
+LP0858,Display,KeyTech,469
+LP0858,Motherboard,IntelWorks,137
+LP0859,Keyboard,CoolTech,54
+LP0859,Touchpad,VisionDisplay,363
+LP0859,SSD,Nvidia,421
+LP0859,Speaker,CoolTech,206
+LP0859,GPU,IntelWorks,244
+LP0860,Battery,Samsung,348
+LP0860,Cooling Fan,Kingston,127
+LP0860,RAM,IntelWorks,60
+LP0860,GPU,GreenCell,486
+LP0860,Touchpad,KeyTech,396
+LP0860,Display,Samsung,437
+LP0860,Motherboard,CoolTech,107
+LP0860,Keyboard,KeyTech,34
+LP0861,SSD,CoolTech,54
+LP0861,Battery,IntelWorks,66
+LP0861,Motherboard,CoolTech,387
+LP0861,Display,GreenCell,103
+LP0861,Touchpad,GreenCell,169
+LP0861,Speaker,IntelWorks,471
+LP0862,Motherboard,VisionDisplay,445
+LP0862,Cooling Fan,CoolTech,348
+LP0862,GPU,CoolTech,184
+LP0862,Speaker,Samsung,231
+LP0862,Battery,VisionDisplay,338
+LP0862,SSD,GreenCell,493
+LP0862,Keyboard,Samsung,45
+LP0863,RAM,GreenCell,193
+LP0863,Speaker,VisionDisplay,112
+LP0863,Keyboard,GreenCell,182
+LP0863,SSD,IntelWorks,430
+LP0863,Cooling Fan,Kingston,217
+LP0863,Display,Nvidia,408
+LP0863,Touchpad,Samsung,384
+LP0863,Battery,Samsung,488
+LP0864,Keyboard,VisionDisplay,426
+LP0864,Cooling Fan,GreenCell,71
+LP0864,Touchpad,GreenCell,63
+LP0864,RAM,VisionDisplay,44
+LP0864,Display,VisionDisplay,291
+LP0864,Speaker,CoolTech,282
+LP0865,Keyboard,IntelWorks,362
+LP0865,RAM,VisionDisplay,252
+LP0865,GPU,IntelWorks,461
+LP0865,Cooling Fan,CoolTech,169
+LP0865,Speaker,IntelWorks,428
+LP0866,Touchpad,Samsung,375
+LP0866,Battery,Kingston,111
+LP0866,RAM,Kingston,396
+LP0866,Motherboard,VisionDisplay,272
+LP0866,SSD,VisionDisplay,108
+LP0866,Cooling Fan,GreenCell,92
+LP0867,GPU,IntelWorks,204
+LP0867,SSD,Samsung,96
+LP0867,Keyboard,GreenCell,77
+LP0867,Display,Nvidia,110
+LP0867,Speaker,Nvidia,367
+LP0867,Cooling Fan,Kingston,370
+LP0867,Touchpad,Samsung,322
+LP0867,Motherboard,Nvidia,455
+LP0868,Keyboard,Samsung,246
+LP0868,Motherboard,IntelWorks,176
+LP0868,Touchpad,CoolTech,280
+LP0868,Display,Kingston,26
+LP0868,Battery,Samsung,257
+LP0868,RAM,IntelWorks,431
+LP0869,Motherboard,VisionDisplay,333
+LP0869,RAM,Kingston,117
+LP0869,GPU,CoolTech,274
+LP0869,Cooling Fan,Samsung,339
+LP0869,SSD,GreenCell,223
+LP0869,Battery,Nvidia,344
+LP0870,Battery,CoolTech,491
+LP0870,RAM,CoolTech,262
+LP0870,GPU,Kingston,426
+LP0870,Display,GreenCell,101
+LP0870,Touchpad,Kingston,310
+LP0870,Cooling Fan,GreenCell,28
+LP0871,Display,Kingston,313
+LP0871,GPU,GreenCell,97
+LP0871,RAM,Samsung,79
+LP0871,SSD,VisionDisplay,185
+LP0871,Motherboard,Nvidia,131
+LP0871,Touchpad,IntelWorks,97
+LP0871,Speaker,Kingston,181
+LP0871,Cooling Fan,Nvidia,139
+LP0872,Keyboard,GreenCell,41
+LP0872,Cooling Fan,Nvidia,213
+LP0872,Battery,VisionDisplay,191
+LP0872,RAM,Samsung,339
+LP0872,Touchpad,IntelWorks,350
+LP0872,Display,Kingston,69
+LP0872,Speaker,KeyTech,124
+LP0872,GPU,VisionDisplay,134
+LP0873,Motherboard,VisionDisplay,439
+LP0873,SSD,VisionDisplay,110
+LP0873,Keyboard,GreenCell,68
+LP0873,RAM,GreenCell,420
+LP0873,Display,VisionDisplay,210
+LP0874,Speaker,CoolTech,225
+LP0874,Display,Samsung,477
+LP0874,RAM,IntelWorks,73
+LP0874,SSD,VisionDisplay,291
+LP0874,Touchpad,Kingston,154
+LP0874,Keyboard,IntelWorks,219
+LP0874,GPU,Samsung,176
+LP0875,Motherboard,CoolTech,246
+LP0875,Touchpad,CoolTech,145
+LP0875,GPU,Kingston,286
+LP0875,Display,Kingston,417
+LP0875,SSD,Nvidia,346
+LP0875,RAM,Nvidia,164
+LP0876,SSD,GreenCell,77
+LP0876,Display,GreenCell,386
+LP0876,GPU,Nvidia,434
+LP0876,RAM,GreenCell,111
+LP0876,Speaker,VisionDisplay,118
+LP0876,Cooling Fan,GreenCell,28
+LP0876,Battery,Samsung,373
+LP0876,Keyboard,VisionDisplay,43
+LP0877,Battery,VisionDisplay,66
+LP0877,SSD,CoolTech,461
+LP0877,Keyboard,CoolTech,98
+LP0877,GPU,Nvidia,321
+LP0877,Motherboard,Samsung,314
+LP0877,Touchpad,VisionDisplay,353
+LP0877,Cooling Fan,GreenCell,283
+LP0878,Display,Nvidia,229
+LP0878,Speaker,IntelWorks,397
+LP0878,Motherboard,GreenCell,381
+LP0878,Cooling Fan,IntelWorks,51
+LP0878,Touchpad,IntelWorks,198
+LP0878,Keyboard,KeyTech,402
+LP0879,Speaker,VisionDisplay,21
+LP0879,RAM,Kingston,343
+LP0879,Keyboard,IntelWorks,187
+LP0879,SSD,GreenCell,158
+LP0879,Cooling Fan,KeyTech,473
+LP0879,Display,KeyTech,301
+LP0880,RAM,GreenCell,357
+LP0880,Speaker,IntelWorks,50
+LP0880,Battery,CoolTech,223
+LP0880,Keyboard,Nvidia,103
+LP0880,SSD,CoolTech,407
+LP0881,Keyboard,KeyTech,129
+LP0881,Touchpad,CoolTech,228
+LP0881,Battery,VisionDisplay,278
+LP0881,GPU,Kingston,345
+LP0881,SSD,VisionDisplay,472
+LP0881,Display,Nvidia,110
+LP0881,Speaker,Nvidia,252
+LP0881,Cooling Fan,VisionDisplay,146
+LP0882,Speaker,GreenCell,122
+LP0882,SSD,KeyTech,387
+LP0882,Display,GreenCell,70
+LP0882,Motherboard,KeyTech,198
+LP0882,GPU,GreenCell,256
+LP0882,Cooling Fan,VisionDisplay,290
+LP0882,Touchpad,CoolTech,186
+LP0882,Battery,IntelWorks,227
+LP0883,Cooling Fan,GreenCell,23
+LP0883,GPU,VisionDisplay,458
+LP0883,Display,Samsung,146
+LP0883,RAM,VisionDisplay,338
+LP0883,Motherboard,GreenCell,259
+LP0883,Keyboard,CoolTech,229
+LP0883,Battery,VisionDisplay,255
+LP0883,SSD,VisionDisplay,200
+LP0884,Touchpad,CoolTech,111
+LP0884,Speaker,IntelWorks,386
+LP0884,Keyboard,GreenCell,379
+LP0884,SSD,Nvidia,212
+LP0884,RAM,Kingston,376
+LP0884,Battery,Nvidia,293
+LP0884,GPU,Nvidia,411
+LP0884,Cooling Fan,GreenCell,333
+LP0885,Touchpad,GreenCell,195
+LP0885,Display,Kingston,134
+LP0885,Battery,Samsung,363
+LP0885,Cooling Fan,Nvidia,341
+LP0885,Keyboard,IntelWorks,411
+LP0885,Speaker,CoolTech,397
+LP0885,GPU,Samsung,473
+LP0886,Touchpad,GreenCell,411
+LP0886,Motherboard,Nvidia,236
+LP0886,Cooling Fan,Samsung,52
+LP0886,Battery,CoolTech,313
+LP0886,RAM,Nvidia,268
+LP0886,Keyboard,IntelWorks,307
+LP0887,Speaker,CoolTech,150
+LP0887,Cooling Fan,Kingston,371
+LP0887,SSD,Samsung,227
+LP0887,RAM,Samsung,58
+LP0887,GPU,KeyTech,430
+LP0888,Display,KeyTech,224
+LP0888,GPU,VisionDisplay,214
+LP0888,Cooling Fan,Samsung,417
+LP0888,Touchpad,IntelWorks,155
+LP0888,Battery,Samsung,181
+LP0888,Keyboard,IntelWorks,425
+LP0888,RAM,GreenCell,359
+LP0889,Motherboard,CoolTech,40
+LP0889,RAM,Nvidia,224
+LP0889,Battery,Samsung,303
+LP0889,Touchpad,IntelWorks,29
+LP0889,GPU,GreenCell,158
+LP0889,Display,Samsung,203
+LP0889,Keyboard,VisionDisplay,414
+LP0889,Speaker,KeyTech,20
+LP0890,Motherboard,KeyTech,336
+LP0890,RAM,CoolTech,154
+LP0890,Cooling Fan,VisionDisplay,303
+LP0890,Battery,Kingston,232
+LP0890,Speaker,KeyTech,27
+LP0890,SSD,GreenCell,493
+LP0891,RAM,Nvidia,409
+LP0891,Motherboard,Nvidia,72
+LP0891,Speaker,Kingston,350
+LP0891,Cooling Fan,KeyTech,28
+LP0891,Display,Kingston,218
+LP0891,GPU,Samsung,69
+LP0891,Battery,Samsung,412
+LP0891,Keyboard,KeyTech,442
+LP0892,Speaker,IntelWorks,354
+LP0892,SSD,VisionDisplay,291
+LP0892,GPU,CoolTech,102
+LP0892,Keyboard,Nvidia,469
+LP0892,Touchpad,IntelWorks,35
+LP0892,Motherboard,VisionDisplay,343
+LP0892,Cooling Fan,KeyTech,238
+LP0892,Battery,Kingston,474
+LP0893,Motherboard,Samsung,87
+LP0893,Keyboard,IntelWorks,221
+LP0893,SSD,CoolTech,160
+LP0893,Battery,Kingston,236
+LP0893,GPU,Nvidia,439
+LP0894,Battery,Kingston,486
+LP0894,SSD,Kingston,332
+LP0894,Motherboard,Nvidia,466
+LP0894,Keyboard,CoolTech,90
+LP0894,Display,Kingston,497
+LP0894,RAM,Nvidia,413
+LP0894,Cooling Fan,GreenCell,114
+LP0895,Display,CoolTech,426
+LP0895,Motherboard,IntelWorks,152
+LP0895,RAM,CoolTech,177
+LP0895,Touchpad,CoolTech,481
+LP0895,GPU,Nvidia,175
+LP0895,Battery,Samsung,370
+LP0896,RAM,KeyTech,180
+LP0896,Keyboard,IntelWorks,270
+LP0896,GPU,VisionDisplay,90
+LP0896,Battery,Samsung,190
+LP0896,Display,Kingston,131
+LP0896,Motherboard,VisionDisplay,105
+LP0896,Touchpad,IntelWorks,21
+LP0897,GPU,KeyTech,492
+LP0897,Battery,GreenCell,344
+LP0897,Speaker,CoolTech,273
+LP0897,Motherboard,GreenCell,237
+LP0897,Touchpad,Samsung,294
+LP0897,Keyboard,KeyTech,336
+LP0898,Speaker,Samsung,107
+LP0898,RAM,Kingston,91
+LP0898,Touchpad,Kingston,71
+LP0898,SSD,Nvidia,79
+LP0898,Battery,Kingston,270
+LP0898,Display,Kingston,334
+LP0898,GPU,VisionDisplay,249
+LP0899,Motherboard,IntelWorks,205
+LP0899,RAM,Samsung,326
+LP0899,Touchpad,VisionDisplay,152
+LP0899,SSD,CoolTech,252
+LP0899,Speaker,Samsung,157
+LP0900,Keyboard,Samsung,77
+LP0900,RAM,CoolTech,80
+LP0900,Touchpad,Kingston,317
+LP0900,Battery,Samsung,379
+LP0900,Display,CoolTech,122
+LP0900,GPU,Samsung,168
+LP0900,Cooling Fan,KeyTech,38
+LP0900,SSD,Kingston,138
+LP0901,Speaker,VisionDisplay,467
+LP0901,Touchpad,VisionDisplay,372
+LP0901,Motherboard,KeyTech,142
+LP0901,Display,GreenCell,238
+LP0901,GPU,IntelWorks,282
+LP0901,Cooling Fan,CoolTech,279
+LP0901,RAM,GreenCell,435
+LP0901,Keyboard,VisionDisplay,200
+LP0902,Cooling Fan,Nvidia,114
+LP0902,Speaker,Kingston,370
+LP0902,Touchpad,VisionDisplay,180
+LP0902,Display,GreenCell,82
+LP0902,Motherboard,CoolTech,374
+LP0902,Battery,Samsung,229
+LP0903,Keyboard,VisionDisplay,202
+LP0903,RAM,Nvidia,371
+LP0903,Touchpad,CoolTech,116
+LP0903,Cooling Fan,Samsung,162
+LP0903,SSD,Nvidia,274
+LP0903,Motherboard,VisionDisplay,396
+LP0903,Speaker,CoolTech,246
+LP0904,Battery,Samsung,474
+LP0904,GPU,Nvidia,342
+LP0904,Display,Nvidia,154
+LP0904,Touchpad,Kingston,46
+LP0904,Cooling Fan,IntelWorks,373
+LP0904,RAM,IntelWorks,77
+LP0904,Keyboard,IntelWorks,292
+LP0904,Motherboard,Kingston,265
+LP0905,Touchpad,GreenCell,68
+LP0905,Motherboard,VisionDisplay,296
+LP0905,Keyboard,Nvidia,359
+LP0905,GPU,Samsung,483
+LP0905,RAM,Samsung,107
+LP0905,Battery,Samsung,219
+LP0906,Speaker,Kingston,244
+LP0906,Touchpad,GreenCell,307
+LP0906,SSD,Kingston,441
+LP0906,Cooling Fan,CoolTech,188
+LP0906,RAM,Kingston,406
+LP0906,GPU,GreenCell,285
+LP0906,Keyboard,VisionDisplay,451
+LP0907,Battery,CoolTech,394
+LP0907,Touchpad,VisionDisplay,439
+LP0907,Display,GreenCell,173
+LP0907,Keyboard,KeyTech,347
+LP0907,RAM,CoolTech,480
+LP0908,Cooling Fan,Samsung,488
+LP0908,Motherboard,Samsung,493
+LP0908,RAM,Kingston,435
+LP0908,GPU,VisionDisplay,424
+LP0908,SSD,Samsung,426
+LP0909,GPU,VisionDisplay,62
+LP0909,Cooling Fan,GreenCell,391
+LP0909,Battery,KeyTech,346
+LP0909,SSD,IntelWorks,127
+LP0909,Keyboard,Kingston,405
+LP0909,Touchpad,Nvidia,454
+LP0910,Display,VisionDisplay,160
+LP0910,Keyboard,Kingston,315
+LP0910,Cooling Fan,IntelWorks,474
+LP0910,GPU,IntelWorks,397
+LP0910,SSD,GreenCell,446
+LP0911,Cooling Fan,GreenCell,306
+LP0911,Touchpad,Nvidia,493
+LP0911,Motherboard,Nvidia,319
+LP0911,Battery,KeyTech,133
+LP0911,GPU,Kingston,65
+LP0912,Speaker,Kingston,119
+LP0912,Touchpad,GreenCell,364
+LP0912,Motherboard,Nvidia,30
+LP0912,GPU,VisionDisplay,82
+LP0912,RAM,KeyTech,423
+LP0912,Keyboard,VisionDisplay,25
+LP0912,Cooling Fan,KeyTech,459
+LP0913,Touchpad,Kingston,82
+LP0913,Cooling Fan,KeyTech,390
+LP0913,SSD,Nvidia,41
+LP0913,Display,IntelWorks,373
+LP0913,RAM,Kingston,443
+LP0913,Battery,VisionDisplay,458
+LP0914,Motherboard,Samsung,128
+LP0914,SSD,CoolTech,125
+LP0914,RAM,Nvidia,55
+LP0914,Touchpad,Kingston,497
+LP0914,Display,CoolTech,125
+LP0915,GPU,KeyTech,127
+LP0915,Battery,Kingston,143
+LP0915,Cooling Fan,IntelWorks,380
+LP0915,Motherboard,IntelWorks,340
+LP0915,Display,Kingston,298
+LP0915,Speaker,Kingston,467
+LP0915,Keyboard,Nvidia,66
+LP0915,SSD,Kingston,344
+LP0916,Cooling Fan,KeyTech,319
+LP0916,Keyboard,CoolTech,310
+LP0916,Display,GreenCell,202
+LP0916,RAM,Kingston,424
+LP0916,Battery,VisionDisplay,71
+LP0916,Speaker,Nvidia,168
+LP0916,SSD,KeyTech,221
+LP0917,Battery,GreenCell,253
+LP0917,Speaker,IntelWorks,457
+LP0917,Keyboard,GreenCell,298
+LP0917,Cooling Fan,Nvidia,412
+LP0917,GPU,Nvidia,229
+LP0918,RAM,VisionDisplay,213
+LP0918,Keyboard,Samsung,151
+LP0918,SSD,VisionDisplay,438
+LP0918,Display,Nvidia,59
+LP0918,Cooling Fan,IntelWorks,477
+LP0919,Touchpad,Kingston,294
+LP0919,Cooling Fan,Samsung,229
+LP0919,RAM,Samsung,41
+LP0919,Speaker,Kingston,83
+LP0919,Display,IntelWorks,116
+LP0920,Battery,GreenCell,269
+LP0920,Cooling Fan,Nvidia,126
+LP0920,Keyboard,Nvidia,88
+LP0920,Motherboard,VisionDisplay,154
+LP0920,Touchpad,Samsung,366
+LP0921,Cooling Fan,Nvidia,314
+LP0921,Display,IntelWorks,234
+LP0921,Keyboard,CoolTech,225
+LP0921,SSD,Samsung,375
+LP0921,Battery,IntelWorks,311
+LP0921,Speaker,GreenCell,108
+LP0921,Motherboard,Samsung,500
+LP0922,SSD,CoolTech,89
+LP0922,RAM,CoolTech,83
+LP0922,Speaker,CoolTech,156
+LP0922,Motherboard,KeyTech,30
+LP0922,Cooling Fan,Nvidia,432
+LP0922,Display,VisionDisplay,423
+LP0922,Battery,VisionDisplay,407
+LP0922,Keyboard,Nvidia,449
+LP0923,Motherboard,CoolTech,125
+LP0923,Keyboard,CoolTech,246
+LP0923,SSD,Kingston,282
+LP0923,Display,KeyTech,394
+LP0923,Cooling Fan,KeyTech,129
+LP0923,RAM,Nvidia,165
+LP0923,Touchpad,CoolTech,250
+LP0924,SSD,IntelWorks,338
+LP0924,Display,VisionDisplay,198
+LP0924,Keyboard,KeyTech,282
+LP0924,RAM,Nvidia,31
+LP0924,Motherboard,GreenCell,299
+LP0925,GPU,Samsung,54
+LP0925,Battery,GreenCell,461
+LP0925,RAM,KeyTech,477
+LP0925,Speaker,VisionDisplay,332
+LP0925,Display,IntelWorks,390
+LP0925,Motherboard,Kingston,250
+LP0926,Battery,CoolTech,373
+LP0926,Motherboard,Samsung,71
+LP0926,SSD,KeyTech,101
+LP0926,GPU,Samsung,210
+LP0926,Touchpad,KeyTech,450
+LP0926,Speaker,VisionDisplay,50
+LP0926,Cooling Fan,CoolTech,385
+LP0926,Keyboard,Samsung,70
+LP0927,Battery,CoolTech,97
+LP0927,SSD,Nvidia,150
+LP0927,Cooling Fan,Nvidia,124
+LP0927,Motherboard,GreenCell,110
+LP0927,Speaker,Kingston,60
+LP0927,RAM,CoolTech,451
+LP0928,Battery,Nvidia,71
+LP0928,Touchpad,VisionDisplay,293
+LP0928,SSD,IntelWorks,38
+LP0928,Motherboard,KeyTech,176
+LP0928,Speaker,Nvidia,289
+LP0928,Display,Nvidia,70
+LP0928,Cooling Fan,Nvidia,130
+LP0929,Cooling Fan,CoolTech,375
+LP0929,Motherboard,GreenCell,48
+LP0929,Battery,GreenCell,418
+LP0929,SSD,IntelWorks,36
+LP0929,Keyboard,Kingston,419
+LP0930,GPU,KeyTech,229
+LP0930,Touchpad,IntelWorks,25
+LP0930,Battery,Kingston,258
+LP0930,Motherboard,CoolTech,329
+LP0930,SSD,Kingston,35
+LP0930,Cooling Fan,IntelWorks,69
+LP0931,Keyboard,KeyTech,335
+LP0931,Battery,CoolTech,65
+LP0931,RAM,KeyTech,405
+LP0931,GPU,IntelWorks,355
+LP0931,SSD,CoolTech,107
+LP0931,Motherboard,GreenCell,67
+LP0931,Cooling Fan,VisionDisplay,124
+LP0931,Display,Nvidia,309
+LP0932,Speaker,CoolTech,92
+LP0932,Cooling Fan,GreenCell,81
+LP0932,Display,IntelWorks,431
+LP0932,RAM,Samsung,181
+LP0932,Keyboard,Samsung,400
+LP0933,Display,IntelWorks,252
+LP0933,Cooling Fan,Samsung,176
+LP0933,Touchpad,KeyTech,228
+LP0933,SSD,IntelWorks,94
+LP0933,Speaker,KeyTech,408
+LP0933,GPU,Samsung,170
+LP0933,Motherboard,GreenCell,114
+LP0933,RAM,Kingston,93
+LP0934,GPU,KeyTech,486
+LP0934,Motherboard,Samsung,406
+LP0934,Battery,VisionDisplay,92
+LP0934,Cooling Fan,IntelWorks,318
+LP0934,Display,Samsung,176
+LP0935,Cooling Fan,Kingston,181
+LP0935,Battery,VisionDisplay,135
+LP0935,GPU,GreenCell,260
+LP0935,SSD,Nvidia,60
+LP0935,Motherboard,CoolTech,328
+LP0935,Display,Samsung,388
+LP0935,Touchpad,IntelWorks,366
+LP0935,Keyboard,GreenCell,158
+LP0936,RAM,VisionDisplay,74
+LP0936,Speaker,VisionDisplay,183
+LP0936,Touchpad,VisionDisplay,107
+LP0936,Motherboard,Nvidia,296
+LP0936,Keyboard,Nvidia,407
+LP0936,GPU,Samsung,395
+LP0936,Display,Nvidia,150
+LP0937,Speaker,IntelWorks,276
+LP0937,GPU,Samsung,179
+LP0937,Touchpad,CoolTech,152
+LP0937,Display,IntelWorks,281
+LP0937,Cooling Fan,KeyTech,244
+LP0937,Keyboard,VisionDisplay,309
+LP0937,SSD,VisionDisplay,312
+LP0937,Motherboard,IntelWorks,271
+LP0938,Touchpad,Nvidia,312
+LP0938,Battery,KeyTech,221
+LP0938,Display,GreenCell,446
+LP0938,Keyboard,KeyTech,422
+LP0938,Speaker,Kingston,137
+LP0938,Motherboard,Samsung,296
+LP0938,SSD,Samsung,281
+LP0939,SSD,Nvidia,183
+LP0939,Cooling Fan,Samsung,241
+LP0939,Motherboard,GreenCell,95
+LP0939,Touchpad,IntelWorks,106
+LP0939,Display,VisionDisplay,105
+LP0939,Speaker,KeyTech,400
+LP0939,RAM,CoolTech,371
+LP0939,Battery,GreenCell,463
+LP0940,RAM,IntelWorks,51
+LP0940,Touchpad,IntelWorks,29
+LP0940,Motherboard,Nvidia,147
+LP0940,Display,Samsung,400
+LP0940,GPU,Nvidia,252
+LP0941,Touchpad,VisionDisplay,82
+LP0941,Display,Samsung,80
+LP0941,Motherboard,Nvidia,428
+LP0941,Cooling Fan,IntelWorks,31
+LP0941,SSD,VisionDisplay,216
+LP0941,RAM,GreenCell,440
+LP0942,Battery,CoolTech,398
+LP0942,Cooling Fan,IntelWorks,218
+LP0942,Keyboard,IntelWorks,297
+LP0942,Speaker,Kingston,173
+LP0942,RAM,VisionDisplay,457
+LP0942,SSD,Nvidia,265
+LP0943,GPU,KeyTech,147
+LP0943,Keyboard,Nvidia,80
+LP0943,Motherboard,VisionDisplay,390
+LP0943,Cooling Fan,KeyTech,248
+LP0943,Touchpad,VisionDisplay,495
+LP0943,SSD,VisionDisplay,287
+LP0943,Battery,VisionDisplay,182
+LP0944,Touchpad,Kingston,276
+LP0944,Speaker,GreenCell,408
+LP0944,RAM,Samsung,96
+LP0944,Cooling Fan,IntelWorks,116
+LP0944,Battery,Samsung,432
+LP0945,Display,Samsung,231
+LP0945,RAM,Nvidia,35
+LP0945,Keyboard,CoolTech,184
+LP0945,Battery,Nvidia,314
+LP0945,Touchpad,Samsung,165
+LP0946,GPU,IntelWorks,301
+LP0946,Touchpad,GreenCell,156
+LP0946,Cooling Fan,IntelWorks,434
+LP0946,Display,GreenCell,381
+LP0946,RAM,VisionDisplay,372
+LP0946,Motherboard,GreenCell,491
+LP0946,SSD,GreenCell,354
+LP0947,Speaker,GreenCell,37
+LP0947,Cooling Fan,Kingston,276
+LP0947,SSD,VisionDisplay,274
+LP0947,Motherboard,Samsung,372
+LP0947,Display,Kingston,483
+LP0947,Keyboard,GreenCell,259
+LP0948,RAM,Kingston,252
+LP0948,Keyboard,IntelWorks,24
+LP0948,GPU,Samsung,64
+LP0948,Battery,GreenCell,337
+LP0948,Display,VisionDisplay,415
+LP0948,Touchpad,GreenCell,302
+LP0949,Display,Kingston,197
+LP0949,Speaker,IntelWorks,166
+LP0949,Touchpad,Nvidia,78
+LP0949,RAM,IntelWorks,51
+LP0949,Keyboard,CoolTech,328
+LP0949,Motherboard,GreenCell,132
+LP0949,Cooling Fan,IntelWorks,155
+LP0950,GPU,GreenCell,254
+LP0950,Motherboard,VisionDisplay,35
+LP0950,Speaker,VisionDisplay,390
+LP0950,Cooling Fan,GreenCell,122
+LP0950,Display,GreenCell,310
+LP0950,SSD,Nvidia,55
+LP0950,RAM,Kingston,65
+LP0950,Battery,GreenCell,35
+LP0951,Speaker,Kingston,134
+LP0951,RAM,Samsung,179
+LP0951,Motherboard,Nvidia,391
+LP0951,Keyboard,IntelWorks,468
+LP0951,Touchpad,Samsung,355
+LP0951,GPU,GreenCell,477
+LP0951,SSD,GreenCell,245
+LP0952,Keyboard,KeyTech,23
+LP0952,SSD,Kingston,275
+LP0952,GPU,KeyTech,394
+LP0952,Cooling Fan,Samsung,271
+LP0952,Motherboard,GreenCell,152
+LP0952,RAM,KeyTech,199
+LP0952,Speaker,Nvidia,62
+LP0952,Display,CoolTech,229
+LP0953,Battery,CoolTech,362
+LP0953,RAM,GreenCell,221
+LP0953,Display,CoolTech,21
+LP0953,Speaker,Nvidia,453
+LP0953,GPU,Nvidia,380
+LP0953,Cooling Fan,Nvidia,498
+LP0954,GPU,Nvidia,456
+LP0954,Battery,CoolTech,281
+LP0954,Speaker,Samsung,424
+LP0954,Cooling Fan,Samsung,262
+LP0954,Motherboard,CoolTech,444
+LP0954,SSD,VisionDisplay,359
+LP0954,Keyboard,GreenCell,316
+LP0955,Keyboard,VisionDisplay,432
+LP0955,RAM,Samsung,276
+LP0955,Motherboard,CoolTech,174
+LP0955,Cooling Fan,GreenCell,84
+LP0955,Touchpad,KeyTech,180
+LP0956,Keyboard,GreenCell,76
+LP0956,SSD,GreenCell,64
+LP0956,Motherboard,Kingston,424
+LP0956,Battery,Nvidia,451
+LP0956,RAM,Samsung,329
+LP0956,Touchpad,Kingston,103
+LP0956,Speaker,Kingston,151
+LP0957,Motherboard,VisionDisplay,71
+LP0957,GPU,CoolTech,416
+LP0957,SSD,KeyTech,299
+LP0957,Speaker,VisionDisplay,291
+LP0957,Battery,GreenCell,257
+LP0957,Touchpad,KeyTech,21
+LP0958,Keyboard,GreenCell,390
+LP0958,SSD,VisionDisplay,290
+LP0958,Touchpad,Samsung,320
+LP0958,Battery,Nvidia,294
+LP0958,RAM,IntelWorks,227
+LP0958,Speaker,Nvidia,152
+LP0958,GPU,IntelWorks,197
+LP0958,Cooling Fan,VisionDisplay,438
+LP0959,Motherboard,Samsung,120
+LP0959,Battery,Samsung,62
+LP0959,Display,GreenCell,146
+LP0959,Cooling Fan,IntelWorks,80
+LP0959,Speaker,Nvidia,46
+LP0960,Touchpad,VisionDisplay,385
+LP0960,Speaker,Nvidia,47
+LP0960,GPU,IntelWorks,123
+LP0960,Motherboard,GreenCell,51
+LP0960,Display,KeyTech,73
+LP0960,Keyboard,CoolTech,301
+LP0960,RAM,IntelWorks,61
+LP0961,SSD,CoolTech,436
+LP0961,Motherboard,VisionDisplay,143
+LP0961,Speaker,VisionDisplay,404
+LP0961,Display,CoolTech,402
+LP0961,Battery,VisionDisplay,321
+LP0962,Speaker,Kingston,370
+LP0962,GPU,IntelWorks,389
+LP0962,Motherboard,Samsung,70
+LP0962,Touchpad,Samsung,452
+LP0962,RAM,CoolTech,440
+LP0962,Cooling Fan,Kingston,464
+LP0962,Keyboard,Kingston,491
+LP0962,SSD,IntelWorks,341
+LP0963,Display,Kingston,291
+LP0963,Keyboard,GreenCell,381
+LP0963,Cooling Fan,VisionDisplay,31
+LP0963,Battery,CoolTech,492
+LP0963,Touchpad,GreenCell,305
+LP0964,Speaker,KeyTech,259
+LP0964,Motherboard,VisionDisplay,232
+LP0964,Cooling Fan,VisionDisplay,238
+LP0964,Display,IntelWorks,302
+LP0964,Keyboard,VisionDisplay,418
+LP0964,SSD,CoolTech,447
+LP0964,Touchpad,GreenCell,86
+LP0964,Battery,KeyTech,366
+LP0965,SSD,Kingston,448
+LP0965,Cooling Fan,KeyTech,40
+LP0965,Speaker,CoolTech,469
+LP0965,GPU,Nvidia,306
+LP0965,Motherboard,VisionDisplay,480
+LP0965,Touchpad,IntelWorks,113
+LP0965,Display,Samsung,300
+LP0965,Keyboard,IntelWorks,364
+LP0966,RAM,KeyTech,428
+LP0966,Cooling Fan,GreenCell,129
+LP0966,Motherboard,Nvidia,115
+LP0966,Speaker,GreenCell,442
+LP0966,Display,VisionDisplay,220
+LP0966,Battery,IntelWorks,424
+LP0966,SSD,Nvidia,328
+LP0967,Speaker,CoolTech,369
+LP0967,RAM,Kingston,53
+LP0967,Cooling Fan,Nvidia,337
+LP0967,Battery,VisionDisplay,145
+LP0967,Keyboard,Kingston,376
+LP0967,Touchpad,GreenCell,65
+LP0967,Motherboard,Kingston,48
+LP0967,Display,VisionDisplay,449
+LP0968,SSD,KeyTech,206
+LP0968,Battery,IntelWorks,436
+LP0968,GPU,Samsung,477
+LP0968,Motherboard,GreenCell,164
+LP0968,Cooling Fan,KeyTech,379
+LP0968,Keyboard,VisionDisplay,337
+LP0968,RAM,KeyTech,315
+LP0968,Touchpad,GreenCell,167
+LP0969,Speaker,Nvidia,327
+LP0969,Display,VisionDisplay,436
+LP0969,Keyboard,IntelWorks,181
+LP0969,Motherboard,KeyTech,43
+LP0969,GPU,GreenCell,71
+LP0969,Battery,Kingston,486
+LP0969,RAM,VisionDisplay,213
+LP0970,RAM,Kingston,139
+LP0970,Speaker,Samsung,301
+LP0970,GPU,VisionDisplay,67
+LP0970,Touchpad,IntelWorks,186
+LP0970,Battery,IntelWorks,439
+LP0970,Keyboard,VisionDisplay,470
+LP0970,Display,Samsung,486
+LP0970,Motherboard,CoolTech,235
+LP0971,Battery,KeyTech,302
+LP0971,Cooling Fan,Kingston,184
+LP0971,GPU,VisionDisplay,90
+LP0971,Speaker,VisionDisplay,483
+LP0971,Motherboard,CoolTech,484
+LP0971,Touchpad,CoolTech,188
+LP0971,Keyboard,VisionDisplay,88
+LP0972,Touchpad,Kingston,152
+LP0972,RAM,GreenCell,212
+LP0972,Cooling Fan,IntelWorks,410
+LP0972,SSD,CoolTech,102
+LP0972,Motherboard,KeyTech,395
+LP0972,Battery,Nvidia,29
+LP0973,SSD,Samsung,236
+LP0973,Touchpad,CoolTech,259
+LP0973,GPU,GreenCell,38
+LP0973,Cooling Fan,Kingston,53
+LP0973,RAM,CoolTech,72
+LP0973,Battery,IntelWorks,255
+LP0974,Motherboard,Samsung,406
+LP0974,Speaker,CoolTech,292
+LP0974,Cooling Fan,KeyTech,266
+LP0974,Touchpad,IntelWorks,130
+LP0974,Battery,VisionDisplay,269
+LP0974,Keyboard,Kingston,177
+LP0975,Speaker,Samsung,277
+LP0975,Motherboard,Kingston,381
+LP0975,Battery,CoolTech,363
+LP0975,Keyboard,GreenCell,216
+LP0975,Cooling Fan,IntelWorks,102
+LP0975,Touchpad,GreenCell,190
+LP0976,GPU,IntelWorks,249
+LP0976,Speaker,Nvidia,239
+LP0976,Touchpad,Samsung,89
+LP0976,Display,IntelWorks,248
+LP0976,Keyboard,Nvidia,369
+LP0976,Cooling Fan,KeyTech,93
+LP0976,Battery,CoolTech,54
+LP0977,RAM,Kingston,329
+LP0977,Keyboard,GreenCell,131
+LP0977,GPU,Nvidia,389
+LP0977,Speaker,CoolTech,330
+LP0977,Cooling Fan,IntelWorks,228
+LP0977,Display,IntelWorks,428
+LP0978,Speaker,IntelWorks,375
+LP0978,Touchpad,Kingston,419
+LP0978,GPU,Kingston,418
+LP0978,SSD,KeyTech,152
+LP0978,RAM,IntelWorks,197
+LP0978,Display,IntelWorks,371
+LP0978,Cooling Fan,GreenCell,262
+LP0979,Touchpad,Nvidia,151
+LP0979,GPU,IntelWorks,180
+LP0979,Display,KeyTech,369
+LP0979,Battery,Kingston,230
+LP0979,SSD,CoolTech,49
+LP0979,Keyboard,CoolTech,276
+LP0980,Cooling Fan,IntelWorks,143
+LP0980,RAM,Samsung,95
+LP0980,Speaker,GreenCell,264
+LP0980,Battery,KeyTech,460
+LP0980,Display,Nvidia,403
+LP0980,Keyboard,GreenCell,253
+LP0980,Motherboard,KeyTech,112
+LP0980,GPU,IntelWorks,381
+LP0981,Battery,CoolTech,445
+LP0981,Touchpad,Kingston,353
+LP0981,Cooling Fan,CoolTech,238
+LP0981,Motherboard,VisionDisplay,271
+LP0981,GPU,VisionDisplay,236
+LP0981,RAM,GreenCell,49
+LP0982,Battery,KeyTech,36
+LP0982,Speaker,Kingston,109
+LP0982,RAM,VisionDisplay,447
+LP0982,Motherboard,Nvidia,316
+LP0982,Touchpad,IntelWorks,126
+LP0982,Cooling Fan,GreenCell,115
+LP0982,Keyboard,IntelWorks,480
+LP0983,GPU,Nvidia,157
+LP0983,Speaker,CoolTech,444
+LP0983,Motherboard,VisionDisplay,51
+LP0983,Cooling Fan,Nvidia,299
+LP0983,Battery,IntelWorks,464
+LP0983,Display,VisionDisplay,250
+LP0984,Motherboard,IntelWorks,36
+LP0984,Keyboard,Samsung,318
+LP0984,Display,KeyTech,126
+LP0984,Speaker,GreenCell,231
+LP0984,Cooling Fan,CoolTech,113
+LP0984,GPU,Samsung,489
+LP0984,Touchpad,Samsung,212
+LP0984,RAM,KeyTech,456
+LP0985,Cooling Fan,Nvidia,143
+LP0985,Battery,IntelWorks,296
+LP0985,SSD,KeyTech,308
+LP0985,GPU,IntelWorks,399
+LP0985,Keyboard,Nvidia,407
+LP0986,SSD,VisionDisplay,377
+LP0986,Motherboard,KeyTech,397
+LP0986,Battery,KeyTech,85
+LP0986,Cooling Fan,CoolTech,378
+LP0986,Touchpad,GreenCell,408
+LP0986,RAM,CoolTech,112
+LP0986,GPU,VisionDisplay,101
+LP0987,GPU,Samsung,415
+LP0987,Keyboard,Nvidia,50
+LP0987,RAM,GreenCell,445
+LP0987,Cooling Fan,Nvidia,387
+LP0987,Motherboard,Nvidia,251
+LP0988,RAM,KeyTech,321
+LP0988,Battery,CoolTech,155
+LP0988,Cooling Fan,Kingston,31
+LP0988,GPU,CoolTech,390
+LP0988,Display,IntelWorks,278
+LP0988,SSD,Nvidia,174
+LP0988,Speaker,IntelWorks,234
+LP0988,Touchpad,CoolTech,206
+LP0989,Motherboard,IntelWorks,104
+LP0989,Battery,GreenCell,415
+LP0989,Touchpad,VisionDisplay,482
+LP0989,SSD,Kingston,417
+LP0989,Cooling Fan,Samsung,471
+LP0989,RAM,KeyTech,337
+LP0989,Display,IntelWorks,163
+LP0989,Speaker,Samsung,297
+LP0990,Touchpad,KeyTech,146
+LP0990,Keyboard,KeyTech,108
+LP0990,Battery,IntelWorks,105
+LP0990,Display,KeyTech,203
+LP0990,Cooling Fan,VisionDisplay,40
+LP0991,RAM,KeyTech,192
+LP0991,Touchpad,Samsung,188
+LP0991,Speaker,IntelWorks,135
+LP0991,GPU,Nvidia,317
+LP0991,Motherboard,Samsung,375
+LP0991,Cooling Fan,KeyTech,339
+LP0992,Keyboard,GreenCell,323
+LP0992,Touchpad,Nvidia,87
+LP0992,Battery,IntelWorks,435
+LP0992,Cooling Fan,IntelWorks,197
+LP0992,Display,KeyTech,82
+LP0992,Speaker,GreenCell,445
+LP0993,SSD,Nvidia,180
+LP0993,Display,GreenCell,48
+LP0993,Battery,VisionDisplay,93
+LP0993,Touchpad,KeyTech,274
+LP0993,Motherboard,Nvidia,121
+LP0993,Keyboard,VisionDisplay,266
+LP0993,Cooling Fan,CoolTech,178
+LP0994,SSD,VisionDisplay,309
+LP0994,Battery,KeyTech,481
+LP0994,Display,CoolTech,195
+LP0994,Motherboard,VisionDisplay,320
+LP0994,Keyboard,GreenCell,112
+LP0994,Cooling Fan,Nvidia,248
+LP0994,Speaker,VisionDisplay,379
+LP0995,Display,GreenCell,236
+LP0995,Cooling Fan,Samsung,262
+LP0995,RAM,Kingston,97
+LP0995,Touchpad,Nvidia,148
+LP0995,Speaker,Nvidia,72
+LP0995,Keyboard,GreenCell,379
+LP0996,Touchpad,IntelWorks,22
+LP0996,GPU,GreenCell,357
+LP0996,Display,Samsung,181
+LP0996,Keyboard,GreenCell,158
+LP0996,Cooling Fan,IntelWorks,117
+LP0997,Display,Kingston,25
+LP0997,Touchpad,Kingston,68
+LP0997,RAM,Samsung,127
+LP0997,Cooling Fan,GreenCell,71
+LP0997,Speaker,VisionDisplay,173
+LP0997,Battery,KeyTech,361
+LP0998,Speaker,GreenCell,153
+LP0998,Cooling Fan,CoolTech,329
+LP0998,Touchpad,GreenCell,211
+LP0998,SSD,Samsung,460
+LP0998,Keyboard,GreenCell,98
+LP0999,Speaker,Kingston,378
+LP0999,Touchpad,VisionDisplay,322
+LP0999,Keyboard,GreenCell,396
+LP0999,RAM,IntelWorks,174
+LP0999,Battery,CoolTech,272
+LP1000,GPU,KeyTech,126
+LP1000,Cooling Fan,KeyTech,407
+LP1000,Touchpad,GreenCell,321
+LP1000,Speaker,Nvidia,201
+LP1000,SSD,VisionDisplay,203
